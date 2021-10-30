@@ -16,8 +16,8 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run `update_lib`
         run: |
-          chmod +x update_lib.sh
-          ./update_lib.sh
+          chmod +x script/update_lib.sh
+          ./script/update_lib.sh
       # Runs  Commit the changes, if any
       - name: Commit the changes, if any
         uses: stefanzweifel/git-auto-commit-action@v4
