@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="334.375px" preserveAspectRatio="none" style="width:285px;height:334px;background:#00000000;" version="1.1" viewBox="0 0 285 334" width="285.4167px" zoomAndPan="magnify"><defs><linearGradient id="gxkh4bolwttgh0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#B8B8B8"/><stop offset="100%" stop-color="#999999"/></linearGradient><linearGradient id="gxkh4bolwttgh1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#7C9AB9"/><stop offset="100%" stop-color="#304D6D"/></linearGradient></defs><g><rect fill="url(#gxkh4bolwttgh0)" height="45.0846" rx="4.1667" ry="4.1667" style="stroke:#6B6B6B;stroke-width:1.0416666666666667;" width="193.75" x="34.1146" y="12.5"/><text fill="#304D6D" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="166.6667" x="47.6563" y="42.2546">spacelab theme</text><rect fill="url(#gxkh4bolwttgh1)" height="45.8008" rx="13.0208" ry="13.0208" style="stroke:#304D6D;stroke-width:1.5625;" width="67.7083" x="97.6563" y="60.7096"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="36.4583" x="113.2813" y="87.9374">World</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="131.5104" x2="131.5104" y1="106.5104" y2="127.3438"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="54.1667" x2="54.1667" y1="127.3438" y2="148.1771"/><rect fill="url(#gxkh4bolwttgh1)" height="45.8008" rx="13.0208" ry="13.0208" style="stroke:#304D6D;stroke-width:1.5625;" width="87.5" x="10.4167" y="148.1771"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="52.0833" x="26.0417" y="175.4049">America</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="54.1667" x2="64.5833" y1="223.1283" y2="223.1283"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="50" x="69.7917" y="227.4556">Canada</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="54.1667" x2="64.5833" y1="265.804" y2="265.804"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="43.75" x="69.7917" y="270.1314">Mexico</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="54.1667" x2="64.5833" y1="308.4798" y2="308.4798"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="26.0417" x="69.7917" y="312.8072">USA</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="54.1667" x2="54.1667" y1="193.9779" y2="308.4798"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="192.1875" x2="192.1875" y1="127.3438" y2="148.1771"/><rect fill="url(#gxkh4bolwttgh1)" height="45.8008" rx="13.0208" ry="13.0208" style="stroke:#304D6D;stroke-width:1.5625;" width="78.125" x="153.125" y="148.1771"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="46.875" x="168.75" y="175.4049">Europe</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="192.1875" x2="202.6042" y1="223.1283" y2="223.1283"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="207.8125" y="227.4556">England</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="192.1875" x2="202.6042" y1="265.804" y2="265.804"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="57.2917" x="207.8125" y="270.1314">Germany</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="192.1875" x2="202.6042" y1="308.4798" y2="308.4798"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="36.4583" x="207.8125" y="312.8072">Spain</text><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="192.1875" x2="192.1875" y1="193.9779" y2="308.4798"/><line style="stroke:#A80036;stroke-width:1.0416666666666667;" x1="54.1667" x2="192.1875" y1="127.3438" y2="127.3438"/><!--MD5=[316e23783d6dfaf4df92f7c16623f30e]
+@startwbs
+!pragma layout smetana
+!theme spacelab
+title spacelab theme
+* World
+** America 
+***_ Canada 
+***_ Mexico
+***_ USA
+** Europe
+***_  England
+***_  Germany
+***_  Spain
+@endwbs
+
+@startwbs
+!pragma layout smetana
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #333333
+skinparam stereotype {
+    CBackgroundColor #b8b8b8
+    CBorderColor #6b6b6b
+    ABackgroundColor #4cbc5c
+    ABorderColor #32a243
+    IBackgroundColor #dc4e4d
+    IBorderColor #900100
+    EBackgroundColor #e19e4d
+    EBorderColor #945200
+    NBackgroundColor #70b8f7
+    NBorderColor #246baa
+}
+skinparam title {
+	FontColor	                 #304d6d
+	BorderColor	                 #6b6b6b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #b8b8b8-#999999
+}
+
+skinparam legend {
+	BackgroundColor #999999
+	BorderColor #6b6b6b
+	FontColor #eeeeee
+}
+
+skinparam swimlane {
+	BorderColor #3399f3
+	BorderThickness 2
+	TitleBackgroundColor  #b8b8b8-#999999
+	TitleFontColor #304d6d
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BarColor #3cb521
+	StartColor #3399f3
+	EndColor #3399f3
+	DiamondBackgroundColor #b8b8b8-#6b6b6b
+  	DiamondBorderColor #6b6b6b
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #446e9b
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #446e9b
+	TitleFontColor #446e9b
+	BackgroundColor transparent
+	StartColor #446e9b
+	EndColor #446e9b
+	BoxBackgroundColor transparent
+	BoxBorderColor #333333
+	BoxFontColor #333333
+	DelayFontColor #333333
+	LifeLineBorderColor #999999
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #6b6b6b-#6b6b6b
+	GroupBorderColor #333333
+	GroupFontColor #333333
+	GroupHeaderFontColor #3399f3
+	GroupBackgroundColor #6b6b6b-#6b6b6b
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #707070-#242424
+    DividerBorderColor #333333
+    DividerBorderThickness 2
+    DividerFontColor #eeeeee
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #333333
+	ReferenceFontColor #333333
+	ReferenceHeaderFontColor #3399f3
+	ReferenceHeaderBackgroundColor #6b6b6b-#6b6b6b
+	StereotypeFontColor #ffffff
+}
+
+
+skinparam partition {
+	BorderColor #446e9b
+	FontColor #446e9b
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam agent {
+	BackgroundColor #d47500
+	BorderColor #e19e4d
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #333333
+	BorderColor #242424
+	FontColor #eeeeee
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam interface {
+	BackgroundColor  #900100
+	BorderColor  #cd0200
+	FontColor #333333
+}
+
+
+skinparam storage {
+	BackgroundColor #d47500
+  	BorderColor #945200
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #999999
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #333333
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	FontColor #ffffff
+	HeaderBackgroundColor #7c9ab9-#446e9b
+	StereotypeFontColor #eeeeee
+	BorderThickness 1
+	AttributeFontColor #eeeeee
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StereotypeFontColor #333333
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	BackgroundColor #b8b8b8-#6b6b6b
+	BorderThickness 2
+	StereotypeFontColor #446e9b
+}
+
+
+skinparam package {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #446e9b
+	FontColor #446e9b
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #d47500
+	FontColor #d47500
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #b8b8b8-#6b6b6b
+  	BorderColor #3399f3
+	FontColor #3399f3
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+	StartColor #3399f3
+	EndColor #3399f3
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #304d6d
+	BackgroundColor #7c9ab9-#304d6d
+}
+
+
+skinparam card {
+	BackgroundColor #70b8f7-#246baa
+	BorderColor #246baa
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #6b6b6b-#6b6b6b
+	BorderColor #eeeeee
+	FontColor #eeeeee
+}
+
+
+title spacelab theme
+* World
+** America 
+***_ Canada 
+***_ Mexico
+***_ USA
+** Europe
+***_  England
+***_  Germany
+***_  Spain
+@endwbs
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

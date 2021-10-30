@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="588px" preserveAspectRatio="none" style="width:334px;height:588px;background:#FFFFFF;" version="1.1" viewBox="0 0 334 588" width="334px" zoomAndPan="magnify"><defs><filter height="300%" id="f1n2b6ece9mw83" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="none" height="26.2969" style="stroke:none;stroke-width:1.0;" width="165" x="77.75" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="155" x="82.75" y="22.9951">resume-light theme</text><polygon fill="#FEFECE" filter="url(#f1n2b6ece9mw83)" points="223.5,136.2969,235.5,148.2969,223.5,160.2969,211.5,148.2969,223.5,136.2969" style="stroke:#A80036;stroke-width:1.5;"/><rect fill="#000000" filter="url(#f1n2b6ece9mw83)" height="8" style="stroke:none;stroke-width:1.0;" width="80" x="91.5" y="228.2969"/><rect fill="#000000" filter="url(#f1n2b6ece9mw83)" height="8" style="stroke:none;stroke-width:1.0;" width="80" x="99.5" y="451.2969"/><ellipse cx="261.5" cy="238.2969" filter="url(#f1n2b6ece9mw83)" rx="10" ry="10" style="stroke:#000000;stroke-width:1.0;fill:none;"/><ellipse cx="262" cy="238.7969" fill="#000000" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><ellipse cx="223.5" cy="54.2969" fill="#000000" filter="url(#f1n2b6ece9mw83)" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><g id="State1"><rect fill="#FEFECE" height="50" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="65" x="7" y="438.2969"/><line style="stroke:#A80036;stroke-width:1.5;" x1="7" x2="72" y1="464.5938" y2="464.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="17" y="456.292">State1</text></g><g id="State2"><rect fill="#FEFECE" height="50" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="65" x="109" y="320.2969"/><line style="stroke:#A80036;stroke-width:1.5;" x1="109" x2="174" y1="346.5938" y2="346.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="45" x="119" y="338.292">State2</text></g><ellipse cx="87.5" cy="566.2969" filter="url(#f1n2b6ece9mw83)" rx="10" ry="10" style="stroke:#000000;stroke-width:1.0;fill:none;"/><ellipse cx="88" cy="566.7969" fill="#000000" rx="6" ry="6" style="stroke:none;stroke-width:1.0;"/><path d="M223.5,68.3326 C223.5,85.6061 223.5,118.842 223.5,136.1708 " fill="none" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="223.5,136.1708,227.5,127.1708,223.5,131.1708,219.5,127.1708,223.5,136.1708" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="64" x="224.5" y="99.3638">from start</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="227.5" y="114.4966">to choice</text><path d="M211.2632,149.0585 C191.0294,149.4094 151.001,153.4138 132.5,178.2969 C121.7565,192.7464 124.8407,214.9049 128.1254,228.1619 " fill="none" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="128.1254,228.1619,129.8435,218.4641,126.9229,223.3087,122.0783,220.388,128.1254,228.1619" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="133.5" y="191.3638">from choice</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="41" x="150.5" y="206.4966">to fork</text><path d="M226.3545,160.4169 C235.7225,199.4934 262.0269,332.8662 209.5,420.2969 C200.9606,434.5107 185.6053,444.5051 171.4479,451.1679 " fill="none" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="171.4479,451.1679,181.2945,450.9547,175.972,449.0387,177.8879,443.7162,171.4479,451.1679" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="242.5" y="283.3638">from choice</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="39" x="260.5" y="298.4966">to join</text><path d="M229.1499,160.4989 C231.7831,165.8437 234.9013,172.3551 237.5,178.2969 C244.979,195.3968 252.7251,215.6219 257.3268,227.9502 " fill="none" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="257.3268,227.9502,257.927,218.1196,255.5783,223.2659,250.4321,220.9172,257.3268,227.9502" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="75" x="251.5" y="191.3638">from choice</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="41" x="268.5" y="206.4966">to end</text><path d="M109.979,252.4162 C87.6163,265.325 53.9131,288.9226 39.5,320.2969 C21.9533,358.4922 27.7794,408.7981 33.6282,438.1403 " fill="none" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="33.6282,438.1403,35.7917,428.532,32.6508,433.2368,27.946,430.0959,33.6282,438.1403" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="40.5" y="342.3638">from fork</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="44.5" y="357.4966">to state</text><path d="M132.5702,252.3197 C134.1321,268.4077 137.0763,298.7323 139.1562,320.1561 " fill="none" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="139.1562,320.1561,142.2678,310.8117,138.6731,315.1795,134.3053,311.5847,139.1562,320.1561" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="58" x="138.5" y="283.3638">from fork</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="50" x="142.5" y="298.4966">to state</text><path d="M140.8759,370.7258 C140.7404,376.4878 140.6061,382.6088 140.5,388.2969 C140.0829,410.6492 139.7708,436.8025 139.6137,451.2636 " fill="none" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="139.6137,451.2636,143.7112,442.3076,139.668,446.2639,135.7117,442.2207,139.6137,451.2636" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="67" x="141.5" y="401.3638">from state</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="39" x="155.5" y="416.4966">to join</text><path d="M35.5124,488.5094 C34.2245,503.77 34.9182,523.3441 43.5,538.2969 C50.9686,551.31 66.9257,559.5517 77.4303,563.7947 " fill="none" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="77.4303,563.7947,70.5834,556.7151,72.7942,561.9221,67.5872,564.1329,77.4303,563.7947" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="67" x="44.5" y="519.3638">from state</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="41" x="57.5" y="534.4966">to end</text><path d="M136.8066,475.3782 C132.8751,490.3459 124.6814,517.5378 112.5,538.2969 C108.3957,545.2913 102.5255,552.2054 97.5047,557.5272 " fill="none" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="97.5047,557.5272,106.5903,553.7258,100.9359,553.8903,100.7713,548.2359,97.5047,557.5272" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="56" x="128.5" y="519.3638">from join</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="41" x="136" y="534.4966">to end</text><!--MD5=[8f24942e66181f3698e8eb23ad850115]
+@startuml
+!pragma layout smetana
+!theme resume-light
+title resume-light theme
+state choice1 <<choice>>
+state fork1   <<fork>>
+state join2   <<join>>
+state end3    <<end>>
+
+[*]     - -> choice1 : from start\nto choice
+choice1 - -> fork1   : from choice\nto fork
+choice1 - -> join2   : from choice\nto join
+choice1 - -> end3    : from choice\nto end
+
+fork1   - - -> State1 : from fork\nto state
+fork1   - -> State2  : from fork\nto state
+
+State2  - -> join2   : from state\nto join
+State1  - -> [*]     : from state\nto end
+
+join2   - -> [*]     : from join\nto end
+@enduml
+
+@startuml
+!pragma layout smetana
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+skinparam  {
+    skinparam defaultFontName   "Verdana"
+    skinparam defaultFontSize   12
+    defaultTextAlignment        center
+    shadowing                   false
+    RoundCorner                 10
+    TitleFontSize               18
+}
+<style>
+    wbsDiagram {
+        LineColor #f0f0f0
+        BorderThickness 3
+        BackgroundColor #f9f9f9
+        FontColor #6a9fb5
+        :depth(0) {
+            fontSize 16
+            fontStyle bold
+        }
+        :depth(1) {
+            fontSize 14
+            padding 5
+            fontStyle bold
+        }
+        :depth(2) {
+            fontSize 12
+            padding 3
+        }
+        :depth(3) {
+            fontSize 10
+            padding 2
+        }
+
+    }
+</style>
+title resume-light theme
+state choice1 <<choice>>
+state fork1   <<fork>>
+state join2   <<join>>
+state end3    <<end>>
+
+[*]     - -> choice1 : from start\nto choice
+choice1 - -> fork1   : from choice\nto fork
+choice1 - -> join2   : from choice\nto join
+choice1 - -> end3    : from choice\nto end
+
+fork1   - - -> State1 : from fork\nto state
+fork1   - -> State2  : from fork\nto state
+
+State2  - -> join2   : from state\nto join
+State1  - -> [*]     : from state\nto end
+
+join2   - -> [*]     : from join\nto end
+@enduml
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

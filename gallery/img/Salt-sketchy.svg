@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="211.4583px" preserveAspectRatio="none" style="width:198px;height:211px;background:#00000000;" version="1.1" viewBox="0 0 198 211" width="198.9583px" zoomAndPan="magnify"><defs><linearGradient id="gjva1ni8evibf0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#666666"/><stop offset="100%" stop-color="#555555"/></linearGradient></defs><g><polygon fill="url(#gjva1ni8evibf0)" points="11.4583,7.2917,11.4583,7.5106,21.6299,6.8601,31.8015,7.493,41.973,7.708,52.1446,6.5485,62.3162,7.2107,72.4877,6.8474,82.6593,6.8922,92.8309,7.2207,103.0025,6.5715,113.174,7.8684,123.3456,6.6351,133.5172,7.0857,143.6887,7.7416,153.8603,7.2023,164.0319,7.3627,174.2034,7.2584,184.375,7.2917,184.3987,7.3489,184.996,7.6125,185.6313,7.9677,186.2319,8.2392,186.8223,8.4859,187.3213,8.5121,187.403,8.5459,187.7141,9.1629,188.0347,9.7839,187.8222,10.184,188.5152,10.9592,188.5417,11.4583,188.4387,11.4583,188.727,18.8086,188.3698,26.1589,188.5179,33.5091,188.7992,40.8594,188.5417,48.2096,188.526,48.2032,188.3314,48.8129,188.1621,49.4331,187.943,50.0327,187.5641,50.5661,187.3213,51.1559,187.3594,51.248,186.656,51.2164,186.1806,51.7353,185.6264,52.064,185.0233,52.2748,184.375,52.3763,184.375,53.0149,174.2034,51.8731,164.0319,51.6969,153.8603,51.729,143.6887,52.315,133.5172,52.1716,123.3456,53.0861,113.174,52.1943,103.0025,52.019,92.8309,52.6141,82.6593,51.6817,72.4877,51.8355,62.3162,53.0523,52.1446,52.8301,41.973,53.1414,31.8015,52.0411,21.6299,52.7088,11.4583,52.3763,11.5368,52.5657,10.8063,51.9807,10.2671,51.8574,9.7073,51.6845,9.1879,51.6091,8.5121,51.1559,8.5107,51.1554,8.4164,50.6281,7.8463,49.9038,7.5626,49.2982,7.6973,48.8658,7.2917,48.2096,7.0427,48.2096,7.4684,40.8594,7.3634,33.5091,7.1986,26.1589,7.1688,18.8086,7.2917,11.4583,7.4388,11.5193,7.4397,10.8293,7.9697,10.3585,7.8466,9.6171,8.466,9.1834,8.5121,8.5121,8.5764,8.6674,9.1339,8.3466,9.6968,8.039,10.3764,8.0129,10.9506,7.7326,11.4583,7.2917" style="stroke:#4D4D4D;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Segoe Print" font-size="20.8333" lengthAdjust="spacing" textLength="154.1667" x="20.8333" y="37.0463">sketchy theme</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="88.5417" x="15.1042" y="68.1458">Just plain text</text><polygon fill="#EEEEEE" points="22.9167,75.7813,22.9167,76.0002,33.3333,75.3497,43.75,75.9826,54.1667,76.1976,64.5833,75.0381,75,75.7003,85.4167,75.337,95.8333,75.3818,106.25,75.7103,116.6667,75.0611,127.0833,76.358,137.5,75.1247,147.9167,75.5752,158.3333,75.7813,158.3907,75.9198,159.0585,76.0588,159.8155,76.4133,160.5388,76.6863,161.3033,77.0589,162.0162,77.3067,162.0929,77.3385,162.5092,78.1211,162.8416,78.869,163.1494,79.6067,163.3183,80.2868,163.5417,80.9896,163.7026,80.9896,163.7855,82.6497,163.2913,84.3099,163.7773,85.9701,163.4387,87.6302,163.5417,89.2904,163.7129,89.3613,163.0778,89.9612,162.9095,90.7544,162.8643,91.5986,162.3056,92.2302,162.0162,92.9732,162.0302,93.007,161.3246,93.3869,160.5983,93.7169,159.806,93.8873,159.1081,94.2857,158.3333,94.4987,158.3333,93.9024,147.9167,94.7949,137.5,95.0697,127.0833,94.9618,116.6667,95.1373,106.25,93.9955,95.8333,93.8193,85.4167,93.8514,75,94.4374,64.5833,94.294,54.1667,95.2085,43.75,94.3167,33.3333,94.1414,22.9167,94.4987,22.947,94.5719,22.0915,93.9797,21.3745,93.722,20.7932,93.7916,20.0283,93.4181,19.2338,92.9732,19.4694,93.0708,18.8255,92.1939,18.726,91.5425,18.5079,90.842,17.8619,89.9642,17.7083,89.2904,17.675,89.2904,17.7521,87.6302,17.9346,85.9701,17.7069,84.3099,17.8689,82.6497,17.7083,80.9896,17.5307,80.916,17.7962,80.163,18.4801,79.5834,18.3936,78.6846,19.092,78.1109,19.2338,77.3067,19.2613,77.373,19.9348,76.9157,20.6599,76.5831,21.5045,76.5386,22.1403,75.9903,22.9167,75.7813" style="stroke:#000000;stroke-width:2.604166666666667;"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="35.4167" y="89.4674">This is my button</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="35.9375" y="110.789">Unchecked radio</text><polygon fill="none" points="27.6329,107.7285,26.8695,108.7716,25.9665,110.2995,24.675,111.3292,23.3179,111.8923,22.2358,111.9411,20.845,111.2369,19.5327,110.7769,18.5367,109.8428,18.0142,108.7735,17.7044,107.9221,17.4008,106.8099,16.9081,105.8529,17.2868,104.9185,17.6185,103.8949,18.8633,103.0854,19.7391,102.035,20.8231,101.6862,22.1118,101.3859,23.7644,101.5643,24.6695,101.9912,25.7219,102.1847,27.0015,103.4957,27.4476,104.8797,27.6414,105.824,27.4219,107.3801" style="stroke:#000000;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="35.9375" y="127.4231">Checked radio</text><polygon fill="none" points="27.6329,124.3626,26.8695,125.4057,25.9665,126.9336,24.675,127.9633,23.3179,128.5264,22.2358,128.5753,20.845,127.8711,19.5327,127.411,18.5367,126.4769,18.0142,125.4076,17.7044,124.5562,17.4008,123.444,16.9081,122.487,17.2868,121.5526,17.6185,120.529,18.8633,119.7195,19.7391,118.6691,20.8231,118.3203,22.1118,118.02,23.7644,118.1984,24.6695,118.6253,25.7219,118.8188,27.0015,120.1298,27.4476,121.5138,27.6414,122.4581,27.4219,124.0142" style="stroke:#000000;stroke-width:1.5625;"/><polygon fill="#000000" points="24.4907,123.6025,24.1853,124.0197,23.8241,124.6309,23.3075,125.0427,22.7647,125.268,22.3318,125.2875,21.7755,125.0058,21.2506,124.8218,20.8522,124.4482,20.6432,124.0205,20.5193,123.6799,20.3978,123.235,20.2008,122.8522,20.3522,122.4785,20.4849,122.069,20.9828,121.7452,21.3331,121.3251,21.7667,121.1856,22.2822,121.0654,22.9433,121.1368,23.3053,121.3075,23.7263,121.3849,24.2381,121.9093,24.4165,122.4629,24.494,122.8407,24.4062,123.4631" style="stroke:#000000;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="100" x="35.9375" y="144.0572">Unchecked box</text><polygon fill="none" points="17.1875,134.5215,17.1875,134.5945,19.2708,134.3776,21.3542,134.5886,23.4375,134.6603,25.5208,134.2738,27.6042,134.5215,27.5772,134.5215,27.4561,136.6048,27.471,138.6882,27.5805,140.7715,27.3641,142.8548,27.6042,144.9382,27.6042,145.1304,25.5208,144.7193,23.4375,144.8695,21.3542,145.0881,19.2708,144.9084,17.1875,144.9382,17.2112,144.9382,17.1764,142.8548,17.2495,140.7715,17.2705,138.6882,17.3909,136.6048,17.1875,134.5215" style="stroke:#000000;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="83.3333" x="35.9375" y="160.6913">Checked box</text><polygon fill="none" points="17.1875,151.1556,17.1875,151.2286,19.2708,151.0117,21.3542,151.2227,23.4375,151.2944,25.5208,150.9079,27.6042,151.1556,27.5772,151.1556,27.4561,153.2389,27.471,155.3223,27.5805,157.4056,27.3641,159.4889,27.6042,161.5723,27.6042,161.7645,25.5208,161.3534,23.4375,161.5036,21.3542,161.7222,19.2708,161.5425,17.1875,161.5723,17.2112,161.5723,17.1764,159.4889,17.2495,157.4056,17.2705,155.3223,17.3909,153.2389,17.1875,151.1556" style="stroke:#000000;stroke-width:1.5625;"/><polygon fill="#000000" points="18.2292,155.3385,18.2808,155.3901,18.7524,155.8618,19.5266,156.636,20.2023,157.3117,20.554,157.6634,21.3542,158.4635,21.3329,158.447,22.6956,156.4976,24.1657,154.6318,25.7105,152.824,26.998,150.8162,28.6458,149.0885,28.7818,149.2245,27.0328,150.3921,25.6806,151.9567,24.3769,153.5696,22.7914,154.9008,21.3542,156.3802,21.3617,156.4027,20.7257,156.1614,20.1238,156.0223,19.5054,155.834,18.9185,155.7398,18.2292,155.3385" style="stroke:#000000;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="98.9583" x="18.2292" y="177.3254">Enter text here</text><path d="M16.1458,180.2734 L16.1458,180.5654 L26.3542,179.698 L36.5625,180.5419 L46.7708,180.8285 L56.9792,179.2826 L67.1875,180.1655 L77.3958,179.6811 L87.6042,179.7408 L97.8125,180.1788 L108.0208,179.3132 L118.2292,181.0424 L128.4375,179.398 L138.6458,179.9988 L148.8542,180.8734 L159.0625,180.1543 L169.2708,180.2734 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M16.1458,177.1484 L16.2431,177.1484 L15.954,177.5651 L16.2353,177.9818 L16.3309,178.3984 L15.8156,178.8151 L16.1458,179.2318 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M169.2708,177.1484 L169.3681,177.1484 L169.079,177.5651 L169.3603,177.9818 L169.4559,178.3984 L168.9406,178.8151 L169.2708,179.2318 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><polygon fill="#EEEEEE" points="15.1042,184.4401,15.1042,184.659,25.4557,184.0085,35.8073,184.6414,46.1589,184.8564,56.5104,183.697,66.862,184.3592,77.2135,183.9958,87.5651,184.0406,97.9167,184.3691,108.2682,183.7199,118.6198,185.0168,128.9714,183.7836,139.3229,184.2341,149.6745,184.89,160.026,184.3508,170.3776,184.5112,180.7292,184.4401,180.7181,184.4401,180.7912,187.9753,180.8122,191.5104,180.9325,195.0456,180.9622,198.5807,180.7292,202.1159,180.7292,202.8234,170.3776,202.3811,160.026,202.5988,149.6745,202.8474,139.3229,201.3647,128.9714,202.8227,118.6198,201.807,108.2682,202.6719,97.9167,201.6002,87.5651,202.0445,77.2135,202.8884,66.862,202.0651,56.5104,202.2256,46.1589,202.4686,35.8073,202.5495,25.4557,202.1118,15.1042,202.1159,15.2039,202.1159,14.9054,198.5807,15.2029,195.0456,15.2945,191.5104,15.2585,187.9753,15.1042,184.4401" style="stroke:#000000;stroke-width:1.0416666666666667;"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="106.25" x="17.1875" y="198.1262">This is a droplist</text><path d="M169.2708,184.4401 L169.3681,184.4401 L169.079,187.9753 L169.3603,191.5104 L169.4559,195.0456 L168.9406,198.5807 L169.2708,202.1159 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><polygon fill="#000000" points="172.3958,190.6901,172.3958,190.7631,173.6458,190.5462,174.8958,190.7572,176.1458,190.8289,177.3958,190.4424,178.6458,190.6901,178.6217,190.678,177.8885,191.8671,177.2769,193.1173,176.7497,194.4099,175.9313,195.5563,175.5208,196.9076,175.6926,196.9939,174.7003,195.5658,174.2095,194.3897,173.7798,193.2444,172.9942,191.9202,172.3958,190.6901" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M14.0625,55.5013 L14.0625,55.7932 L24.6094,54.9259 L35.1563,55.7698 L45.7031,56.0564 L56.25,54.5105 L66.7969,55.3934 L77.3438,54.9089 L87.8906,54.9687 L98.4375,55.4066 L108.9844,54.5411 L119.5313,56.2702 L130.0781,54.6259 L140.625,55.2266 L151.1719,56.1012 L161.7188,55.3822 L172.2656,55.5961 L182.8125,55.5013 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M14.0625,204.1992 L14.0625,204.4911 L24.6094,203.6238 L35.1563,204.4677 L45.7031,204.7543 L56.25,203.2084 L66.7969,204.0913 L77.3438,203.6069 L87.8906,203.6666 L98.4375,204.1046 L108.9844,203.239 L119.5313,204.9682 L130.0781,203.3238 L140.625,203.9245 L151.1719,204.7991 L161.7188,204.0801 L172.2656,204.294 L182.8125,204.1992 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M14.0625,55.5013 L14.1598,55.5013 L13.8707,58.8281 L14.152,62.1549 L14.2475,65.4818 L13.7322,68.8086 L14.0625,72.1354 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M182.8125,55.5013 L182.9098,55.5013 L182.6207,58.8281 L182.902,62.1549 L182.9975,65.4818 L182.4822,68.8086 L182.8125,72.1354 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M14.0625,183.3984 L14.1598,183.3984 L13.8707,187.5586 L14.152,191.7188 L14.2475,195.8789 L13.7322,200.0391 L14.0625,204.1992 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M182.8125,183.3984 L182.9098,183.3984 L182.6207,187.5586 L182.902,191.7188 L182.9975,195.8789 L182.4822,200.0391 L182.8125,204.1992 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M14.0625,148.0469 L14.1598,148.0469 L13.8707,151.3737 L14.152,154.7005 L14.2475,158.0273 L13.7322,161.3542 L14.0625,164.681 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M182.8125,148.0469 L182.9098,148.0469 L182.6207,151.3737 L182.902,154.7005 L182.9975,158.0273 L182.4822,161.3542 L182.8125,164.681 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M14.0625,114.7786 L14.1598,114.7786 L13.8707,118.1055 L14.152,121.4323 L14.2475,124.7591 L13.7322,128.0859 L14.0625,131.4128 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M182.8125,114.7786 L182.9098,114.7786 L182.6207,118.1055 L182.902,121.4323 L182.9975,124.7591 L182.4822,128.0859 L182.8125,131.4128 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M14.0625,72.1354 L14.1598,72.1354 L13.8707,77.3372 L14.152,82.5391 L14.2475,87.7409 L13.7322,92.9427 L14.0625,98.1445 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M182.8125,72.1354 L182.9098,72.1354 L182.6207,77.3372 L182.902,82.5391 L182.9975,87.7409 L182.4822,92.9427 L182.8125,98.1445 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M14.0625,164.681 L14.1598,164.681 L13.8707,168.4245 L14.152,172.168 L14.2475,175.9115 L13.7322,179.6549 L14.0625,183.3984 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M182.8125,164.681 L182.9098,164.681 L182.6207,168.4245 L182.902,172.168 L182.9975,175.9115 L182.4822,179.6549 L182.8125,183.3984 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M14.0625,131.4128 L14.1598,131.4128 L13.8707,134.7396 L14.152,138.0664 L14.2475,141.3932 L13.7322,144.7201 L14.0625,148.0469 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M182.8125,131.4128 L182.9098,131.4128 L182.6207,134.7396 L182.902,138.0664 L182.9975,141.3932 L182.4822,144.7201 L182.8125,148.0469 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M14.0625,98.1445 L14.1598,98.1445 L13.8707,101.4714 L14.152,104.7982 L14.2475,108.125 L13.7322,111.4518 L14.0625,114.7786 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><path d="M182.8125,98.1445 L182.9098,98.1445 L182.6207,101.4714 L182.902,104.7982 L182.9975,108.125 L182.4822,111.4518 L182.8125,114.7786 " fill="none" style="stroke:#000000;stroke-width:1.0416666666666667;"/><!--MD5=[b55ca93c3fec7caf8115bed3f49e3969]
+@startsalt
+!pragma layout smetana
+!theme sketchy
+title sketchy theme
+{+
+  Just plain text
+  [This is my button]
+  ()  Unchecked radio
+  (X) Checked radio
+  []  Unchecked box
+  [X] Checked box
+  "Enter text here   "
+  ^This is a droplist^
+}
+@endsalt
+
+@startsalt
+!pragma layout smetana
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+skinparam handwritten true
+skinparam shadowing false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Segoe Print"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #555555
+skinparam stereotype {
+    CBackgroundColor #666666
+    CBorderColor #4d4d4d
+    ABackgroundColor #3eb058
+    ABorderColor #24963e
+    IBackgroundColor #e04958
+    IBorderColor #c6303e
+    EBackgroundColor #ffc720
+    EBorderColor #e6ae06
+    NBackgroundColor #2eabbf
+    NBorderColor #1592a6
+}
+skinparam title {
+	FontColor	                 #ffffff
+	BorderColor	                 #4d4d4d
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #666666-#555555
+}
+
+skinparam legend {
+	BackgroundColor #555555
+	BorderColor #4d4d4d
+	FontColor #ffffff
+}
+
+skinparam swimlane {
+	BorderColor #17a2b8
+	BorderThickness 2
+	TitleBackgroundColor  #666666-#555555
+	TitleFontColor #ffffff
+}
+
+
+skinparam activity {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+	BarColor #28a745
+	StartColor #17a2b8
+	EndColor #17a2b8
+	DiamondBackgroundColor #666666
+  	DiamondBorderColor #4d4d4d
+  	DiamondFontColor #ffffff
+}
+
+
+skinparam participant {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #333333
+	FontColor #ffffff
+}
+
+
+skinparam sequence {
+	BorderColor #333333
+	TitleFontColor #333333
+	BackgroundColor transparent
+	StartColor #333333
+	EndColor #333333
+	BoxBackgroundColor transparent
+	BoxBorderColor #555555
+	BoxFontColor #555555
+	DelayFontColor #555555
+	LifeLineBorderColor #555555
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #4d4d4d
+	GroupBorderColor #555555
+	GroupFontColor #555555
+	GroupHeaderFontColor #17a2b8
+	GroupBackgroundColor #555555
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #555555
+    DividerBorderColor #555555
+    DividerBorderThickness 2
+    DividerFontColor #ffffff
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #555555
+	ReferenceFontColor #555555
+	ReferenceHeaderFontColor #17a2b8
+	ReferenceHeaderBackgroundColor #555555
+	StereotypeFontColor #ffffff
+}
+
+
+skinparam partition {
+	BorderColor #333333
+	FontColor #333333
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+}
+
+
+skinparam control {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+}
+
+
+skinparam entity {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+}
+
+
+skinparam boundary {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+}
+
+
+skinparam agent {
+	BackgroundColor #ffc107
+	BorderColor #ffc720
+	FontColor #555555
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #17a2b8
+	BorderColor #1592a6
+	FontColor #ffffff
+}
+
+
+skinparam artifact {
+	BackgroundColor #555555
+	BorderColor #4d4d4d
+	FontColor #ffffff
+}
+
+
+skinparam component {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+}
+
+
+skinparam interface {
+	BackgroundColor  #c6303e
+	BorderColor  #dc3545
+	FontColor #555555
+}
+
+
+skinparam storage {
+	BackgroundColor #ffc107
+  	BorderColor #e6ae06
+	FontColor #ffffff
+}
+
+
+skinparam node {
+	BackgroundColor  #555555
+	BorderColor #ffffff
+	FontColor #ffffff
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #555555
+}
+
+
+skinparam database {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+}
+
+
+skinparam class {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+	FontColor #ffffff
+	HeaderBackgroundColor #474747
+	StereotypeFontColor #555555
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+	StereotypeFontColor #555555
+	BorderThickness 1
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+	BorderThickness 2
+	StereotypeFontColor #333333
+}
+
+
+skinparam rectangle {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+	BackgroundColor #666666
+	BorderThickness 2
+	StereotypeFontColor #333333
+}
+
+
+skinparam package {
+	BackgroundColor #555555
+  	BorderColor #333333
+	FontColor #333333
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #666666
+  	BorderColor #ffc107
+	FontColor #ffc107
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #666666
+  	BorderColor #17a2b8
+	FontColor #17a2b8
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+	StartColor #17a2b8
+	EndColor #17a2b8
+	AttributeFontColor #ffffff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #ffffff
+	BorderColor #333333
+	BackgroundColor #474747
+}
+
+
+skinparam card {
+	BackgroundColor #17a2b8
+	BorderColor #1592a6
+	FontColor #ffffff
+}
+
+
+skinparam file {
+	BackgroundColor #4d4d4d
+	BorderColor #ffffff
+	FontColor #ffffff
+}
+
+
+title sketchy theme
+{+
+  Just plain text
+  [This is my button]
+  ()  Unchecked radio
+  (X) Checked radio
+  []  Unchecked box
+  [X] Checked box
+  "Enter text here   "
+  ^This is a droplist^
+}
+@endsalt
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

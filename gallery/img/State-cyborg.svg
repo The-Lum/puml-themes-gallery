@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="656.25px" preserveAspectRatio="none" style="width:379px;height:656px;background:#00000000;" version="1.1" viewBox="0 0 379 656" width="379.1667px" zoomAndPan="magnify"><defs><linearGradient id="g1taa3gabkjcr20" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#444444"/><stop offset="100%" stop-color="#555555"/></linearGradient></defs><g><rect fill="url(#g1taa3gabkjcr20)" height="45.0846" rx="4.1667" ry="4.1667" style="stroke:#777777;stroke-width:1.0416666666666667;" width="171.875" x="96.3542" y="2.0833"/><text fill="#2A9FD6" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="144.7917" x="109.8958" y="31.838">cyborg theme</text><polygon fill="#444444" points="254.1667,154.4596,266.6667,166.9596,254.1667,179.4596,241.6667,166.9596,254.1667,154.4596" style="stroke:#777777;stroke-width:1.5625;"/><rect fill="#77B300" height="8.3333" style="stroke:none;stroke-width:1.0416666666666667;" width="83.3333" x="108.3333" y="257.5846"/><rect fill="#77B300" height="8.3333" style="stroke:none;stroke-width:1.0416666666666667;" width="83.3333" x="116.6667" y="510.7096"/><ellipse cx="293.75" cy="268.0013" rx="10.4167" ry="10.4167" style="stroke:#9933CC;stroke-width:1.0416666666666667;fill:none;"/><ellipse cx="294.2708" cy="268.5221" fill="#9933CC" rx="6.25" ry="6.25" style="stroke:none;stroke-width:1.0416666666666667;"/><ellipse cx="254.1667" cy="61.7513" fill="#9933CC" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><g id="State1"><rect fill="#2A9FD6" height="56.2174" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="75" x="7.2917" y="495.0846"/><line style="stroke:#55B2DE;stroke-width:1.5625;" x1="7.2917" x2="82.2917" y1="530.4688" y2="530.4688"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="43.75" x="22.9167" y="517.1041">State1</text></g><g id="State2"><rect fill="#2A9FD6" height="56.2174" rx="13.0208" ry="13.0208" style="stroke:#55B2DE;stroke-width:1.5625;" width="75" x="122.9167" y="360.7096"/><line style="stroke:#55B2DE;stroke-width:1.5625;" x1="122.9167" x2="197.9167" y1="396.0938" y2="396.0938"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="43.75" x="138.5417" y="382.7291">State2</text></g><ellipse cx="100" cy="639.8763" rx="10.4167" ry="10.4167" style="stroke:#9933CC;stroke-width:1.0416666666666667;fill:none;"/><ellipse cx="100.5208" cy="640.3971" fill="#9933CC" rx="6.25" ry="6.25" style="stroke:none;stroke-width:1.0416666666666667;"/><path d="M254.1667,76.4671 C254.1667,95.854 254.1667,134.6474 254.1667,154.1511 " fill="none" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="254.1667,154.1511,258.3333,144.7761,254.1667,148.9428,250,144.7761,254.1667,154.1511" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="64.5833" x="260.4167" y="112.9374">from start</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="60.4167" x="262.5" y="127.4882">to choice</text><path d="M241.4167,167.364 C218.9122,167.0226 172.501,169.9972 151.0417,198.2096 C138.0117,215.3401 142.3093,242.1505 146.3334,257.4014 " fill="none" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="146.3334,257.4014,147.9704,247.2736,145.0047,252.3654,139.9128,249.3997,146.3334,257.4014" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="76.0417" x="157.2917" y="216.0624">from choice</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="173.9583" y="230.6132">to fork</text><path d="M255.0647,179.515 C258.7305,229.2548 270.9287,425.4636 239.5833,476.3346 C229.6432,492.4668 211.8176,503.4267 195.3907,510.5725 " fill="none" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="195.3907,510.5725,205.6496,510.6536,200.1667,508.4949,202.3255,503.012,195.3907,510.5725" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="76.0417" x="266.6667" y="319.1874">from choice</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="284.375" y="333.7382">to join</text><path d="M260.151,179.6278 C262.9157,185.186 266.1534,191.9732 268.75,198.2096 C277.2713,218.6761 285.4997,243.1966 290.0665,257.3615 " fill="none" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="290.0665,257.3615,291.1555,247.1602,288.4684,252.4044,283.2242,249.7173,290.0665,257.3615" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="76.0417" x="289.5833" y="216.0624">from choice</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="306.25" y="230.6132">to end</text><path d="M126.3395,282.7705 C100.3059,297.0645 59.8796,324.0027 42.7083,360.7096 C22.3963,404.1305 30.1494,461.5837 37.5373,494.9492 " fill="none" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="37.5373,494.9492,39.5787,484.8951,36.4113,489.864,31.4424,486.6967,37.5373,494.9492" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="58.3333" x="48.9583" y="386.3749">from fork</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="52.0833" x="52.0833" y="400.9257">to state</text><path d="M151.0369,282.7393 C152.6424,300.7216 155.7743,335.7984 157.9761,360.4582 " fill="none" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="157.9761,360.4582,161.2925,350.7498,157.5129,355.2705,152.9922,351.4909,157.9761,360.4582" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="58.3333" x="162.5" y="319.1874">from fork</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="52.0833" x="165.625" y="333.7382">to state</text><path d="M159.7519,417.0193 C159.6147,423.165 159.4802,429.6615 159.375,435.7096 C158.9079,462.5757 158.5847,494.1413 158.4326,510.6995 " fill="none" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="158.4326,510.6995,162.6852,501.3631,158.4804,505.4913,154.3522,501.2866,158.4326,510.6995" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="67.7083" x="165.625" y="453.5624">from state</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="40.625" x="179.1667" y="468.1132">to join</text><path d="M40.2128,551.5002 C38.5999,569.5582 39.3421,593.0796 50,610.7096 C58.8146,625.2906 77.5933,633.7437 89.462,637.8323 " fill="none" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="89.462,637.8323,81.9553,630.8394,84.5377,636.1359,79.2411,638.7183,89.462,637.8323" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="67.7083" x="56.25" y="587.9374">from state</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="68.75" y="602.4882">to end</text><path d="M156.3506,535.8938 C153.0169,553.218 145.1402,586.3526 130.2083,610.7096 C125.014,619.1828 116.9808,627.0623 110.5038,632.6481 " fill="none" style="stroke:#2A9FD6;stroke-width:3.125;"/><polygon fill="#2A9FD6" points="110.5038,632.6481,120.3245,629.6807,114.448,629.2466,114.8821,623.37,110.5038,632.6481" style="stroke:#2A9FD6;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="56.25" x="154.1667" y="587.9374">from join</text><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="42.7083" x="160.9375" y="602.4882">to end</text><!--MD5=[25b19400e23b4d81c2334a3155ee73cb]
+@startuml
+!pragma layout smetana
+!theme cyborg
+title cyborg theme
+state choice1 <<choice>>
+state fork1   <<fork>>
+state join2   <<join>>
+state end3    <<end>>
+
+[*]     - -> choice1 : from start\nto choice
+choice1 - -> fork1   : from choice\nto fork
+choice1 - -> join2   : from choice\nto join
+choice1 - -> end3    : from choice\nto end
+
+fork1   - - -> State1 : from fork\nto state
+fork1   - -> State2  : from fork\nto state
+
+State2  - -> join2   : from state\nto join
+State1  - -> [*]     : from state\nto end
+
+join2   - -> [*]     : from join\nto end
+@enduml
+
+@startuml
+!pragma layout smetana
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #ADAFAE
+skinparam stereotype {
+    CBackgroundColor #777777
+    CBorderColor #444444
+    ABackgroundColor #5F8F00
+    ABorderColor #92C233
+    IBackgroundColor #A30000
+    IBorderColor #D63333
+    EBackgroundColor #CC6D00
+    EBorderColor #FFA033
+    NBackgroundColor #9F161B
+    NBorderColor #AD5CD6
+}
+skinparam title {
+	FontColor	                 #2A9FD6
+	BorderColor	                 #777777
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #444444-#555
+}
+
+
+skinparam legend {
+	BackgroundColor #555
+	BorderColor #777777
+	FontColor #ADAFAE
+}
+
+skinparam swimlane {
+	BorderColor #9933CC
+	BorderThickness 2
+	TitleBackgroundColor  #444444-#555
+	TitleFontColor #2A9FD6
+}
+
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	BarColor #77B300
+	StartColor #9933CC
+	EndColor #9933CC
+	DiamondBackgroundColor #444444
+  	DiamondBorderColor #777777
+  	DiamondFontColor #FFF
+}
+
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	FontColor #2A9FD6
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2A9FD6
+	FontColor #FFF
+}
+
+
+skinparam sequence {
+	BorderColor #2A9FD6
+	TitleFontColor #2A9FD6
+	BackgroundColor transparent
+	StartColor #2A9FD6
+	EndColor #2A9FD6
+	BoxBackgroundColor transparent
+	BoxBorderColor #ADAFAE
+	BoxFontColor #ADAFAE
+	DelayFontColor #ADAFAE
+	LifeLineBorderColor #555
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #777777
+	GroupBorderColor #555
+	GroupFontColor #ADAFAE
+	GroupHeaderFontColor #9933CC
+	GroupBackgroundColor #555
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #ADAFAE
+    DividerBorderColor #ADAFAE
+    DividerBorderThickness 2
+    DividerFontColor #222
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #555
+	ReferenceFontColor #FFF
+	ReferenceHeaderBackgroundColor #555
+	StereotypeFontColor #FFF
+}
+
+
+skinparam partition {
+	BorderColor #2A9FD6
+	FontColor #2A9FD6
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+}
+
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	FontColor #ADAFAE
+}
+
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	FontColor #ADAFAE
+}
+
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	FontColor #ADAFAE
+}
+
+
+skinparam agent {
+	BackgroundColor #FF8800
+	BorderColor #CC6D00
+	FontColor #ADAFAE
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #9933CC
+	BorderColor #AD5CD6
+	FontColor #FFF
+}
+
+
+skinparam artifact {
+	BackgroundColor #ADAFAE
+	BorderColor #BDBFBE
+	FontColor #222
+}
+
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+}
+
+
+skinparam interface {
+	BackgroundColor  #D63333
+	BorderColor  #CC0000
+	FontColor #ADAFAE
+}
+
+
+skinparam storage {
+	BackgroundColor #FF8800
+  	BorderColor #FFA033
+	FontColor #FFF
+}
+
+
+skinparam node {
+	BackgroundColor  #555
+	BorderColor #ADAFAE
+	FontColor #ADAFAE
+}
+
+
+skinparam cloud {
+	BackgroundColor #222-black
+	BorderColor #222
+	FontColor #ADAFAE
+}
+
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	FontColor #ADAFAE
+}
+
+
+skinparam actor {
+	FontColor #ADAFAE
+}
+
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	HeaderBackgroundColor #227FAB
+	StereotypeFontColor #ADAFAE
+	BorderThickness 1
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	StereotypeFontColor #ADAFAE
+	BorderThickness 1
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	BorderThickness 2
+	StereotypeFontColor #2A9FD6
+}
+
+
+skinparam rectangle {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	BackgroundColor #444444
+	BorderThickness 2
+	StereotypeFontColor #2A9FD6
+}
+
+
+skinparam package {
+	BackgroundColor #555
+  	BorderColor #2A9FD6
+	FontColor #2A9FD6
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #444444
+  	BorderColor #FF8800
+	FontColor #FF8800
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #444444
+  	BorderColor #9933CC
+	FontColor #9933CC
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	StartColor #9933CC
+	EndColor #9933CC
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+}
+
+
+skinparam card {
+	BackgroundColor #9933CC
+	BorderColor #AD5CD6
+	FontColor #FFF
+}
+
+
+skinparam file {
+	BackgroundColor #777777
+	BorderColor #ADAFAE
+	FontColor #ADAFAE
+}
+
+
+title cyborg theme
+state choice1 <<choice>>
+state fork1   <<fork>>
+state join2   <<join>>
+state end3    <<end>>
+
+[*]     - -> choice1 : from start\nto choice
+choice1 - -> fork1   : from choice\nto fork
+choice1 - -> join2   : from choice\nto join
+choice1 - -> end3    : from choice\nto end
+
+fork1   - - -> State1 : from fork\nto state
+fork1   - -> State2  : from fork\nto state
+
+State2  - -> join2   : from state\nto join
+State1  - -> [*]     : from state\nto end
+
+join2   - -> [*]     : from join\nto end
+@enduml
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

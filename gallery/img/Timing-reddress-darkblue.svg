@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="250px" preserveAspectRatio="none" style="width:446px;height:250px;background:#777777;" version="1.1" viewBox="0 0 446 250" width="446px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="223" x="108" y="26.708">reddress-darkblue theme</text><line style="stroke:#000000;stroke-width:1.7;" x1="10" x2="10" y1="30.9531" y2="219.4844"/><line style="stroke:#000000;stroke-width:1.7;" x1="429" x2="429" y1="30.9531" y2="219.4844"/><line style="stroke:#AAAAAA;stroke-width:0.5;stroke-dasharray:3.0,5.0;" x1="124" x2="124" y1="30.9531" y2="219.4844"/><line style="stroke:#AAAAAA;stroke-width:0.5;stroke-dasharray:3.0,5.0;" x1="174" x2="174" y1="30.9531" y2="219.4844"/><line style="stroke:#AAAAAA;stroke-width:0.5;stroke-dasharray:3.0,5.0;" x1="224" x2="224" y1="30.9531" y2="219.4844"/><line style="stroke:#AAAAAA;stroke-width:0.5;stroke-dasharray:3.0,5.0;" x1="274" x2="274" y1="30.9531" y2="219.4844"/><line style="stroke:#AAAAAA;stroke-width:0.5;stroke-dasharray:3.0,5.0;" x1="324" x2="324" y1="30.9531" y2="219.4844"/><line style="stroke:#AAAAAA;stroke-width:0.5;stroke-dasharray:3.0,5.0;" x1="374" x2="374" y1="30.9531" y2="219.4844"/><line style="stroke:#AAAAAA;stroke-width:0.5;stroke-dasharray:3.0,5.0;" x1="424" x2="424" y1="30.9531" y2="219.4844"/><line style="stroke:#000000;stroke-width:1.7;" x1="10" x2="429" y1="30.9531" y2="30.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="81" x="15" y="42.0918">Web Browser</text><line style="stroke:#000000;stroke-width:1.0;" x1="10" x2="97" y1="45.9219" y2="45.9219"/><line style="stroke:#000000;stroke-width:1.0;" x1="97" x2="107" y1="45.9219" y2="30.9531"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="60" x="15" y="137.373">Initializing</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="22" x="15" y="117.373">idle</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="15" y="97.373">Processing</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="46" x="15" y="77.373">Waiting</text><line style="stroke:#038048;stroke-width:1.5;" x1="84" x2="124" y1="132.2188" y2="132.2188"/><line style="stroke:#038048;stroke-width:1.5;" x1="124" x2="224" y1="112.2188" y2="112.2188"/><line style="stroke:#038048;stroke-width:1.5;" x1="224" x2="274" y1="92.2188" y2="92.2188"/><line style="stroke:#038048;stroke-width:1.5;" x1="274" x2="424" y1="72.2188" y2="72.2188"/><line style="stroke:#038048;stroke-width:1.5;" x1="124" x2="124" y1="112.2188" y2="132.2188"/><line style="stroke:#038048;stroke-width:1.5;" x1="224" x2="224" y1="92.2188" y2="112.2188"/><line style="stroke:#038048;stroke-width:1.5;" x1="274" x2="274" y1="72.2188" y2="92.2188"/><line style="stroke:#A80036;stroke-width:1.5;" x1="124" x2="149" y1="107.2188" y2="107.2188"/><polygon fill="#A80036" points="131.5175,104.4826,131.5175,109.9549,124,107.2188" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#A80036" points="141.4825,109.9549,141.4825,104.4826,149,107.2188" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="Serif" font-size="14" lengthAdjust="spacing" textLength="86" x="93.5" y="98.917">{50 ms lag}</text><line style="stroke:#000000;stroke-width:1.7;" x1="10" x2="429" y1="144.2188" y2="144.2188"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="60" x="15" y="155.3574">Web User</text><line style="stroke:#000000;stroke-width:1.0;" x1="10" x2="76" y1="159.1875" y2="159.1875"/><line style="stroke:#000000;stroke-width:1.0;" x1="76" x2="86" y1="159.1875" y2="144.2188"/><polygon fill="#D7E0F2" points="56,185.4844,112,185.4844,124,197.4844,112,209.4844,56,209.4844" style="stroke:#D7E0F2;stroke-width:1.5;"/><path d="M56,185.4844 L112,185.4844 L124,197.4844 L112,209.4844 L56,209.4844 " fill="#D7E0F2" style="stroke:#038048;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="44" x="68" y="201.6387">Absent</text><polygon fill="#D7E0F2" points="136,185.4844,362,185.4844,374,197.4844,362,209.4844,136,209.4844,124,197.4844" style="stroke:#038048;stroke-width:1.5;"/><polygon fill="#D7E0F2" points="386,185.4844,424,185.4844,424,209.4844,386,209.4844,374,197.4844" style="stroke:#D7E0F2;stroke-width:1.5;"/><path d="M424,185.4844 L386,185.4844 L374,197.4844 L386,209.4844 L424,209.4844 " fill="#D7E0F2" style="stroke:#038048;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="46" x="226" y="201.6387">Waiting</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="15" x="386" y="201.6387">ok</text><line style="stroke:#A80036;stroke-width:1.5;" x1="224" x2="299" y1="174.8359" y2="174.8359"/><polygon fill="#A80036" points="231.5175,172.0998,231.5175,177.5721,224,174.8359" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="291.4825,177.5721,291.4825,172.0998,299,174.8359" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="Serif" font-size="14" lengthAdjust="spacing" textLength="70" x="226.5" y="166.5342">{150 ms}</text><line style="stroke:#000000;stroke-width:2.0;" x1="124" x2="124" y1="219.4844" y2="224.4844"/><line style="stroke:#000000;stroke-width:2.0;" x1="174" x2="174" y1="219.4844" y2="224.4844"/><line style="stroke:#000000;stroke-width:2.0;" x1="224" x2="224" y1="219.4844" y2="224.4844"/><line style="stroke:#000000;stroke-width:2.0;" x1="274" x2="274" y1="219.4844" y2="224.4844"/><line style="stroke:#000000;stroke-width:2.0;" x1="324" x2="324" y1="219.4844" y2="224.4844"/><line style="stroke:#000000;stroke-width:2.0;" x1="374" x2="374" y1="219.4844" y2="224.4844"/><line style="stroke:#000000;stroke-width:2.0;" x1="424" x2="424" y1="219.4844" y2="224.4844"/><line style="stroke:#000000;stroke-width:2.0;" x1="124" x2="424" y1="219.4844" y2="219.4844"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="8" x="120" y="236.623">0</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="212" y="236.623">200</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="262" y="236.623">300</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="24" x="362" y="236.623">500</text><!--MD5=[52abd8c670444ce9e4c9a9fe971f0821]
+@startuml
+!pragma layout smetana
+!theme reddress-darkblue
+title reddress-darkblue theme
+robust "Web Browser" as WB
+concise "Web User" as WU
+
+WB is Initializing
+WU is Absent
+
+@WB
+0 is idle
++200 is Processing
++100 is Waiting
+WB@0 <-> @50 : {50 ms lag}
+
+@WU
+0 is Waiting
++500 is ok
+@200 <-> @+150 : {150 ms}
+@enduml
+
+@startuml
+!pragma layout smetana
+
+
+
+skinparam backgroundColor 777
+skinparam stereotypeCBackgroundColor 1a66c2
+skinparam backgroundColor 777
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName Verdana
+}
+
+skinparam class {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+    arrowColor fff
+  arrowFontName Verdana
+  arrowFontColor bbb
+  arrowFontSize 11
+
+  attributeFontColor aaa
+  attributeFontSize 11
+  attributeIconSize 11
+}
+
+
+skinparam actor {
+    backgroundColor 1a66c2
+  borderColor 002642
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor 575757
+  borderColor 767676
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor 1a66c2
+  borderColor 002642
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+skinparam queue {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+    arrowColor fff
+  arrowFontName Verdana
+  arrowFontColor bbb
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+    arrowColor fff
+  arrowFontName Verdana
+  arrowFontColor bbb
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+    arrowColor fff
+  arrowFontName Verdana
+  arrowFontColor bbb
+  arrowFontSize 11
+
+  lifeLineBorderColor 1a66c2
+  lifeLineBackgroundColor 575757
+}
+
+skinparam boundary {
+    backgroundColor 1a66c2
+  borderColor 002642
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor 1a66c2
+  borderColor 002642
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor 1a66c2
+  borderColor 002642
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+    arrowColor fff
+  arrowFontName Verdana
+  arrowFontColor bbb
+  arrowFontSize 11
+  startColor 1a66c2
+  endColor 002642
+}
+
+
+skinparam object {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+    arrowColor fff
+  arrowFontName Verdana
+  arrowFontColor bbb
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor 1a66c2
+  borderColor 002642
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+    arrowColor fff
+  arrowFontName Verdana
+  arrowFontColor bbb
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor 2e2e2e
+  borderColor 1b1b1b
+    fontColor fff
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor aaa
+  stereotypeFontSize 11
+}
+title reddress-darkblue theme
+robust "Web Browser" as WB
+concise "Web User" as WU
+
+WB is Initializing
+WU is Absent
+
+@WB
+0 is idle
++200 is Processing
++100 is Waiting
+WB@0 <-> @50 : {50 ms lag}
+
+@WU
+0 is Waiting
++500 is ok
+@200 <-> @+150 : {150 ms}
+@enduml
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

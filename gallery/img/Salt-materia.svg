@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="221.875px" preserveAspectRatio="none" style="width:210px;height:221px;background:#00000000;" version="1.1" viewBox="0 0 210 221" width="210.4167px" zoomAndPan="magnify"><defs><linearGradient id="g1htcldz50hz7a0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#FFFFFF"/></linearGradient></defs><g><rect fill="url(#g1htcldz50hz7a0)" height="55.5013" rx="4.1667" ry="4.1667" style="stroke:#CCCCCC;stroke-width:1.0416666666666667;" width="192.7083" x="7.2917" y="7.2917"/><text fill="#2196F3" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="155.2083" x="26.0417" y="42.2546">materia theme</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="88.5417" x="20.8333" y="78.5624">Just plain text</text><rect fill="#EEEEEE" height="18.7174" rx="5.2083" ry="5.2083" style="stroke:#000000;stroke-width:2.604166666666667;" width="145.8333" x="23.4375" y="86.1979"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="41.1458" y="99.884">This is my button</text><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="110.4167" x="41.6667" y="121.2056">Unchecked radio</text><ellipse cx="28.125" cy="116.8783" rx="5.2083" ry="5.2083" style="stroke:#000000;stroke-width:1.5625;fill:none;"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="41.6667" y="137.8398">Checked radio</text><ellipse cx="28.125" cy="133.5124" rx="5.2083" ry="5.2083" style="stroke:#000000;stroke-width:1.5625;fill:none;"/><ellipse cx="28.125" cy="133.5124" fill="#000000" rx="2.0833" ry="2.0833" style="stroke:#000000;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="100" x="41.6667" y="154.4739">Unchecked box</text><rect fill="none" height="10.4167" style="stroke:#000000;stroke-width:1.5625;" width="10.4167" x="22.9167" y="144.9382"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="83.3333" x="41.6667" y="171.108">Checked box</text><rect fill="none" height="10.4167" style="stroke:#000000;stroke-width:1.5625;" width="10.4167" x="22.9167" y="161.5723"/><polygon fill="#000000" points="23.9583,165.7552,27.0833,168.8802,34.375,159.5052,27.0833,166.7969" style="stroke:#000000;stroke-width:1.5625;"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="98.9583" x="23.9583" y="187.7421">Enter text here</text><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="21.875" x2="175" y1="190.6901" y2="190.6901"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="21.875" x2="21.875" y1="187.5651" y2="189.6484"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="175" x2="175" y1="187.5651" y2="189.6484"/><rect fill="#EEEEEE" height="17.6758" style="stroke:#000000;stroke-width:1.0416666666666667;" width="165.625" x="20.8333" y="194.8568"/><text fill="#000000" font-family="sans-serif" font-size="12.5" lengthAdjust="spacing" textLength="106.25" x="22.9167" y="208.5429">This is a droplist</text><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="175" x2="175" y1="194.8568" y2="212.5326"/><polygon fill="#000000" points="178.125,201.1068,184.375,201.1068,181.25,207.3242" style="stroke:#000000;stroke-width:1.0416666666666667;"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="19.7917" x2="188.5417" y1="65.918" y2="65.918"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="19.7917" x2="188.5417" y1="214.6159" y2="214.6159"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="19.7917" x2="19.7917" y1="65.918" y2="82.5521"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="188.5417" x2="188.5417" y1="65.918" y2="82.5521"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="19.7917" x2="19.7917" y1="193.8151" y2="214.6159"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="188.5417" x2="188.5417" y1="193.8151" y2="214.6159"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="19.7917" x2="19.7917" y1="158.4635" y2="175.0977"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="188.5417" x2="188.5417" y1="158.4635" y2="175.0977"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="19.7917" x2="19.7917" y1="125.1953" y2="141.8294"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="188.5417" x2="188.5417" y1="125.1953" y2="141.8294"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="19.7917" x2="19.7917" y1="82.5521" y2="108.5612"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="188.5417" x2="188.5417" y1="82.5521" y2="108.5612"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="19.7917" x2="19.7917" y1="175.0977" y2="193.8151"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="188.5417" x2="188.5417" y1="175.0977" y2="193.8151"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="19.7917" x2="19.7917" y1="141.8294" y2="158.4635"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="188.5417" x2="188.5417" y1="141.8294" y2="158.4635"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="19.7917" x2="19.7917" y1="108.5612" y2="125.1953"/><line style="stroke:#000000;stroke-width:1.0416666666666667;" x1="188.5417" x2="188.5417" y1="108.5612" y2="125.1953"/><!--MD5=[541b8e30b7410af7e1b8c4246467f789]
+@startsalt
+!pragma layout smetana
+!theme materia
+title materia theme
+{+
+  Just plain text
+  [This is my button]
+  ()  Unchecked radio
+  (X) Checked radio
+  []  Unchecked box
+  [X] Checked box
+  "Enter text here   "
+  ^This is a droplist^
+}
+@endsalt
+
+@startsalt
+!pragma layout smetana
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             true
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               10
+skinparam ArrowColor            #666
+skinparam stereotype {
+    CBackgroundColor #fff
+    CBorderColor #cccccc
+    ABackgroundColor #70bf73
+    ABorderColor #3D8C40
+    IBackgroundColor #B7161C
+    IBorderColor #b7161c
+    EBackgroundColor #ffad33
+    EBorderColor #CC7A00
+    NBackgroundColor #b052c0
+    NBorderColor #7D1F8D
+}
+skinparam title {
+	FontColor	                 #2196F3
+	BorderColor	                 #cccccc
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #fff-#fff
+}
+
+skinparam legend {
+	BackgroundColor #fff
+	BorderColor #cccccc
+	FontColor #222
+}
+
+skinparam swimlane {
+	BorderColor #9C27B0
+	BorderThickness 2
+	TitleBackgroundColor  #fff-#fff
+	TitleFontColor #2196F3
+}
+
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BarColor #4CAF50
+	StartColor #9C27B0
+	EndColor #9C27B0
+	DiamondBackgroundColor #FFF-#fff
+  	DiamondBorderColor #cccccc
+	DiamondFontColor #222
+}
+
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2196F3
+	FontColor #222
+}
+
+
+skinparam sequence {
+	BorderColor #2196F3
+	TitleFontColor #2196F3
+	BackgroundColor transparent
+	StartColor #2196F3
+	EndColor #2196F3
+	BoxBackgroundColor #fff
+	BoxBorderColor #666
+	BoxFontColor #222
+	DelayFontColor #222
+	LifeLineBorderColor #cccccc
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #fff
+	GroupBorderColor #666
+	GroupFontColor #222
+	GroupHeaderFontColor #9C27B0
+	DividerBackgroundColor #FFF-#fff
+    DividerBorderColor #666
+    DividerBorderThickness 2
+    DividerFontColor #222
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #666
+	ReferenceFontColor #222
+	ReferenceHeaderFontColor #9C27B0
+	StereotypeFontColor #FFF
+}
+
+
+skinparam partition {
+	BorderColor #2196F3
+	FontColor #2196F3
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #b052c0-#9C27B0
+	BorderColor #9C27B0
+	FontColor #FFF
+}
+
+
+skinparam artifact {
+	BackgroundColor #FFF-#fff
+	BorderColor #666
+	FontColor #666
+}
+
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam interface {
+	BackgroundColor  #B7161C
+	BorderColor  #e51c23
+	FontColor #222
+}
+
+
+skinparam storage {
+	BackgroundColor #ffad33-#ff9800
+  	BorderColor #ff9800
+	FontColor #FFF
+}
+
+
+skinparam node {
+	BackgroundColor #fff-#fff
+	BorderColor #222
+	FontColor #222
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #222
+}
+
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	FontColor #222
+}
+
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	HeaderBackgroundColor #2196F3-#1a78c2
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	StereotypeFontColor #222
+	BorderThickness 1
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam rectangle {
+	FontColor #2196F3
+	BackgroundColor #fff-#fff
+	BorderThickness 2
+	StereotypeFontColor #2196F3
+}
+
+
+skinparam package {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BackgroundColor #fff-#fff
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #FFF-#fff
+  	BorderColor #ff9800
+	FontColor #ff9800
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #FFF-#fff
+  	BorderColor #9C27B0
+	FontColor #9C27B0
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+	BorderColor #1a78c2
+	StartColor #9C27B0
+	EndColor #9C27B0
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #2196F3
+	BackgroundColor #4dabf5-#2196F3
+}
+
+
+skinparam card {
+	BackgroundColor #b052c0-#9C27B0
+	BorderColor #9C27B0
+	FontColor #FFF
+}
+
+
+skinparam file {
+	BackgroundColor #fff-#fff
+	BorderColor #666
+	FontColor #666
+
+}
+
+
+title materia theme
+{+
+  Just plain text
+  [This is my button]
+  ()  Unchecked radio
+  (X) Checked radio
+  []  Unchecked box
+  [X] Checked box
+  "Enter text here   "
+  ^This is a droplist^
+}
+@endsalt
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

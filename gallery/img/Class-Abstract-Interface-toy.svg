@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="351px" preserveAspectRatio="none" style="width:590px;height:351px;background:#DDDDDD;" version="1.1" viewBox="0 0 590 351" width="590px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="92" x="242.5" y="16.708">toy theme</text><!--MD5=[b4fa10df80476353258f72a232547d63]
+class AbstractList--><rect codeLine="6" fill="#FEFECE" height="48" id="AbstractList" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="105" x="170" y="168.3672"/><ellipse cx="185" cy="184.3672" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M185.1094,179.7109 L183.9531,184.7891 L186.2813,184.7891 L185.1094,179.7109 Z M183.625,177.4766 L186.6094,177.4766 L189.9688,189.8672 L187.5156,189.8672 L186.75,186.8047 L183.4688,186.8047 L182.7188,189.8672 L180.2813,189.8672 L183.625,177.4766 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="73" x="199" y="188.5215">AbstractList</text><line style="stroke:#A80036;stroke-width:1.5;" x1="171" x2="274" y1="200.3672" y2="200.3672"/><line style="stroke:#A80036;stroke-width:1.5;" x1="171" x2="274" y1="208.3672" y2="208.3672"/><!--MD5=[8e34b16d8d8f96f4a11290cd523ed859]
+class AbstractCollection--><rect codeLine="7" fill="#FEFECE" height="48" id="AbstractCollection" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="145" x="7" y="168.3672"/><ellipse cx="22" cy="184.3672" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M22.1094,179.7109 L20.9531,184.7891 L23.2813,184.7891 L22.1094,179.7109 Z M20.625,177.4766 L23.6094,177.4766 L26.9688,189.8672 L24.5156,189.8672 L23.75,186.8047 L20.4688,186.8047 L19.7188,189.8672 L17.2813,189.8672 L20.625,177.4766 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="113" x="36" y="188.5215">AbstractCollection</text><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="151" y1="200.3672" y2="200.3672"/><line style="stroke:#A80036;stroke-width:1.5;" x1="8" x2="151" y1="208.3672" y2="208.3672"/><!--MD5=[3d4177ac58b4411586d067f34e84928f]
+class List--><rect codeLine="8" fill="#FEFECE" height="48" id="List" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="53" x="183" y="46.3672"/><ellipse cx="198" cy="62.3672" fill="#B4A7E5" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M193.9219,58.1328 L193.9219,55.9766 L201.3125,55.9766 L201.3125,58.1328 L198.8438,58.1328 L198.8438,66.2109 L201.3125,66.2109 L201.3125,68.3672 L193.9219,68.3672 L193.9219,66.2109 L196.3906,66.2109 L196.3906,58.1328 L193.9219,58.1328 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="21" x="212" y="66.5215">List</text><line style="stroke:#A80036;stroke-width:1.5;" x1="184" x2="235" y1="78.3672" y2="78.3672"/><line style="stroke:#A80036;stroke-width:1.5;" x1="184" x2="235" y1="86.3672" y2="86.3672"/><!--MD5=[c160724f8e3bb89ca8141a12554ac2e3]
+class Collection--><rect codeLine="9" fill="#FEFECE" height="48" id="Collection" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="93" x="46" y="46.3672"/><ellipse cx="61" cy="62.3672" fill="#B4A7E5" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M56.9219,58.1328 L56.9219,55.9766 L64.3125,55.9766 L64.3125,58.1328 L61.8438,58.1328 L61.8438,66.2109 L64.3125,66.2109 L64.3125,68.3672 L56.9219,68.3672 L56.9219,66.2109 L59.3906,66.2109 L59.3906,58.1328 L56.9219,58.1328 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="61" x="75" y="66.5215">Collection</text><line style="stroke:#A80036;stroke-width:1.5;" x1="47" x2="138" y1="78.3672" y2="78.3672"/><line style="stroke:#A80036;stroke-width:1.5;" x1="47" x2="138" y1="86.3672" y2="86.3672"/><!--MD5=[ab8871ed637f40707b866ba6597734bc]
+class ArrayList--><rect codeLine="18" fill="#FEFECE" height="73.6094" id="ArrayList" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="132" x="156.5" y="271.3672"/><ellipse cx="192.65" cy="287.3672" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M195.6188,293.0078 Q195.0406,293.3047 194.4,293.4453 Q193.7594,293.6016 193.0563,293.6016 Q190.5563,293.6016 189.2281,291.9609 Q187.9156,290.3047 187.9156,287.1797 Q187.9156,284.0547 189.2281,282.3984 Q190.5563,280.7422 193.0563,280.7422 Q193.7594,280.7422 194.4,280.8984 Q195.0563,281.0547 195.6188,281.3516 L195.6188,284.0703 Q194.9938,283.4922 194.4,283.2266 Q193.8063,282.9453 193.1813,282.9453 Q191.8375,282.9453 191.15,284.0234 Q190.4625,285.0859 190.4625,287.1797 Q190.4625,289.2734 191.15,290.3516 Q191.8375,291.4141 193.1813,291.4141 Q193.8063,291.4141 194.4,291.1484 Q194.9938,290.8672 195.6188,290.2891 L195.6188,293.0078 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="53" x="211.35" y="291.5215">ArrayList</text><line style="stroke:#A80036;stroke-width:1.5;" x1="157.5" x2="287.5" y1="303.3672" y2="303.3672"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="120" x="162.5" y="317.5776">Object[] elementData</text><line style="stroke:#A80036;stroke-width:1.5;" x1="157.5" x2="287.5" y1="324.1719" y2="324.1719"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="30" x="162.5" y="338.3823">size()</text><!--MD5=[15b68e006199004da79ea2a4d117d8e9]
+class TimeUnit--><rect codeLine="23" fill="#FEFECE" height="86.4141" id="TimeUnit" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="86" x="329.5" y="27.3672"/><ellipse cx="344.5" cy="43.3672" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M348.6094,49.3672 L340.8906,49.3672 L340.8906,36.9766 L348.6094,36.9766 L348.6094,39.1328 L343.3438,39.1328 L343.3438,41.8047 L348.1094,41.8047 L348.1094,43.9609 L343.3438,43.9609 L343.3438,47.2109 L348.6094,47.2109 L348.6094,49.3672 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="54" x="358.5" y="47.5215">TimeUnit</text><line style="stroke:#A80036;stroke-width:1.5;" x1="330.5" x2="414.5" y1="59.3672" y2="59.3672"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="30" x="335.5" y="73.5776">DAYS</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="40" x="335.5" y="86.3823">HOURS</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="50" x="335.5" y="99.187">MINUTES</text><line style="stroke:#A80036;stroke-width:1.5;" x1="330.5" x2="414.5" y1="105.7813" y2="105.7813"/><!--MD5=[0c8287f799745f7b534bf75518604c1e]
+class SuppressWarnings--><rect codeLine="29" fill="#FEFECE" height="48" id="SuppressWarnings" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="149" x="434" y="46.3672"/><ellipse cx="449" cy="62.3672" fill="#E3664A" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M451.0781,62.8359 Q451.0781,61.8984 450.6563,61.3672 Q450.2344,60.8359 449.4844,60.8359 Q448.75,60.8359 448.3281,61.3672 Q447.9219,61.8984 447.9219,62.8359 Q447.9219,63.7891 448.3281,64.3203 Q448.75,64.8516 449.4844,64.8516 Q450.2344,64.8516 450.6563,64.3203 Q451.0781,63.7891 451.0781,62.8359 Z M452.625,66.2422 L451,66.2422 L451,65.5703 Q450.6719,66.0078 450.25,66.2109 Q449.8281,66.4141 449.2188,66.4141 Q447.8594,66.4141 447.0313,65.4453 Q446.2031,64.4609 446.2031,62.8359 Q446.2031,61.2422 447.0313,60.2734 Q447.8594,59.2891 449.2188,59.2891 Q449.8125,59.2891 450.2656,59.4922 Q450.7188,59.6953 451,60.0859 L451,59.7422 Q451,58.6172 450.375,58.0078 Q449.75,57.3828 448.6094,57.3828 Q446.8906,57.3828 445.7969,58.9141 Q444.7031,60.4297 444.7031,62.8672 Q444.7031,65.4141 445.9531,66.9141 Q447.2188,68.4141 449.3281,68.4141 Q449.9844,68.4141 450.6094,68.2266 Q451.2344,68.0391 451.8125,67.6484 L452.5781,69.1016 Q451.9063,69.5547 451.1094,69.7734 Q450.3125,70.0078 449.4063,70.0078 Q446.5,70.0078 444.7656,68.0703 Q443.0469,66.1484 443.0469,62.8672 Q443.0469,59.6484 444.5938,57.7266 Q446.1563,55.7891 448.7188,55.7891 Q450.5156,55.7891 451.5625,56.8828 Q452.625,57.9766 452.625,59.8516 L452.625,66.2422 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="463" y="66.5215">SuppressWarnings</text><line style="stroke:#A80036;stroke-width:1.5;" x1="435" x2="582" y1="78.3672" y2="78.3672"/><line style="stroke:#A80036;stroke-width:1.5;" x1="435" x2="582" y1="86.3672" y2="86.3672"/><!--MD5=[faebc81c07309c527f2fda51bf6b78ab]
+class Annotation--><rect codeLine="31" fill="#FEFECE" height="86.4141" id="Annotation" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="158" x="293.5" y="149.3672"/><ellipse cx="334.15" cy="165.3672" fill="#E3664A" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M336.2281,165.8359 Q336.2281,164.8984 335.8063,164.3672 Q335.3844,163.8359 334.6344,163.8359 Q333.9,163.8359 333.4781,164.3672 Q333.0719,164.8984 333.0719,165.8359 Q333.0719,166.7891 333.4781,167.3203 Q333.9,167.8516 334.6344,167.8516 Q335.3844,167.8516 335.8063,167.3203 Q336.2281,166.7891 336.2281,165.8359 Z M337.775,169.2422 L336.15,169.2422 L336.15,168.5703 Q335.8219,169.0078 335.4,169.2109 Q334.9781,169.4141 334.3688,169.4141 Q333.0094,169.4141 332.1813,168.4453 Q331.3531,167.4609 331.3531,165.8359 Q331.3531,164.2422 332.1813,163.2734 Q333.0094,162.2891 334.3688,162.2891 Q334.9625,162.2891 335.4156,162.4922 Q335.8688,162.6953 336.15,163.0859 L336.15,162.7422 Q336.15,161.6172 335.525,161.0078 Q334.9,160.3828 333.7594,160.3828 Q332.0406,160.3828 330.9469,161.9141 Q329.8531,163.4297 329.8531,165.8672 Q329.8531,168.4141 331.1031,169.9141 Q332.3688,171.4141 334.4781,171.4141 Q335.1344,171.4141 335.7594,171.2266 Q336.3844,171.0391 336.9625,170.6484 L337.7281,172.1016 Q337.0563,172.5547 336.2594,172.7734 Q335.4625,173.0078 334.5563,173.0078 Q331.65,173.0078 329.9156,171.0703 Q328.1969,169.1484 328.1969,165.8672 Q328.1969,162.6484 329.7438,160.7266 Q331.3063,158.7891 333.8688,158.7891 Q335.6656,158.7891 336.7125,159.8828 Q337.775,160.9766 337.775,162.8516 L337.775,169.2422 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="353.85" y="169.5215">Annotation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="294.5" x2="450.5" y1="181.3672" y2="181.3672"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="146" x="299.5" y="195.5776">annotation with members</text><line style="stroke:#A80036;stroke-width:1.5;" x1="294.5" x2="450.5" y1="202.1719" y2="202.1719"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="64" x="299.5" y="216.3823">String foo()</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="65" x="299.5" y="229.187">String bar()</text><path d="M212.0065,94.5044 C214.3085,115.7537 217.7016,147.0742 220.0012,168.301 " fill="none" style="stroke:#454645;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="212.0065,94.5044,207.7647,111.0575,219.6949,109.7651,212.0065,94.5044" style="stroke:#454645;stroke-width:1.0;"/><path d="M89.9935,94.5044 C87.6915,115.7537 84.2984,147.0742 81.9988,168.301 " fill="none" style="stroke:#454645;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="89.9935,94.5044,82.3051,109.7651,94.2353,111.0575,89.9935,94.5044" style="stroke:#454645;stroke-width:1.0;"/><path d="M139.1172,70.3672 C153.6886,70.3672 168.2601,70.3672 182.8315,70.3672 " fill="none" style="stroke:#454645;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="139.1172,70.3672,155.1172,76.3672,155.1172,64.3672,139.1172,70.3672" style="stroke:#454645;stroke-width:1.0;"/><path d="M152.1172,192.3672 C158.0741,192.3672 164.0309,192.3672 169.9878,192.3672 " fill="none" style="stroke:#454645;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="152.1172,192.3672,168.1172,198.3672,168.1172,186.3672,152.1172,192.3672" style="stroke:#454645;stroke-width:1.0;"/><path d="M222.5,216.4368 C222.5,232.1815 222.5,253.3568 222.5,271.3116 " fill="none" style="stroke:#454645;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="222.5,216.4368,216.5,232.4368,228.5,232.4368,222.5,216.4368" style="stroke:#454645;stroke-width:1.0;"/><!--MD5=[cfb67bf448b4303fdaa8a59f09c5b406]
+@startuml
+!pragma layout smetana
+!theme toy
+title toy theme
+abstract class AbstractList
+abstract AbstractCollection
+interface List
+interface Collection
+
+List <|- - AbstractList
+Collection <|- - AbstractCollection
+
+Collection <|- List
+AbstractCollection <|- AbstractList
+AbstractList <|- - ArrayList
+
+class ArrayList {
+  Object[] elementData
+  size()
+}
+
+enum TimeUnit {
+  DAYS
+  HOURS
+  MINUTES
+}
+
+annotation SuppressWarnings
+
+annotation Annotation {
+  annotation with members
+  String foo()
+  String bar()
+}
+@enduml
+
+@startuml
+!pragma layout smetana
+skinparam BackgroundColor DDDDDD
+skinparam shadowing false
+skinparam RoundCorner 7
+skinparam ArrowColor 454645
+skinparam FontColor 454645
+skinparam SequenceLifeLineBorderColor 454645
+skinparam SequenceGroupHeaderFontColor 454645
+skinparam SequenceGroupFontColor 454645
+skinparam SequenceGroupBorderColor 454645
+skinparam SequenceGroupBorderThickness 1
+
+skinparam sequenceDivider {
+    BorderColor 454645
+    BorderThickness 1
+    FontColor 454645
+}
+
+skinparam participant {
+    BackgroundColor FF6F61
+    BorderColor FF6F61
+    FontColor White
+}
+
+skinparam database {
+    BackgroundColor 98DDDE
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam entity {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam note {
+    BackgroundColor LightGreen
+    BorderColor LightGreen
+    FontColor 454645
+}
+
+skinparam actor {
+    BackgroundColor 454645
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam boundary {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam control {
+    BackgroundColor FFDA29
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam collections {
+    BackgroundColor FF6F61
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam queue {
+    BackgroundColor FF6F61
+    BorderColor 454645
+    FontColor FFF
+    BorderThickness 1.5
+}
+title toy theme
+abstract class AbstractList
+abstract AbstractCollection
+interface List
+interface Collection
+
+List <|- - AbstractList
+Collection <|- - AbstractCollection
+
+Collection <|- List
+AbstractCollection <|- AbstractList
+AbstractList <|- - ArrayList
+
+class ArrayList {
+  Object[] elementData
+  size()
+}
+
+enum TimeUnit {
+  DAYS
+  HOURS
+  MINUTES
+}
+
+annotation SuppressWarnings
+
+annotation Annotation {
+  annotation with members
+  String foo()
+  String bar()
+}
+@enduml
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

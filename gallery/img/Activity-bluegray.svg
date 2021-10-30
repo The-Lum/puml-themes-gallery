@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="536.4583px" preserveAspectRatio="none" style="width:370px;height:536px;background:#00000000;" version="1.1" viewBox="0 0 370 536" width="370.8333px" zoomAndPan="magnify"><defs><linearGradient id="g3xgu6oxpijmv0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F5F5F5"/><stop offset="100%" stop-color="#F2F2F2"/></linearGradient><linearGradient id="g3xgu6oxpijmv1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#33B2E2"/><stop offset="100%" stop-color="#009FDB"/></linearGradient><linearGradient id="g3xgu6oxpijmv2" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#F5F5F5"/><stop offset="100%" stop-color="#C2C2C2"/></linearGradient><linearGradient id="g3xgu6oxpijmv3" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#3786BE"/><stop offset="100%" stop-color="#0568AE"/></linearGradient></defs><g><rect fill="url(#g3xgu6oxpijmv0)" height="51.3346" rx="4.1667" ry="4.1667" style="stroke:#C2C2C2;stroke-width:1.0416666666666667;" width="198.9583" x="84.375" y="12.5"/><text fill="#009FDB" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="165.625" x="101.0417" y="45.3796">bluegray theme</text><ellipse cx="122.1354" cy="77.3763" fill="#0568AE" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect fill="url(#g3xgu6oxpijmv1)" height="52.0508" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="57.2917" x="93.4896" y="108.6263"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="112.2396" y="138.9791">init</text><polygon fill="url(#g3xgu6oxpijmv2)" points="94.5313,206.4779,149.7396,206.4779,162.2396,222.0866,149.7396,237.6953,94.5313,237.6953,82.0313,222.0866,94.5313,206.4779" style="stroke:#C2C2C2;stroke-width:1.5625;"/><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="38.5417" x="102.8646" y="226.414">color?</text><text fill="#FF0000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="21.875" x="51.8229" y="210.8053">red</text><rect fill="url(#g3xgu6oxpijmv1)" height="52.0508" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="93.75" x="11.4583" y="248.112"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="56.25" x="30.2083" y="278.4648">print red</text><path d="M266.6667,253.3203 L266.6667,269.9707 L245.8333,274.1374 L266.6667,278.304 L266.6667,294.9544 A0,0 0 0 0 266.6667,294.9544 L358.3333,294.9544 A0,0 0 0 0 358.3333,294.9544 L358.3333,263.737 L347.9167,253.3203 L266.6667,253.3203 A0,0 0 0 0 266.6667,253.3203 " fill="url(#g3xgu6oxpijmv3)" style="stroke:#0568AE;stroke-width:1.0416666666666667;"/><path d="M347.9167,253.3203 L347.9167,263.737 L358.3333,263.737 L347.9167,253.3203 " fill="url(#g3xgu6oxpijmv3)" style="stroke:#0568AE;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="281.25" y="278.4648">no color</text><rect fill="url(#g3xgu6oxpijmv1)" height="52.0508" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="119.7917" x="126.0417" y="248.112"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="144.7917" y="278.4648">print not red</text><polygon fill="url(#g3xgu6oxpijmv2)" points="122.1354,306.4128,134.6354,318.9128,122.1354,331.4128,109.6354,318.9128,122.1354,306.4128" style="stroke:#C2C2C2;stroke-width:1.5625;"/><rect height="116.6016" rx="10.4167" ry="10.4167" style="stroke:#009FDB;stroke-width:2.0833333333333335;fill:none;" width="83.3333" x="80.4688" y="341.8294"/><path d="M132.5521,341.8294 L132.5521,365.7552 L122.1354,376.1719 L80.4688,376.1719 " fill="none" style="stroke:#009FDB;stroke-width:2.0833333333333335;"/><text fill="#009FDB" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="25" x="91.9271" y="362.8072">End</text><rect fill="url(#g3xgu6oxpijmv1)" height="52.0508" rx="13.0208" ry="13.0208" style="stroke:#009FDB;stroke-width:1.5625;" width="62.5" x="90.8854" y="393.8802"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="25" x="109.6354" y="424.233">end</text><ellipse cx="122.1354" cy="514.6484" rx="10.4167" ry="10.4167" style="stroke:#0568AE;stroke-width:1.5625;fill:none;"/><line style="stroke:#0568AE;stroke-width:2.604166666666667;fill:none;" x1="115.6904" x2="128.5804" y1="508.2035" y2="521.0934"/><line style="stroke:#0568AE;stroke-width:2.604166666666667;fill:none;" x1="128.5804" x2="115.6904" y1="508.2035" y2="521.0934"/><line style="stroke:#009FDB;stroke-width:1.5625;fill:none;" x1="122.1354" x2="122.1354" y1="87.793" y2="108.6263"/><polygon fill="#009FDB" points="117.9688,98.2096,122.1354,108.6263,126.3021,98.2096,122.1354,102.3763" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="82.0313" x2="58.3333" y1="222.0866" y2="222.0866"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="58.3333" x2="58.3333" y1="222.0866" y2="248.112"/><polygon fill="#009FDB" points="54.1667,237.6953,58.3333,248.112,62.5,237.6953,58.3333,241.862" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="162.2396" x2="185.9375" y1="222.0866" y2="222.0866"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="185.9375" x2="185.9375" y1="222.0866" y2="248.112"/><polygon fill="#009FDB" points="181.7708,237.6953,185.9375,248.112,190.1042,237.6953,185.9375,241.862" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="58.3333" x2="58.3333" y1="300.1628" y2="318.9128"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="58.3333" x2="109.6354" y1="318.9128" y2="318.9128"/><polygon fill="#009FDB" points="99.2188,314.7461,109.6354,318.9128,99.2188,323.0794,103.3854,318.9128" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="185.9375" x2="185.9375" y1="300.1628" y2="318.9128"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="185.9375" x2="134.6354" y1="318.9128" y2="318.9128"/><polygon fill="#009FDB" points="145.0521,314.7461,134.6354,318.9128,145.0521,323.0794,140.8854,318.9128" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="122.1354" x2="122.1354" y1="160.6771" y2="206.4779"/><polygon fill="#009FDB" points="117.9688,196.0612,122.1354,206.4779,126.3021,196.0612,122.1354,200.2279" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="79.1667" x="134.6354" y="184.082">test of color</text><line style="stroke:#009FDB;stroke-width:1.5625;" x1="122.1354" x2="122.1354" y1="331.4128" y2="393.8802"/><polygon fill="#009FDB" points="117.9688,383.4635,122.1354,393.8802,126.3021,383.4635,122.1354,387.6302" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><line style="stroke:#009FDB;stroke-width:1.5625;" x1="122.1354" x2="122.1354" y1="445.931" y2="504.2318"/><polygon fill="#009FDB" points="117.9688,493.8151,122.1354,504.2318,126.3021,493.8151,122.1354,497.9818" style="stroke:#009FDB;stroke-width:1.0416666666666667;"/><text fill="#5A5A5A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="134.6354" y="481.8359">this is the end</text><!--MD5=[890e3e8fffb0f276f6c6a7b3075731ad]
+@startuml
+!pragma layout smetana
+!theme bluegray
+title bluegray theme
+start
+:init;
+-> test of color;
+if (color?) is (<color:red>red) then
+  :print red;
+else 
+  :print not red;
+  note right: no color
+endif
+partition End {
+  :end;
+}
+-> this is the end;
+end
+@enduml
+
+@startuml
+!pragma layout smetana
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+
+
+skinparam defaultFontName        "Verdana"
+skinparam defaultFontSize        12
+skinparam dpi                    100
+skinparam shadowing              false
+skinparam roundcorner            20
+skinparam ParticipantPadding     30
+skinparam BoxPadding             40
+skinparam Padding                8
+skinparam ArrowColor             #959595
+skinparam stereotype {
+    CBackgroundColor #f5f5f5
+    CBorderColor #c2c2c2
+    ABackgroundColor #c4ca33
+    ABorderColor #919700
+    IBackgroundColor #d95555
+    IBorderColor #a62222
+    EBackgroundColor #ee9033
+    EBorderColor #bb5d00
+    NBackgroundColor #3786be
+    NBorderColor #04538b
+}
+skinparam title {
+	FontColor	                 #009fdb
+	BorderColor	                 #c2c2c2
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #f5f5f5-#f2f2f2
+}
+
+
+skinparam legend {
+	BackgroundColor #f2f2f2
+	BorderColor #c2c2c2
+	FontColor #5a5a5a
+}
+
+skinparam swimlane {
+	BorderColor #0568ae
+	BorderThickness 2
+	TitleBackgroundColor  #f5f5f5-#f2f2f2
+	TitleFontColor #009fdb
+}
+
+
+skinparam activity {
+	FontColor #fff
+	BorderColor #009fdb
+	BackgroundColor #33b2e2-#009fdb
+	BarColor #b5bd00
+	StartColor #0568ae
+	EndColor #0568ae
+	DiamondBackgroundColor #f5f5f5-#c2c2c2
+  	DiamondBorderColor #c2c2c2
+	DiamondFontColor #5a5a5a
+}
+
+
+skinparam participant {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #009fdb
+	FontColor #5a5a5a
+}
+
+
+skinparam sequence {
+	BorderColor #009fdb
+	TitleFontColor #009fdb
+	BackgroundColor transparent
+	StartColor #009fdb
+	EndColor #009fdb
+	BoxBackgroundColor #d2d2d2
+	BoxBorderColor #959595
+	BoxFontColor #5a5a5a
+	DelayFontColor #5a5a5a
+	LifeLineBorderColor #c2c2c2
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #f5f5f5
+	GroupBorderColor #959595
+	GroupFontColor #5a5a5a
+	GroupHeaderFontColor #0568ae
+	DividerBackgroundColor #fff-#d2d2d2
+    DividerBorderColor #959595
+    DividerBorderThickness 2
+    DividerFontColor #5a5a5a
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #959595
+	ReferenceFontColor #5a5a5a
+	ReferenceHeaderFontColor #0568ae
+	StereotypeFontColor #fff
+}
+
+
+skinparam partition {
+	BorderColor #009fdb
+	FontColor #009fdb
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+}
+
+
+skinparam control {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam entity {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam boundary {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	FontColor #009fdb
+}
+
+
+skinparam agent {
+	BackgroundColor #orange
+	BorderColor #999999
+	FontColor #333333
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #3786be-#0568ae
+	BorderColor #0568ae
+	FontColor #fff
+}
+
+
+skinparam artifact {
+	BackgroundColor #fff-#d2d2d2
+	BorderColor #c2c2c2
+	FontColor #5a5a5a
+}
+
+
+skinparam component {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+}
+
+
+skinparam interface {
+	BackgroundColor  #d95555
+	BorderColor  #cf2a2a
+	FontColor #5a5a5a
+}
+
+
+skinparam storage {
+	BackgroundColor #ee9033-#ea7400
+  	BorderColor #ea7400
+	FontColor #fff
+}
+
+
+skinparam node {
+	BackgroundColor #f5f5f5-#f2f2f2
+	BorderColor #c2c2c2
+	FontColor #009fdb
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #009fdb
+}
+
+
+skinparam database {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	BorderColor #007faf
+}
+
+
+skinparam class {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	HeaderBackgroundColor #33b2e2-#009fdb
+	StereotypeFontColor #5a5a5a
+	BorderThickness 1
+	AttributeFontColor #d2d2d2
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	StereotypeFontColor #5a5a5a
+	BorderThickness 1
+	AttributeFontColor #d2d2d2
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	BorderThickness 2
+	StereotypeFontColor #009fdb
+}
+
+
+skinparam rectangle {
+		FontColor #5a5a5a
+	BorderColor #c2c2c2
+	BackgroundColor #fff-#fefefe
+	BorderThickness 2
+	StereotypeFontColor #009fdb
+}
+
+
+skinparam package {
+	FontColor #009fdb
+	BorderColor #33b2e2
+	BackgroundColor transparent
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #fff-#f5f5f5
+  	BorderColor #ea7400
+	FontColor #ea7400
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #fff-#f5f5f5
+  	BorderColor #0568ae
+	FontColor #0568ae
+	BorderThickness 2
+}
+
+
+skinparam state {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+	BorderColor #007faf
+	StartColor #0568ae
+	EndColor #0568ae
+	AttributeFontColor #d2d2d2
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+	
+	FontColor #fff
+	BorderColor #33b2e2
+	BackgroundColor #33b2e2-#009fdb
+
+}
+
+
+skinparam card {
+	BackgroundColor #3786be-#0568ae
+	BorderColor #0568ae
+	FontColor #fff
+}
+
+
+skinparam file {
+	BackgroundColor #f5f5f5-#f2f2f2
+	BorderColor #0568ae
+	FontColor #5a5a5a
+
+}
+
+
+title bluegray theme
+start
+:init;
+-> test of color;
+if (color?) is (<color:red>red) then
+  :print red;
+else 
+  :print not red;
+  note right: no color
+endif
+partition End {
+  :end;
+}
+-> this is the end;
+end
+@enduml
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="317.7083px" preserveAspectRatio="none" style="width:411px;height:317px;background:#00000000;" version="1.1" viewBox="0 0 411 317" width="411.4583px" zoomAndPan="magnify"><defs><linearGradient id="g1jabmkj28h68a0" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#999890"/><stop offset="100%" stop-color="#8E8C84"/></linearGradient></defs><g><rect fill="url(#g1jabmkj28h68a0)" height="45.0846" rx="4.1667" ry="4.1667" style="stroke:#807E77;stroke-width:1.0416666666666667;" width="208.3333" x="94.2708" y="2.0833"/><text fill="#325D88" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="181.25" x="107.8125" y="31.838">sandstone theme</text><rect fill="#325D88" height="84.9772" rx="4.1667" ry="4.1667" style="stroke:#2D547A;stroke-width:1.0416666666666667;" width="129.1667" x="7.2917" y="56.1035"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="37.5" x="53.125" y="74.998">user1</text><line style="stroke:#2D547A;stroke-width:1.5625;" x1="8.3333" x2="135.4167" y1="85.2376" y2="85.2376"/><text fill="#FFFFFF" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="106.25" x="18.75" y="105.2485">name = "Dummy"</text><text fill="#FFFFFF" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="50" x="18.75" y="129.0034">id = 123</text><rect fill="#325D88" height="84.9772" rx="4.1667" ry="4.1667" style="stroke:#2D547A;stroke-width:1.0416666666666667;" width="129.1667" x="155.2083" y="56.1035"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="37.5" x="201.0417" y="74.998">user2</text><line style="stroke:#2D547A;stroke-width:1.5625;" x1="156.25" x2="283.3333" y1="85.2376" y2="85.2376"/><text fill="#FFFFFF" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="106.25" x="166.6667" y="105.2485">name = "Dummy"</text><text fill="#FFFFFF" font-family="Verdana" font-size="11.4583" lengthAdjust="spacing" textLength="50" x="166.6667" y="129.0034">id = 123</text><rect fill="#325D88" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#2D547A;stroke-width:1.0416666666666667;" width="41.6667" x="303.125" y="75.8952"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="315.625" y="94.7896">o1</text><line style="stroke:#2D547A;stroke-width:1.0416666666666667;" x1="304.1667" x2="343.75" y1="105.0293" y2="105.0293"/><rect fill="#325D88" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#2D547A;stroke-width:1.0416666666666667;" width="41.6667" x="363.5417" y="75.8952"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="376.0417" y="94.7896">o2</text><line style="stroke:#2D547A;stroke-width:1.0416666666666667;" x1="364.5833" x2="404.1667" y1="105.0293" y2="105.0293"/><polygon fill="#999890" points="354.1667,191.5202,366.6667,204.0202,354.1667,216.5202,341.6667,204.0202,354.1667,191.5202" style="stroke:#807E77;stroke-width:1.5625;"/><rect fill="#325D88" height="45.8008" rx="4.1667" ry="4.1667" style="stroke:#2D547A;stroke-width:1.0416666666666667;" width="41.6667" x="333.3333" y="266.5202"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="16.6667" x="345.8333" y="285.4146">o3</text><line style="stroke:#2D547A;stroke-width:1.0416666666666667;" x1="334.375" x2="373.9583" y1="295.6543" y2="295.6543"/><path d="M330.5131,122.2301 C336.76,143.5558 345.9162,174.813 350.8021,191.4925 " fill="none" style="stroke:#325D88;stroke-width:3.125;"/><polygon fill="#325D88" points="350.8021,191.4925,352.1652,181.3242,349.3379,186.4942,344.168,183.6668,350.8021,191.4925" style="stroke:#325D88;stroke-width:1.0416666666666667;"/><path d="M377.8202,122.2301 C371.5733,143.5558 362.4172,174.813 357.5313,191.4925 " fill="none" style="stroke:#325D88;stroke-width:3.125;"/><polygon fill="#325D88" points="357.5313,191.4925,364.1654,183.6668,358.9954,186.4942,356.1681,181.3242,357.5313,191.4925" style="stroke:#325D88;stroke-width:1.0416666666666667;"/><path d="M354.1667,216.649 C354.1667,229.4395 354.1667,250.3274 354.1667,266.2753 " fill="none" style="stroke:#325D88;stroke-width:3.125;"/><polygon fill="#325D88" points="354.1667,266.2753,358.3333,256.9003,354.1667,261.067,350,256.9003,354.1667,266.2753" style="stroke:#325D88;stroke-width:1.0416666666666667;"/><!--MD5=[fbc00d3adcf89f9d24018c9cf6046d39]
+@startuml
+!pragma layout smetana
+!theme sandstone
+title sandstone theme
+
+object user1
+user1 : name = "Dummy"
+user1 : id = 123
+
+object user2 {
+  name = "Dummy"
+  id = 123
+}
+
+object o1
+object o2
+diamond dia
+object o3
+
+o1  - -> dia
+o2  - -> dia
+dia - -> o3
+@enduml
+
+@startuml
+!pragma layout smetana
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #3e3f3a
+skinparam stereotype {
+    CBackgroundColor #999890
+    CBorderColor #807e77
+    ABackgroundColor #9ecb5d
+    ABorderColor #84b144
+    IBackgroundColor #AE423F
+    IBorderColor #c34b47
+    EBackgroundColor #f58950
+    EBorderColor #dc7036
+    NBackgroundColor #3eb3e3
+    NBorderColor #259aca
+}
+skinparam title {
+	FontColor	                 #325d88
+	BorderColor	                 #807e77
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #999890-#8e8c84
+}
+
+skinparam legend {
+	BackgroundColor #8e8c84
+	BorderColor #807e77
+	FontColor #f8f5f0
+}
+
+skinparam swimlane {
+	BorderColor #29abe0
+	BorderThickness 2
+	TitleBackgroundColor  #999890-#8e8c84
+	TitleFontColor #325d88
+}
+
+
+skinparam activity {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+	BarColor #93c54b
+	StartColor #29abe0
+	EndColor #29abe0
+	DiamondBackgroundColor #999890
+  	DiamondBorderColor #807e77
+  	DiamondFontColor #fff
+}
+
+
+skinparam participant {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #325d88
+	FontColor #fff
+}
+
+
+skinparam sequence {
+	BorderColor #325d88
+	TitleFontColor #325d88
+	BackgroundColor transparent
+	StartColor #325d88
+	EndColor #325d88
+	BoxBackgroundColor transparent
+	BoxBorderColor #3e3f3a
+	BoxFontColor #3e3f3a
+	DelayFontColor #3e3f3a
+	LifeLineBorderColor #8e8c84
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #807e77
+	GroupBorderColor #3e3f3a
+	GroupFontColor #3e3f3a
+	GroupHeaderFontColor #29abe0
+	GroupBackgroundColor #8e8c84
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #3e3f3a
+    DividerBorderColor #3e3f3a
+    DividerBorderThickness 2
+    DividerFontColor #f8f5f0
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #3e3f3a
+	ReferenceFontColor #3e3f3a
+	ReferenceHeaderFontColor #29abe0
+	ReferenceHeaderBackgroundColor #8e8c84
+	StereotypeFontColor #fff
+}
+
+
+skinparam partition {
+	BorderColor #325d88
+	FontColor #325d88
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+}
+
+
+skinparam control {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+}
+
+
+skinparam entity {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+}
+
+
+skinparam boundary {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+}
+
+
+skinparam agent {
+	BackgroundColor #f47c3c
+	BorderColor #f58950
+	FontColor #3e3f3a
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #29abe0
+	BorderColor #259aca
+	FontColor #fff
+}
+
+
+skinparam artifact {
+	BackgroundColor #3e3f3a
+	BorderColor #383934
+	FontColor #f8f5f0
+}
+
+
+skinparam component {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+}
+
+
+skinparam interface {
+	BackgroundColor  #c34b47
+	BorderColor  #d9534f
+	FontColor #3e3f3a
+}
+
+
+skinparam storage {
+	BackgroundColor #f47c3c
+  	BorderColor #dc7036
+	FontColor #fff
+}
+
+
+skinparam node {
+	BackgroundColor  #8e8c84
+	BorderColor #f8f5f0
+	FontColor #f8f5f0
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #3e3f3a
+}
+
+
+skinparam database {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+}
+
+
+skinparam class {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+	HeaderBackgroundColor #476d94
+	StereotypeFontColor #3e3f3a
+	BorderThickness 1
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+	StereotypeFontColor #3e3f3a
+	BorderThickness 1
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+	BorderThickness 2
+	StereotypeFontColor #325d88
+}
+
+
+skinparam rectangle {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+	BackgroundColor #999890
+	BorderThickness 2
+	StereotypeFontColor #325d88
+}
+
+
+skinparam package {
+	BackgroundColor #8e8c84
+  	BorderColor #325d88
+	FontColor #325d88
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #999890
+  	BorderColor #f47c3c
+	FontColor #f47c3c
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #999890
+  	BorderColor #29abe0
+	FontColor #29abe0
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+	BackgroundColor #476d94
+	StartColor #29abe0
+	EndColor #29abe0
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #fff
+	BorderColor #2d547a
+	BackgroundColor #325d88
+}
+
+
+skinparam card {
+	BackgroundColor #29abe0
+	BorderColor #259aca
+	FontColor #fff
+}
+
+
+skinparam file {
+	BackgroundColor #807e77
+	BorderColor #f8f5f0
+	FontColor #f8f5f0
+}
+
+
+title sandstone theme
+
+object user1
+user1 : name = "Dummy"
+user1 : id = 123
+
+object user2 {
+  name = "Dummy"
+  id = 123
+}
+
+object o1
+object o2
+diamond dia
+object o3
+
+o1  - -> dia
+o2  - -> dia
+dia - -> o3
+@enduml
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

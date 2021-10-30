@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="270px" preserveAspectRatio="none" style="width:426px;height:270px;background:#FFFFFF;" version="1.1" viewBox="0 0 426 270" width="426px" zoomAndPan="magnify"><defs><filter height="300%" id="fnlbh9rjuxxy5" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="none" height="26.2969" style="stroke:none;stroke-width:1.0;" width="165" x="123.75" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="155" x="128.75" y="22.9951">resume-light theme</text><!--MD5=[f7e826e1488aa6662a4b5ddfe29b6b3b]
+class abstract--><rect codeLine="6" fill="#FEFECE" height="48" id="abstract" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="87" x="21" y="47.792"/><ellipse cx="36" cy="63.792" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M36.1094,59.1357 L34.9531,64.2139 L37.2813,64.2139 L36.1094,59.1357 Z M34.625,56.9014 L37.6094,56.9014 L40.9688,69.292 L38.5156,69.292 L37.75,66.2295 L34.4688,66.2295 L33.7188,69.292 L31.2813,69.292 L34.625,56.9014 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="55" x="50" y="68.6387">abstract</text><line style="stroke:#A80036;stroke-width:1.5;" x1="22" x2="107" y1="79.792" y2="79.792"/><line style="stroke:#A80036;stroke-width:1.5;" x1="22" x2="107" y1="87.792" y2="87.792"/><!--MD5=[17df400e90568e28eeaed93acf178394]
+class abstract class--><rect codeLine="7" fill="#FEFECE" height="48" id="abstract class" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="124" x="126.5" y="47.792"/><ellipse cx="141.5" cy="63.792" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M141.6094,59.1357 L140.4531,64.2139 L142.7813,64.2139 L141.6094,59.1357 Z M140.125,56.9014 L143.1094,56.9014 L146.4688,69.292 L144.0156,69.292 L143.25,66.2295 L139.9688,66.2295 L139.2188,69.292 L136.7813,69.292 L140.125,56.9014 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="92" x="155.5" y="68.6387">abstract class</text><line style="stroke:#A80036;stroke-width:1.5;" x1="127.5" x2="249.5" y1="79.792" y2="79.792"/><line style="stroke:#A80036;stroke-width:1.5;" x1="127.5" x2="249.5" y1="87.792" y2="87.792"/><!--MD5=[7cb74e68c9f11cf3f5cc35e0143045f8]
+class annotation--><rect codeLine="8" fill="#FEFECE" height="48" id="annotation" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="106" x="268.5" y="47.792"/><ellipse cx="283.5" cy="63.792" fill="#E3664A" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M285.5781,64.2607 Q285.5781,63.3232 285.1563,62.792 Q284.7344,62.2607 283.9844,62.2607 Q283.25,62.2607 282.8281,62.792 Q282.4219,63.3232 282.4219,64.2607 Q282.4219,65.2139 282.8281,65.7451 Q283.25,66.2764 283.9844,66.2764 Q284.7344,66.2764 285.1563,65.7451 Q285.5781,65.2139 285.5781,64.2607 Z M287.125,67.667 L285.5,67.667 L285.5,66.9951 Q285.1719,67.4326 284.75,67.6357 Q284.3281,67.8389 283.7188,67.8389 Q282.3594,67.8389 281.5313,66.8701 Q280.7031,65.8857 280.7031,64.2607 Q280.7031,62.667 281.5313,61.6982 Q282.3594,60.7139 283.7188,60.7139 Q284.3125,60.7139 284.7656,60.917 Q285.2188,61.1201 285.5,61.5107 L285.5,61.167 Q285.5,60.042 284.875,59.4326 Q284.25,58.8076 283.1094,58.8076 Q281.3906,58.8076 280.2969,60.3389 Q279.2031,61.8545 279.2031,64.292 Q279.2031,66.8389 280.4531,68.3389 Q281.7188,69.8389 283.8281,69.8389 Q284.4844,69.8389 285.1094,69.6514 Q285.7344,69.4639 286.3125,69.0732 L287.0781,70.5264 Q286.4063,70.9795 285.6094,71.1982 Q284.8125,71.4326 283.9063,71.4326 Q281,71.4326 279.2656,69.4951 Q277.5469,67.5732 277.5469,64.292 Q277.5469,61.0732 279.0938,59.1514 Q280.6563,57.2139 283.2188,57.2139 Q285.0156,57.2139 286.0625,58.3076 Q287.125,59.4014 287.125,61.2764 L287.125,67.667 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="297.5" y="68.6387">annotation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="269.5" x2="373.5" y1="79.792" y2="79.792"/><line style="stroke:#A80036;stroke-width:1.5;" x1="269.5" x2="373.5" y1="87.792" y2="87.792"/><!--MD5=[da456bc05ddb284180092693c9c3b3b1]
+entity circle--><ellipse cx="401.5" cy="68.792" fill="#FEFECE" filter="url(#fnlbh9rjuxxy5)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="383.5" y="98.7871">circle</text><!--MD5=[87adb442a9baea16d5e9c4faa47d2afb]
+entity circle_short_form--><ellipse cx="64.5" cy="152.792" fill="#FEFECE" filter="url(#fnlbh9rjuxxy5)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="6" y="182.7871">circle_short_form</text><!--MD5=[c4c892d05414254cdeba8adc63897f88]
+class class--><rect codeLine="11" fill="#FEFECE" height="48" id="class" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="67" x="92" y="131.792"/><ellipse cx="107" cy="147.792" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M109.9688,153.4326 Q109.3906,153.7295 108.75,153.8701 Q108.1094,154.0264 107.4063,154.0264 Q104.9063,154.0264 103.5781,152.3857 Q102.2656,150.7295 102.2656,147.6045 Q102.2656,144.4795 103.5781,142.8232 Q104.9063,141.167 107.4063,141.167 Q108.1094,141.167 108.75,141.3232 Q109.4063,141.4795 109.9688,141.7764 L109.9688,144.4951 Q109.3438,143.917 108.75,143.6514 Q108.1563,143.3701 107.5313,143.3701 Q106.1875,143.3701 105.5,144.4482 Q104.8125,145.5107 104.8125,147.6045 Q104.8125,149.6982 105.5,150.7764 Q106.1875,151.8389 107.5313,151.8389 Q108.1563,151.8389 108.75,151.5732 Q109.3438,151.292 109.9688,150.7139 L109.9688,153.4326 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="35" x="121" y="152.6387">class</text><line style="stroke:#A80036;stroke-width:1.5;" x1="93" x2="158" y1="163.792" y2="163.792"/><line style="stroke:#A80036;stroke-width:1.5;" x1="93" x2="158" y1="171.792" y2="171.792"/><polygon fill="#FEFECE" filter="url(#fnlbh9rjuxxy5)" points="189.5,143.792,201.5,155.792,189.5,167.792,177.5,155.792,189.5,143.792" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#FEFECE" points="231.5,143.792,243.5,155.792,231.5,167.792,219.5,155.792,231.5,143.792" style="stroke:#A80036;stroke-width:1.5;"/><!--MD5=[467568f20bbf29da492dca29e9e0779e]
+class entity--><rect codeLine="14" fill="#FEFECE" height="48" id="entity" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="70" x="29.5" y="215.792"/><ellipse cx="44.5" cy="231.792" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M48.6094,237.792 L40.8906,237.792 L40.8906,225.4014 L48.6094,225.4014 L48.6094,227.5576 L43.3438,227.5576 L43.3438,230.2295 L48.1094,230.2295 L48.1094,232.3857 L43.3438,232.3857 L43.3438,235.6357 L48.6094,235.6357 L48.6094,237.792 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="58.5" y="236.6387">entity</text><line style="stroke:#A80036;stroke-width:1.5;" x1="30.5" x2="98.5" y1="247.792" y2="247.792"/><line style="stroke:#A80036;stroke-width:1.5;" x1="30.5" x2="98.5" y1="255.792" y2="255.792"/><!--MD5=[b1bf79d8358773e9ea7a3730761a57e9]
+class enum--><rect codeLine="15" fill="#FEFECE" height="48" id="enum" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="72" x="117.5" y="215.792"/><ellipse cx="132.5" cy="231.792" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M136.6094,237.792 L128.8906,237.792 L128.8906,225.4014 L136.6094,225.4014 L136.6094,227.5576 L131.3438,227.5576 L131.3438,230.2295 L136.1094,230.2295 L136.1094,232.3857 L131.3438,232.3857 L131.3438,235.6357 L136.6094,235.6357 L136.6094,237.792 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="146.5" y="236.6387">enum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="118.5" x2="188.5" y1="247.792" y2="247.792"/><line style="stroke:#A80036;stroke-width:1.5;" x1="118.5" x2="188.5" y1="255.792" y2="255.792"/><!--MD5=[d9847530b5dea828dbcbb50914b76f30]
+class interface--><rect codeLine="16" fill="#FEFECE" height="48" id="interface" rx="5" ry="5" style="stroke:#A80036;stroke-width:1.5;" width="92" x="207.5" y="215.792"/><ellipse cx="222.5" cy="231.792" fill="#B4A7E5" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M218.4219,227.5576 L218.4219,225.4014 L225.8125,225.4014 L225.8125,227.5576 L223.3438,227.5576 L223.3438,235.6357 L225.8125,235.6357 L225.8125,237.792 L218.4219,237.792 L218.4219,235.6357 L220.8906,235.6357 L220.8906,227.5576 L218.4219,227.5576 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="60" x="236.5" y="236.6387">interface</text><line style="stroke:#A80036;stroke-width:1.5;" x1="208.5" x2="298.5" y1="247.792" y2="247.792"/><line style="stroke:#A80036;stroke-width:1.5;" x1="208.5" x2="298.5" y1="255.792" y2="255.792"/><!--MD5=[25c5f3aec8c2edcfc0449587501730e4]
+@startuml
+!pragma layout smetana
+!theme resume-light
+title resume-light theme
+abstract        abstract
+abstract class  "abstract class"
+annotation      annotation
+circle          circle
+()              circle_short_form
+class           class
+diamond         diamond
+<>              diamond_short_form
+entity          entity
+enum            enum
+interface       interface
+@enduml
+
+@startuml
+!pragma layout smetana
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+skinparam  {
+    skinparam defaultFontName   "Verdana"
+    skinparam defaultFontSize   12
+    defaultTextAlignment        center
+    shadowing                   false
+    RoundCorner                 10
+    TitleFontSize               18
+}
+<style>
+    wbsDiagram {
+        LineColor #f0f0f0
+        BorderThickness 3
+        BackgroundColor #f9f9f9
+        FontColor #6a9fb5
+        :depth(0) {
+            fontSize 16
+            fontStyle bold
+        }
+        :depth(1) {
+            fontSize 14
+            padding 5
+            fontStyle bold
+        }
+        :depth(2) {
+            fontSize 12
+            padding 3
+        }
+        :depth(3) {
+            fontSize 10
+            padding 2
+        }
+
+    }
+</style>
+title resume-light theme
+abstract        abstract
+abstract class  "abstract class"
+annotation      annotation
+circle          circle
+()              circle_short_form
+class           class
+diamond         diamond
+<>              diamond_short_form
+entity          entity
+enum            enum
+interface       interface
+@enduml
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

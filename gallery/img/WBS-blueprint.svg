@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="229px" preserveAspectRatio="none" style="width:246px;height:229px;background:#003153;" version="1.1" viewBox="0 0 246 229" width="246px" zoomAndPan="magnify"><defs/><g><rect fill="#003153" height="35.6094" style="stroke:#003153;stroke-width:0.0;" width="215" x="10" y="10"/><text fill="#D9D3D0" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="205" x="15" y="35.4209">blueprint theme</text><rect fill="#003153" height="33.9688" style="stroke:#D9D3D0;stroke-width:1.0;" width="55" x="90.5" y="51.6094"/><text fill="#D9D3D0" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="35" x="100.5" y="72.748">World</text><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="118" x2="118" y1="85.5781" y2="105.5781"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="53.75" x2="53.75" y1="105.5781" y2="125.5781"/><rect fill="#003153" height="33.9688" style="stroke:#D9D3D0;stroke-width:1.0;" width="74" x="16.75" y="125.5781"/><text fill="#D9D3D0" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="50" x="26.75" y="146.7168">America</text><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="53.75" x2="63.75" y1="172.5313" y2="172.5313"/><text fill="#D9D3D0" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="48" x="63.75" y="176.6855">Canada</text><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="53.75" x2="63.75" y1="193.5" y2="193.5"/><text fill="#D9D3D0" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="42" x="63.75" y="197.6543">Mexico</text><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="53.75" x2="63.75" y1="214.4688" y2="214.4688"/><text fill="#D9D3D0" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="25" x="63.75" y="218.623">USA</text><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="53.75" x2="53.75" y1="159.5469" y2="214.4688"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="171.25" x2="171.25" y1="105.5781" y2="125.5781"/><rect fill="#003153" height="33.9688" style="stroke:#D9D3D0;stroke-width:1.0;" width="65" x="138.75" y="125.5781"/><text fill="#D9D3D0" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="45" x="148.75" y="146.7168">Europe</text><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="171.25" x2="181.25" y1="172.5313" y2="172.5313"/><text fill="#D9D3D0" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="51" x="181.25" y="176.6855">England</text><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="171.25" x2="181.25" y1="193.5" y2="193.5"/><text fill="#D9D3D0" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="55" x="181.25" y="197.6543">Germany</text><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="171.25" x2="181.25" y1="214.4688" y2="214.4688"/><text fill="#D9D3D0" font-family="Verdana" font-size="12" lengthAdjust="spacing" textLength="35" x="181.25" y="218.623">Spain</text><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="171.25" x2="171.25" y1="159.5469" y2="214.4688"/><line style="stroke:#D9D3D0;stroke-width:1.0;" x1="53.75" x2="171.25" y1="105.5781" y2="105.5781"/><!--MD5=[9f276dddda9d752d682e2f688ef4e4be]
+@startwbs
+!pragma layout smetana
+!theme blueprint
+title blueprint theme
+* World
+** America 
+***_ Canada 
+***_ Mexico
+***_ USA
+** Europe
+***_  England
+***_  Germany
+***_  Spain
+@endwbs
+
+@startwbs
+!pragma layout smetana
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor #003153
+    FontColor #D9D3D0
+    FontName Verdana
+    HyperLinkColor #D9D3D0
+    LineColor #D9D3D0
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor #D9D3D0
+skinparam BackgroundColor #003153
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor #D9D3D0
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor #003153
+  BarColor #D9D3D0
+  BorderColor #D9D3D0
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor #D9D3D0
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor #D9D3D0
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam Header {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color #D9D3D0
+}
+skinparam IconPackage {
+  Color #D9D3D0
+  BackgroundColor #003153
+}
+skinparam IconPrivate {
+  Color #D9D3D0
+  BackgroundColor #003153
+}
+skinparam IconProtected {
+  Color #D9D3D0
+  BackgroundColor #003153
+}
+skinparam IconPublic {
+  Color #D9D3D0
+  BackgroundColor #003153
+}
+skinparam Note {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam Package {
+  BorderColor #D9D3D0
+  FontColor #D9D3D0
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam StereotypeA {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam StereotypeC {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam StereotypeE {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam StereotypeI {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam StereotypeN {
+  BackgroundColor #003153
+  BorderColor #D9D3D0
+}
+skinparam UseCaseStereoType {
+  FontColor #D9D3D0
+  FontName Verdana
+}
+title blueprint theme
+* World
+** America 
+***_ Canada 
+***_ Mexico
+***_ USA
+** Europe
+***_  England
+***_  Germany
+***_  Spain
+@endwbs
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

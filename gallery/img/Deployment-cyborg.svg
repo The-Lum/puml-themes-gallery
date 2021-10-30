@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="466px" preserveAspectRatio="none" style="width:850px;height:466px;background:#FFFFFF;" version="1.1" viewBox="0 0 850 466" width="850px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="334" x="5" y="16.1387">An error has occured : java.lang.NullPointerException</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="431" x="5" y="30.1074">If you are a friend, you speak the password, and the doors will open.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="44.0762"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="277" x="5" y="58.0449">Java Runtime: OpenJDK Runtime Environment</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="187" x="5" y="72.0137">JVM: OpenJDK 64-Bit Server VM</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="85.9824">Default Encoding: UTF-8</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="5" y="99.9512">Language: en</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="5" y="113.9199">Country: null</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="127.8887"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="5" y="141.8574">PLANTUML_LIMIT_SIZE: 4096</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="155.8262"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="319" x="5" y="169.7949">Sorry, the subproject Smetana is not finished yet...</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="183.7637"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="300" x="5" y="197.7324">You should send this diagram and this image to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="309" y="197.7324">plantuml@gmail.com</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="458" y="197.7324">or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="5" y="211.7012">post to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="160" x="54" y="211.7012">http://plantuml.com/qa</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="218" y="211.7012">to solve this issue.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="225.6699"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="189" x="5" y="239.6387">java.lang.NullPointerException</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="681" x="13" y="253.6074">net.sourceforge.plantuml.svek.image.EntityImageDescription.drawHexagon(EntityImageDescription.java:334)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="635" x="13" y="267.5762">net.sourceforge.plantuml.svek.image.EntityImageDescription.drawU(EntityImageDescription.java:302)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="759" x="13" y="281.5449">net.sourceforge.plantuml.sdot.CucaDiagramFileMakerSmetana$Drawing.drawU(CucaDiagramFileMakerSmetana.java:152)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="523" x="13" y="295.5137">net.sourceforge.plantuml.graphic.TextBlockUtils.getMinMax(TextBlockUtils.java:188)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="768" x="13" y="309.4824">net.sourceforge.plantuml.sdot.CucaDiagramFileMakerSmetana.createFileLocked(CucaDiagramFileMakerSmetana.java:448)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="724" x="13" y="323.4512">net.sourceforge.plantuml.sdot.CucaDiagramFileMakerSmetana.createFile(CucaDiagramFileMakerSmetana.java:395)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="625" x="13" y="337.4199">net.sourceforge.plantuml.cucadiagram.CucaDiagram.exportDiagramInternal(CucaDiagram.java:615)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="351.3887">net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="365.3574">net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:177)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="379.3262">net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault(PSystemUtils.java:209)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="485" x="13" y="393.2949">net.sourceforge.plantuml.PSystemUtils.exportDiagrams(PSystemUtils.java:93)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="693" x="13" y="407.2637">net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages(SourceFileReaderAbstract.java:178)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="402" x="13" y="421.2324">net.sourceforge.plantuml.Run.manageFileInternal(Run.java:519)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="360" x="13" y="435.2012">net.sourceforge.plantuml.Run.processArgs(Run.java:402)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="375" x="13" y="449.1699">net.sourceforge.plantuml.Run.manageAllFiles(Run.java:369)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="312" x="13" y="463.1387">net.sourceforge.plantuml.Run.main(Run.java:204)</text><image height="71" width="40" x="810" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABHCAYAAAB1XAXiAAAEVUlEQVR4Xs2Zy3HrMAxF4yJcgWtICSnADWTvDtKBC/A+BWTvDlyDW0gZyjvOnDcIQ+pPhZjhSKZI4vICBCD56WlFud1u3efnZ5f2NyHdP2kaIHK9Xrv7/d4mQBlsGuDpdOrO5zO3bYEE0MfHR7fb7R4NJpsCCRjB0Q6HQ5sAAUbjvirAXKjI9SkCvFwu3fv7+yiAfeutLoB5eXl5tOPx2L2+vg4C3FQAwyER3NxDUo1VwGDa5+fnB4sE7DkAq4kAYY9Y2CxATYy5mwP49vb2YI/rUDZZ1dfSxdLfCGAABYOAJNz0AVwkOQBDAhhAyR7mrgZwjgAG3wMgQJuMgzAng1NNPMdqkwQw8YBwnQKwugCGAC1ADktTABH9jwPSx2B1c+YEpbBGAxwprwRwNcntNNeHUBzAHAySRbiWxm4uMEXuNZPgg4SZZl6eBAhzBmnu55RcVVgHBKBkzjDTTEUjg/idp5jWFEBYkzn9cCibLDLnlMmAAAyMmU3wwc0LhhJoGTTMxPtNAZYEEKQ5Tq3B2vtmAJreDNSYupmy3zQna6Q5+qamu5ILLRYOh4E6pjquf55NYCiW+piWYE1fVTOPpVv/A4ihBaAyWg3gWEE5gKxmonnpK4WasQQsFpQTYjwUxkH7/jTUoBgQgAIIZo3mBiS/HZvOryooRHn8qtrXNi8cUAZzKZBSqwawz5mJcXzu1e8ws3kY81rh7Pf74hpKn57ZAiMoBySAOCR+H/TKM8ZUYa9PUBjLK4AQVswqNPpkdk75v0hQhlLAkTn0sSj0GXr+BCCmiz4XAXAPg4Qb/XBTgLBjcM5lDO5lzuqG+7hGNUE5rFj35V6QuDdoWzSkm5gtQ0ceJZjMKqZkPtbBzG6iNG5VQYFMEIABAZs5xY7FtIKrXt2wOD5lEIbB0pcs+uI3Q0NObuwqoqPrUyj0PxGf25xjlvFLAwDTMYuFHbM4yswMNN/grKL99GZs9E8d+glDztMCq70OABDGPBCCAqz3Nk0Z+0x93ntwVgveMphWKEsbDK4GkN2yqGaKpvZ3bOkY5qa/VwWo+XzfwFT6mNc4xo9I0T9pPPOzSOn0TxLNa/lEQxEMcFU57MRySyYFxjjneGhMk4tBoojdurDmgQUaLLEJlMFuvAeYjOkmrmOZNhsgEzEZC/vlFGXs3OALCMfmhGdGAMYz199sjI2WMlGvMAEmAKRZrF4EFkH0ieN8qbe60Y/pn2VqTpvVSDQPzyYv9vQ9x02yNuyx9uRCgoHsFAY1K0ABOHqRgjwW6L4LDbOT/jnK1AywdjNusVOuPk/nTBXWsBTTMrrOKFPjG3FH/IbFwYkThLXM2Yjg0leHH8KD+OnM+DfJPyYIa8IeoNBloZEN4HToD4AEmAF21dIoCDot3wzc6LM0+wUypjHNy+RfA1cU1oYIBGCy+ePAcGM5FE/UUtOOZR4dmBpyaPg7TP73R3Nr2rK+kJGxQEqCjhIGSPsCw/2b+SOFM5UAAAAASUVORK5CYII=" y="6"/><!--MD5=[89880d34d37e7fe4dd7641f53187898c]
+@startuml
+!pragma layout smetana
+!theme cyborg
+title cyborg theme
+actor actor
+actor/ "actor/"
+agent agent
+artifact artifact
+boundary boundary
+card card
+circle circle
+cloud cloud
+collections collections
+component component
+control control
+database database
+entity entity
+file file
+folder folder
+frame frame
+hexagon hexagon
+interface interface
+label label
+node node
+package package
+person person
+queue queue
+rectangle rectangle
+stack stack
+storage storage
+usecase usecase
+usecase/ "usecase/"
+@enduml
+
+@startuml
+!pragma layout smetana
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #ADAFAE
+skinparam stereotype {
+    CBackgroundColor #777777
+    CBorderColor #444444
+    ABackgroundColor #5F8F00
+    ABorderColor #92C233
+    IBackgroundColor #A30000
+    IBorderColor #D63333
+    EBackgroundColor #CC6D00
+    EBorderColor #FFA033
+    NBackgroundColor #9F161B
+    NBorderColor #AD5CD6
+}
+skinparam title {
+	FontColor	                 #2A9FD6
+	BorderColor	                 #777777
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #444444-#555
+}
+
+
+skinparam legend {
+	BackgroundColor #555
+	BorderColor #777777
+	FontColor #ADAFAE
+}
+
+skinparam swimlane {
+	BorderColor #9933CC
+	BorderThickness 2
+	TitleBackgroundColor  #444444-#555
+	TitleFontColor #2A9FD6
+}
+
+
+skinparam activity {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	BarColor #77B300
+	StartColor #9933CC
+	EndColor #9933CC
+	DiamondBackgroundColor #444444
+  	DiamondBorderColor #777777
+  	DiamondFontColor #FFF
+}
+
+
+skinparam participant {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	FontColor #2A9FD6
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #2A9FD6
+	FontColor #FFF
+}
+
+
+skinparam sequence {
+	BorderColor #2A9FD6
+	TitleFontColor #2A9FD6
+	BackgroundColor transparent
+	StartColor #2A9FD6
+	EndColor #2A9FD6
+	BoxBackgroundColor transparent
+	BoxBorderColor #ADAFAE
+	BoxFontColor #ADAFAE
+	DelayFontColor #ADAFAE
+	LifeLineBorderColor #555
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #777777
+	GroupBorderColor #555
+	GroupFontColor #ADAFAE
+	GroupHeaderFontColor #9933CC
+	GroupBackgroundColor #555
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #ADAFAE
+    DividerBorderColor #ADAFAE
+    DividerBorderThickness 2
+    DividerFontColor #222
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #555
+	ReferenceFontColor #FFF
+	ReferenceHeaderBackgroundColor #555
+	StereotypeFontColor #FFF
+}
+
+
+skinparam partition {
+	BorderColor #2A9FD6
+	FontColor #2A9FD6
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+}
+
+
+skinparam control {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	FontColor #ADAFAE
+}
+
+
+skinparam entity {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	FontColor #ADAFAE
+}
+
+
+skinparam boundary {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	FontColor #ADAFAE
+}
+
+
+skinparam agent {
+	BackgroundColor #FF8800
+	BorderColor #CC6D00
+	FontColor #ADAFAE
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #9933CC
+	BorderColor #AD5CD6
+	FontColor #FFF
+}
+
+
+skinparam artifact {
+	BackgroundColor #ADAFAE
+	BorderColor #BDBFBE
+	FontColor #222
+}
+
+
+skinparam component {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+}
+
+
+skinparam interface {
+	BackgroundColor  #D63333
+	BorderColor  #CC0000
+	FontColor #ADAFAE
+}
+
+
+skinparam storage {
+	BackgroundColor #FF8800
+  	BorderColor #FFA033
+	FontColor #FFF
+}
+
+
+skinparam node {
+	BackgroundColor  #555
+	BorderColor #ADAFAE
+	FontColor #ADAFAE
+}
+
+
+skinparam cloud {
+	BackgroundColor #222-black
+	BorderColor #222
+	FontColor #ADAFAE
+}
+
+
+skinparam database {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	FontColor #ADAFAE
+}
+
+
+skinparam actor {
+	FontColor #ADAFAE
+}
+
+
+skinparam class {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	HeaderBackgroundColor #227FAB
+	StereotypeFontColor #ADAFAE
+	BorderThickness 1
+	AttributeFontColor #222
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	StereotypeFontColor #ADAFAE
+	BorderThickness 1
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	BorderThickness 2
+	StereotypeFontColor #2A9FD6
+}
+
+
+skinparam rectangle {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	BackgroundColor #444444
+	BorderThickness 2
+	StereotypeFontColor #2A9FD6
+}
+
+
+skinparam package {
+	BackgroundColor #555
+  	BorderColor #2A9FD6
+	FontColor #2A9FD6
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #444444
+  	BorderColor #FF8800
+	FontColor #FF8800
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #444444
+  	BorderColor #9933CC
+	FontColor #9933CC
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+	StartColor #9933CC
+	EndColor #9933CC
+	AttributeFontColor #FFF
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #FFF
+	BorderColor #55B2DE
+	BackgroundColor #2A9FD6
+}
+
+
+skinparam card {
+	BackgroundColor #9933CC
+	BorderColor #AD5CD6
+	FontColor #FFF
+}
+
+
+skinparam file {
+	BackgroundColor #777777
+	BorderColor #ADAFAE
+	FontColor #ADAFAE
+}
+
+
+title cyborg theme
+actor actor
+actor/ "actor/"
+agent agent
+artifact artifact
+boundary boundary
+card card
+circle circle
+cloud cloud
+collections collections
+component component
+control control
+database database
+entity entity
+file file
+folder folder
+frame frame
+hexagon hexagon
+interface interface
+label label
+node node
+package package
+person person
+queue queue
+rectangle rectangle
+stack stack
+storage storage
+usecase usecase
+usecase/ "usecase/"
+@enduml
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

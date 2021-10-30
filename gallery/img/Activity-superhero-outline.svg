@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="498.9583px" preserveAspectRatio="none" style="width:352px;height:498px;background:#00000000;" version="1.1" viewBox="0 0 352 498" width="352.0833px" zoomAndPan="magnify"><defs/><g><rect height="45.0846" rx="4.1667" ry="4.1667" style="stroke:#717D89;stroke-width:1.0416666666666667;fill:none;" width="286.4583" x="31.25" y="12.5"/><text fill="#DF691A" font-family="Verdana" font-size="20.8333" lengthAdjust="spacing" textLength="259.375" x="44.7917" y="42.2546">superhero-outline theme</text><ellipse cx="115.8854" cy="71.1263" fill="#5BC0DE" rx="10.4167" ry="10.4167" style="stroke:none;stroke-width:1.0416666666666667;"/><rect height="45.8008" rx="13.0208" ry="13.0208" style="stroke:#E58748;stroke-width:1.5625;fill:none;" width="51.0417" x="90.3646" y="102.3763"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="19.7917" x="105.9896" y="129.6041">init</text><polygon points="91.4063,193.9779,140.3646,193.9779,152.8646,206.4779,140.3646,218.9779,91.4063,218.9779,78.9063,206.4779,91.4063,193.9779" style="stroke:#717D89;stroke-width:1.5625;fill:none;"/><text fill="#717D89" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="38.5417" x="96.6146" y="210.8053">color?</text><text fill="#FF0000" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="21.875" x="51.8229" y="198.3215">red</text><rect height="45.8008" rx="13.0208" ry="13.0208" style="stroke:#E58748;stroke-width:1.5625;fill:none;" width="87.5" x="11.4583" y="229.3945"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="56.25" x="27.0833" y="256.6223">print red</text><path d="M254.1667,234.6029 L254.1667,248.1283 L233.3333,252.2949 L254.1667,256.4616 L254.1667,269.987 A0,0 0 0 0 254.1667,269.987 L339.5833,269.987 A0,0 0 0 0 339.5833,269.987 L339.5833,245.0195 L329.1667,234.6029 L254.1667,234.6029 A0,0 0 0 0 254.1667,234.6029 " style="stroke:#7CCDE5;stroke-width:1.0416666666666667;fill:none;"/><path d="M329.1667,234.6029 L329.1667,245.0195 L339.5833,245.0195 L329.1667,234.6029 " style="stroke:#7CCDE5;stroke-width:1.0416666666666667;fill:none;"/><text fill="#7CCDE5" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="53.125" x="265.625" y="256.6223">no color</text><rect height="45.8008" rx="13.0208" ry="13.0208" style="stroke:#E58748;stroke-width:1.5625;fill:none;" width="113.5417" x="119.7917" y="229.3945"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="82.2917" x="135.4167" y="256.6223">print not red</text><polygon points="115.8854,281.4453,128.3854,293.9453,115.8854,306.4453,103.3854,293.9453,115.8854,281.4453" style="stroke:#717D89;stroke-width:1.5625;fill:none;"/><rect height="104.1016" rx="4.1667" ry="4.1667" style="stroke:#DF691A;stroke-width:2.0833333333333335;fill:none;" width="77.0833" x="77.3438" y="316.862"/><path d="M123.1771,316.862 L123.1771,334.5378 L112.7604,344.9544 L77.3438,344.9544 " fill="none" style="stroke:#DF691A;stroke-width:2.0833333333333335;"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="25" x="85.6771" y="334.7148">End</text><rect height="45.8008" rx="13.0208" ry="13.0208" style="stroke:#E58748;stroke-width:1.5625;fill:none;" width="56.25" x="87.7604" y="362.6628"/><text fill="#DF691A" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="25" x="103.3854" y="389.8905">end</text><ellipse cx="115.8854" cy="477.181" rx="10.4167" ry="10.4167" style="stroke:#5BC0DE;stroke-width:1.5625;fill:none;"/><line style="stroke:#5BC0DE;stroke-width:2.604166666666667;fill:none;" x1="109.4404" x2="122.3304" y1="470.736" y2="483.626"/><line style="stroke:#5BC0DE;stroke-width:2.604166666666667;fill:none;" x1="122.3304" x2="109.4404" y1="470.736" y2="483.626"/><line style="stroke:#DF691A;stroke-width:1.5625;fill:none;" x1="115.8854" x2="115.8854" y1="81.543" y2="102.3763"/><polygon fill="#DF691A" points="111.7188,91.9596,115.8854,102.3763,120.0521,91.9596,115.8854,96.1263" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="78.9063" x2="55.2083" y1="206.4779" y2="206.4779"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="55.2083" x2="55.2083" y1="206.4779" y2="229.3945"/><polygon fill="#DF691A" points="51.0417,218.9779,55.2083,229.3945,59.375,218.9779,55.2083,223.1445" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="152.8646" x2="176.5625" y1="206.4779" y2="206.4779"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="176.5625" x2="176.5625" y1="206.4779" y2="229.3945"/><polygon fill="#DF691A" points="172.3958,218.9779,176.5625,229.3945,180.7292,218.9779,176.5625,223.1445" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="55.2083" x2="55.2083" y1="275.1953" y2="293.9453"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="55.2083" x2="103.3854" y1="293.9453" y2="293.9453"/><polygon fill="#DF691A" points="92.9688,289.7786,103.3854,293.9453,92.9688,298.112,97.1354,293.9453" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="176.5625" x2="176.5625" y1="275.1953" y2="293.9453"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="176.5625" x2="128.3854" y1="293.9453" y2="293.9453"/><polygon fill="#DF691A" points="138.8021,289.7786,128.3854,293.9453,138.8021,298.112,134.6354,293.9453" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="115.8854" x2="115.8854" y1="148.1771" y2="193.9779"/><polygon fill="#DF691A" points="111.7188,183.5612,115.8854,193.9779,120.0521,183.5612,115.8854,187.7279" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="79.1667" x="125.2604" y="171.582">test of color</text><line style="stroke:#DF691A;stroke-width:1.5625;" x1="115.8854" x2="115.8854" y1="306.4453" y2="362.6628"/><polygon fill="#DF691A" points="111.7188,352.2461,115.8854,362.6628,120.0521,352.2461,115.8854,356.4128" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><line style="stroke:#DF691A;stroke-width:1.5625;" x1="115.8854" x2="115.8854" y1="408.4635" y2="466.7643"/><polygon fill="#DF691A" points="111.7188,456.3477,115.8854,466.7643,120.0521,456.3477,115.8854,460.5143" style="stroke:#DF691A;stroke-width:1.0416666666666667;"/><text fill="#FFFFFF" font-family="Verdana" font-size="12.5" lengthAdjust="spacing" textLength="93.75" x="125.2604" y="444.3685">this is the end</text><!--MD5=[97fe44e53124c33cee384e466fe45ad1]
+@startuml
+!pragma layout smetana
+!theme superhero-outline
+title superhero-outline theme
+start
+:init;
+-> test of color;
+if (color?) is (<color:red>red) then
+  :print red;
+else 
+  :print not red;
+  note right: no color
+endif
+partition End {
+  :end;
+}
+-> this is the end;
+end
+@enduml
+
+@startuml
+!pragma layout smetana
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam TitleFontColor	    #4E5D6C
+skinparam TitleFontSize	    	20
+skinparam TitleBorderThickness 	0
+skinparam ArrowColor            #4E5D6C
+skinparam stereotype {
+    CBackgroundColor #717d89
+    CBorderColor #3e4a56
+    ABackgroundColor #5F8F00
+    ABorderColor #4a934a
+    IBackgroundColor #AE423F
+    IBorderColor #e17572
+    EBackgroundColor #C08A3E
+    EBorderColor #f3bd71
+    NBackgroundColor #499AB2
+    NBorderColor #7ccde5
+}
+skinparam title {
+	FontColor	                 #DF691A
+	BorderColor	                 #717d89
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              transparent
+}
+
+
+skinparam legend {
+	BackgroundColor transparent
+	BorderColor #717d89
+	FontColor #abb6c2
+}
+
+skinparam swimlane {
+	BorderColor #5bc0de
+	BorderThickness 2
+	TitleBackgroundColor  #3e4a56-#4E5D6C
+	TitleFontColor #DF691A
+}
+
+
+skinparam activity {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+	BarColor #5cb85c
+	StartColor #5bc0de
+	EndColor #5bc0de
+	DiamondBackgroundColor transparent
+  	DiamondBorderColor #717d89
+  	DiamondFontColor #717d89
+}
+
+
+skinparam participant {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+	FontColor #DF691A
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #DF691A
+	FontColor #FFF
+}
+
+
+skinparam sequence {
+	BorderColor #DF691A
+	TitleFontColor #DF691A
+	BackgroundColor transparent
+	StartColor #DF691A
+	EndColor #DF691A
+	BoxBackgroundColor transparent
+	BoxBorderColor #4E5D6C
+	BoxFontColor #4E5D6C
+	DelayFontColor #4E5D6C
+	LifeLineBorderColor #4E5D6C
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor transparent
+	GroupBorderColor #4E5D6C
+	GroupFontColor #4E5D6C
+	GroupHeaderFontColor #5bc0de
+	GroupBackgroundColor transparent
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor transparent
+    DividerBorderColor #4E5D6C
+    DividerBorderThickness 2
+    DividerFontColor #abb6c2
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #abb6c2
+	ReferenceFontColor #abb6c2
+	ReferenceHeaderFontColor #5bc0de
+	ReferenceHeaderBackgroundColor transparent
+	StereotypeFontColor #DF691A
+}
+
+
+skinparam partition {
+	BorderColor #DF691A
+	FontColor #DF691A
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+}
+
+
+skinparam control {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+}
+
+
+skinparam entity {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+}
+
+
+skinparam boundary {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+}
+
+
+skinparam agent {
+	BackgroundColor transparent
+	BorderColor #C08A3E
+	FontColor #4E5D6C
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor transparent
+	BorderColor #7ccde5
+	FontColor #7ccde5
+}
+
+
+skinparam artifact {
+	BackgroundColor transparent
+	BorderColor #717d89
+	FontColor #abb6c2
+}
+
+
+skinparam component {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+}
+
+
+skinparam interface {
+	BackgroundColor  transparent
+	BorderColor  #d9534f
+	FontColor #4E5D6C
+}
+
+
+skinparam storage {
+	BackgroundColor transparent
+  	BorderColor #f3bd71
+	FontColor #f0ad4e
+}
+
+
+skinparam node {
+	BackgroundColor  transparent
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+
+skinparam cloud {
+	BackgroundColor transparent
+	BorderColor #F2FCFE
+	FontColor #4E5D6C
+}
+
+
+skinparam database {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+	FontColor #DF691A
+}
+
+
+skinparam class {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+	FontColor #abb6c2
+	HeaderBackgroundColor #b25415
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #4E5D6C
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+	StereotypeFontColor #4E5D6C
+	BorderThickness 1
+	AttributeFontColor #717d89
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #DF691A
+}
+
+
+skinparam rectangle {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+	BorderThickness 2
+	StereotypeFontColor #DF691A
+}
+
+
+skinparam package {
+	BackgroundColor transparent
+  	BorderColor #DF691A
+	FontColor #DF691A
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor transparent
+  	BorderColor #f0ad4e
+	FontColor #f0ad4e
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor transparent
+  	BorderColor #5bc0de
+	FontColor #5bc0de
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+	StartColor #5bc0de
+	EndColor #5bc0de
+	AttributeFontColor #717d89
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #DF691A
+	BorderColor #e58748
+	BackgroundColor transparent
+}
+
+
+skinparam card {
+	BackgroundColor transparent
+	BorderColor #5bc0de
+	FontColor #5bc0de
+}
+
+
+skinparam file {
+	BackgroundColor transparent
+	BorderColor #abb6c2
+	FontColor #abb6c2
+}
+
+
+title superhero-outline theme
+start
+:init;
+-> test of color;
+if (color?) is (<color:red>red) then
+  :print red;
+else 
+  :print not red;
+  note right: no color
+endif
+partition End {
+  :end;
+}
+-> this is the end;
+end
+@enduml
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

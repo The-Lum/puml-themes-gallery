@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="254px" preserveAspectRatio="none" style="width:414px;height:254px;background:#FFFFFF;" version="1.1" viewBox="0 0 414 254" width="414px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="126" x="137.75" y="16.708">vibrant theme</text><!--MD5=[f7e826e1488aa6662a4b5ddfe29b6b3b]
+class abstract--><rect codeLine="6" fill="#FEFECE" height="48" id="abstract" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="84" x="22.5" y="31.4482"/><ellipse cx="37.5" cy="47.4482" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M37.6094,42.792 L36.4531,47.8701 L38.7813,47.8701 L37.6094,42.792 Z M36.125,40.5576 L39.1094,40.5576 L42.4688,52.9482 L40.0156,52.9482 L39.25,49.8857 L35.9688,49.8857 L35.2188,52.9482 L32.7813,52.9482 L36.125,40.5576 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="52" x="51.5" y="51.6025">abstract</text><line style="stroke:#A80036;stroke-width:1.5;" x1="23.5" x2="105.5" y1="63.4482" y2="63.4482"/><line style="stroke:#A80036;stroke-width:1.5;" x1="23.5" x2="105.5" y1="71.4482" y2="71.4482"/><!--MD5=[17df400e90568e28eeaed93acf178394]
+class abstract class--><rect codeLine="7" fill="#FEFECE" height="48" id="abstract class" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="118" x="124.5" y="31.4482"/><ellipse cx="139.5" cy="47.4482" fill="#A9DCDF" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M139.6094,42.792 L138.4531,47.8701 L140.7813,47.8701 L139.6094,42.792 Z M138.125,40.5576 L141.1094,40.5576 L144.4688,52.9482 L142.0156,52.9482 L141.25,49.8857 L137.9688,49.8857 L137.2188,52.9482 L134.7813,52.9482 L138.125,40.5576 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="86" x="153.5" y="51.6025">abstract class</text><line style="stroke:#A80036;stroke-width:1.5;" x1="125.5" x2="241.5" y1="63.4482" y2="63.4482"/><line style="stroke:#A80036;stroke-width:1.5;" x1="125.5" x2="241.5" y1="71.4482" y2="71.4482"/><!--MD5=[7cb74e68c9f11cf3f5cc35e0143045f8]
+class annotation--><rect codeLine="8" fill="#FEFECE" height="48" id="annotation" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="101" x="261" y="31.4482"/><ellipse cx="276" cy="47.4482" fill="#E3664A" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M278.0781,47.917 Q278.0781,46.9795 277.6563,46.4482 Q277.2344,45.917 276.4844,45.917 Q275.75,45.917 275.3281,46.4482 Q274.9219,46.9795 274.9219,47.917 Q274.9219,48.8701 275.3281,49.4014 Q275.75,49.9326 276.4844,49.9326 Q277.2344,49.9326 277.6563,49.4014 Q278.0781,48.8701 278.0781,47.917 Z M279.625,51.3232 L278,51.3232 L278,50.6514 Q277.6719,51.0889 277.25,51.292 Q276.8281,51.4951 276.2188,51.4951 Q274.8594,51.4951 274.0313,50.5264 Q273.2031,49.542 273.2031,47.917 Q273.2031,46.3232 274.0313,45.3545 Q274.8594,44.3701 276.2188,44.3701 Q276.8125,44.3701 277.2656,44.5732 Q277.7188,44.7764 278,45.167 L278,44.8232 Q278,43.6982 277.375,43.0889 Q276.75,42.4639 275.6094,42.4639 Q273.8906,42.4639 272.7969,43.9951 Q271.7031,45.5107 271.7031,47.9482 Q271.7031,50.4951 272.9531,51.9951 Q274.2188,53.4951 276.3281,53.4951 Q276.9844,53.4951 277.6094,53.3076 Q278.2344,53.1201 278.8125,52.7295 L279.5781,54.1826 Q278.9063,54.6357 278.1094,54.8545 Q277.3125,55.0889 276.4063,55.0889 Q273.5,55.0889 271.7656,53.1514 Q270.0469,51.2295 270.0469,47.9482 Q270.0469,44.7295 271.5938,42.8076 Q273.1563,40.8701 275.7188,40.8701 Q277.5156,40.8701 278.5625,41.9639 Q279.625,43.0576 279.625,44.9326 L279.625,51.3232 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="69" x="290" y="51.6025">annotation</text><line style="stroke:#A80036;stroke-width:1.5;" x1="262" x2="361" y1="63.4482" y2="63.4482"/><line style="stroke:#A80036;stroke-width:1.5;" x1="262" x2="361" y1="71.4482" y2="71.4482"/><!--MD5=[da456bc05ddb284180092693c9c3b3b1]
+entity circle--><ellipse cx="389.5" cy="52.4482" fill="#FEFECE" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="36" x="371.5" y="82.4434">circle</text><!--MD5=[87adb442a9baea16d5e9c4faa47d2afb]
+entity circle_short_form--><ellipse cx="64.5" cy="136.4482" fill="#FEFECE" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="6" y="166.4434">circle_short_form</text><!--MD5=[c4c892d05414254cdeba8adc63897f88]
+class class--><rect codeLine="11" fill="#FEFECE" height="48" id="class" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="64" x="91.5" y="115.4482"/><ellipse cx="106.5" cy="131.4482" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M109.4688,137.0889 Q108.8906,137.3857 108.25,137.5264 Q107.6094,137.6826 106.9063,137.6826 Q104.4063,137.6826 103.0781,136.042 Q101.7656,134.3857 101.7656,131.2607 Q101.7656,128.1357 103.0781,126.4795 Q104.4063,124.8232 106.9063,124.8232 Q107.6094,124.8232 108.25,124.9795 Q108.9063,125.1357 109.4688,125.4326 L109.4688,128.1514 Q108.8438,127.5732 108.25,127.3076 Q107.6563,127.0264 107.0313,127.0264 Q105.6875,127.0264 105,128.1045 Q104.3125,129.167 104.3125,131.2607 Q104.3125,133.3545 105,134.4326 Q105.6875,135.4951 107.0313,135.4951 Q107.6563,135.4951 108.25,135.2295 Q108.8438,134.9482 109.4688,134.3701 L109.4688,137.0889 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="32" x="120.5" y="135.6025">class</text><line style="stroke:#A80036;stroke-width:1.5;" x1="92.5" x2="154.5" y1="147.4482" y2="147.4482"/><line style="stroke:#A80036;stroke-width:1.5;" x1="92.5" x2="154.5" y1="155.4482" y2="155.4482"/><polygon fill="#FEFECE" points="185.5,127.4482,197.5,139.4482,185.5,151.4482,173.5,139.4482,185.5,127.4482" style="stroke:#A80036;stroke-width:1.5;"/><polygon fill="#FEFECE" points="227.5,127.4482,239.5,139.4482,227.5,151.4482,215.5,139.4482,227.5,127.4482" style="stroke:#A80036;stroke-width:1.5;"/><!--MD5=[467568f20bbf29da492dca29e9e0779e]
+class entity--><rect codeLine="14" fill="#FEFECE" height="48" id="entity" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="67" x="31" y="199.4482"/><ellipse cx="46" cy="215.4482" fill="#ADD1B2" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M50.1094,221.4482 L42.3906,221.4482 L42.3906,209.0576 L50.1094,209.0576 L50.1094,211.2139 L44.8438,211.2139 L44.8438,213.8857 L49.6094,213.8857 L49.6094,216.042 L44.8438,216.042 L44.8438,219.292 L50.1094,219.292 L50.1094,221.4482 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="35" x="60" y="219.6025">entity</text><line style="stroke:#A80036;stroke-width:1.5;" x1="32" x2="97" y1="231.4482" y2="231.4482"/><line style="stroke:#A80036;stroke-width:1.5;" x1="32" x2="97" y1="239.4482" y2="239.4482"/><!--MD5=[b1bf79d8358773e9ea7a3730761a57e9]
+class enum--><rect codeLine="15" fill="#FEFECE" height="48" id="enum" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="67" x="116" y="199.4482"/><ellipse cx="131" cy="215.4482" fill="#EB937F" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M135.1094,221.4482 L127.3906,221.4482 L127.3906,209.0576 L135.1094,209.0576 L135.1094,211.2139 L129.8438,211.2139 L129.8438,213.8857 L134.6094,213.8857 L134.6094,216.042 L129.8438,216.042 L129.8438,219.292 L135.1094,219.292 L135.1094,221.4482 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="35" x="145" y="219.6025">enum</text><line style="stroke:#A80036;stroke-width:1.5;" x1="117" x2="182" y1="231.4482" y2="231.4482"/><line style="stroke:#A80036;stroke-width:1.5;" x1="117" x2="182" y1="239.4482" y2="239.4482"/><!--MD5=[d9847530b5dea828dbcbb50914b76f30]
+class interface--><rect codeLine="16" fill="#FEFECE" height="48" id="interface" rx="3.5" ry="3.5" style="stroke:#A80036;stroke-width:1.5;" width="88" x="201.5" y="199.4482"/><ellipse cx="216.5" cy="215.4482" fill="#B4A7E5" rx="11" ry="11" style="stroke:#A80036;stroke-width:1.0;"/><path d="M212.4219,211.2139 L212.4219,209.0576 L219.8125,209.0576 L219.8125,211.2139 L217.3438,211.2139 L217.3438,219.292 L219.8125,219.292 L219.8125,221.4482 L212.4219,221.4482 L212.4219,219.292 L214.8906,219.292 L214.8906,211.2139 L212.4219,211.2139 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="56" x="230.5" y="219.6025">interface</text><line style="stroke:#A80036;stroke-width:1.5;" x1="202.5" x2="288.5" y1="231.4482" y2="231.4482"/><line style="stroke:#A80036;stroke-width:1.5;" x1="202.5" x2="288.5" y1="239.4482" y2="239.4482"/><!--MD5=[7df4efebcd38896520cc0696c203a201]
+@startuml
+!pragma layout smetana
+!theme vibrant
+title vibrant theme
+abstract        abstract
+abstract class  "abstract class"
+annotation      annotation
+circle          circle
+()              circle_short_form
+class           class
+diamond         diamond
+<>              diamond_short_form
+entity          entity
+enum            enum
+interface       interface
+@enduml
+
+@startuml
+!pragma layout smetana
+skinparam BackgroundColor FFFFFF
+skinparam shadowing false
+skinparam RoundCorner 7
+skinparam ArrowColor 454645
+skinparam FontColor 454645
+skinparam SequenceLifeLineBorderColor 696969
+skinparam SequenceGroupHeaderFontColor 454645
+skinparam SequenceGroupFontColor 696969
+skinparam SequenceGroupBorderColor 696969
+skinparam SequenceGroupBorderThickness 1
+
+skinparam sequenceDivider {
+    BorderColor 454645
+    BorderThickness 1
+    FontColor 454645
+}
+
+skinparam participant {
+    BackgroundColor FF6347
+    BorderColor FF6F61
+    FontColor FFFFFF
+}
+
+skinparam database {
+    BackgroundColor 00FFFF
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam entity {
+    BackgroundColor FFE552
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam note {
+    BackgroundColor 7FFFD4
+    BorderColor 7FFFD4
+    FontColor 454645
+}
+
+skinparam actor {
+    BackgroundColor 454645
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam boundary {
+    BackgroundColor FFE552
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam control {
+    BackgroundColor FFE552
+    BorderColor 454645
+    FontColor 454645
+}
+
+skinparam collections {
+    BackgroundColor FF6347
+    BorderColor FFFFFF
+    FontColor 454645
+}
+
+skinparam queue {
+    BackgroundColor FF6347
+    BorderColor FFF
+    FontColor FFF
+    BorderThickness 1.5
+}
+title vibrant theme
+abstract        abstract
+abstract class  "abstract class"
+annotation      annotation
+circle          circle
+()              circle_short_form
+class           class
+diamond         diamond
+<>              diamond_short_form
+entity          entity
+enum            enum
+interface       interface
+@enduml
+
+PlantUML version 1.2021.12(Tue Oct 05 16:01:58 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
