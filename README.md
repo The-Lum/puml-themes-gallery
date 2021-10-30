@@ -10,6 +10,6 @@
 {% assign themes = inc_themes | split: " " %}
 
 {% for t in themes %}
--  {{ t }}
+#### {{ t }}
 {% endfor %}
 
