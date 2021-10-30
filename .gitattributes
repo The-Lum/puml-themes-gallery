@@ -1,1 +1,2 @@
 input/*.puml linguist-detectable
+gallery/*.puml -linguist-detectable
