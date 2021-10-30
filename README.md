@@ -3,6 +3,6 @@
 
 ### All the theme
 
-{% include_relative llib/all_plantuml_theme.txt %}
+{% include_relative lib/all_plantuml_theme.txt %}
 
 
