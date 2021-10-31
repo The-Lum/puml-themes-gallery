@@ -15,7 +15,7 @@ entity entity
 file file
 folder folder
 frame frame
-hexagon hexagon
+'hexagon hexagon
 interface interface
 label label
 node node
