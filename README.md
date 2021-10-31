@@ -3,10 +3,9 @@
 ## All the theme
 {% assign themes = site.data.themes | split: " " %}
 {% for t in themes %}
-* {{ t }}
-{% endfor %}
+* {{ t }}{% endfor %}
 
 {% for t in themes %}
 ## {{ t }}
-![Alt text](gallery/img/Activity-{{ t }}.svg)
+![Alt text](gallery/img/Activity-{{ t }}.svg){:class="img-responsive"}
 {% endfor %}
