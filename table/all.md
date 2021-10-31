@@ -8,7 +8,7 @@
     <th>{{ t }}</th>
   {% for d in diagrams %}
     <td>
-      ![image](../gallery/img/{{ d }}-{{ t }}.svg){: .align-center}
+      <img src="../gallery/img/{{ d }}-{{ t }}.svg">
     </td>
   {% endfor %}
   </tr>
