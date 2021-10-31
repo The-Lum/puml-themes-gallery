@@ -1,15 +1,8 @@
-## Welcome to PlantUML Gallery
+# Welcome to PlantUML Gallery
+## All the theme
 
-
-### All the theme
-
-{% capture inc_themes %}
-{% include_relative lib/all_plantuml_theme.txt %}
-{% endcapture %}
-
-{% assign themes = inc_themes | split: " " %}
-
-{% for t in themes %}
-#### {{ t }}
+{% for t in site.data.themes %}
+## {{ t }}
+![Alt text](gallery/img/Activity-{{ t }}.svg)
 {% endfor %}
 
