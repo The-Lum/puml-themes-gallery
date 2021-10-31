@@ -1,11 +1,15 @@
 # Welcome to PlantUML Gallery
 
 ## All the theme
-{% assign themes = site.data.themes | split: " " %}
-{% for t in themes %}
-* {{ t }}{% endfor %}
+* TOC
+{:toc}
 
+{% assign themes = site.data.themes | split: " " %}
+{% assign diagrams = site.data.input_files | split: " " %}
 {% for t in themes %}
 ## {{ t }}
-![Alt text](gallery/img/Activity-{{ t }}.svg){:class="img-responsive"}
+{% for d in diagrams %}
+![image](gallery/img/{{ d }}-{{ t }}.svg){: .align-center}
 {% endfor %}
+{% endfor %}
+
