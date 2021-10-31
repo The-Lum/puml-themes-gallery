@@ -5,5 +5,4 @@
 
 {% for t in themes %}
 {% for d in diagrams %}
-| ![image](gallery/img/{{ d }}-{{ t }}.svg){: .align-center} |{% endfor %}
-{% endfor %}
+| ![image](../gallery/img/{{ d }}-{{ t }}.svg){: .align-center} |{% endfor %}{% endfor %}
