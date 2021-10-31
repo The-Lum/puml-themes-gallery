@@ -1,9 +1,11 @@
 # Welcome to PlantUML Gallery
 
-## All the theme
-* TOC
+<hr>
+* A
 {:toc}
+<hr>
 
+# All the themes
 {% assign themes = site.data.themes | split: " " %}
 {% assign diagrams = site.data.input_files | split: " " %}
 {% for t in themes %}
