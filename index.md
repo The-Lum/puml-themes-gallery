@@ -1,4 +1,4 @@
-# Welcome to PlantUML Gallery
+# Welcome to PlantUML themes Gallery
 
 <hr>
 * A
