@@ -1,5 +1,9 @@
 # Welcome to PlantUML themes Gallery
 
+🚧 _Under construction but first public release... (using PlantUML V1.2021.12, smetana, SVG,...)_ 🚧
+	
+_Don't hesitate to post questions/remarks on the [discussion page](https://github.com/The-Lum/puml-themes-gallery/discussions)._
+
 <hr>
 * A
 {:toc}
