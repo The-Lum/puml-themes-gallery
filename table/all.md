@@ -7,7 +7,9 @@
   <tr>
     <th>{{ t }}</th>
   {% for d in diagrams %}
-    <td> ![image](../gallery/img/{{ d }}-{{ t }}.svg){: .align-center} </td>
+    <td>
+      ![image](../gallery/img/{{ d }}-{{ t }}.svg){: .align-center}
+    </td>
   {% endfor %}
   </tr>
   {% endfor %}
