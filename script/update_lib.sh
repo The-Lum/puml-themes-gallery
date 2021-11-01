@@ -1,4 +1,5 @@
 mkdir -p lib
+rm lib/plantuml.jar
 #curl -L https://sourceforge.net/projects/plantuml/files/plantuml.jar/download -o lib/plantuml.jar
 
 tag=$(curl -s https://api.github.com/repos/plantuml/plantuml/releases/latest | jq -r '.tag_name')
