@@ -6,4 +6,4 @@ tag=$(curl -s https://api.github.com/repos/plantuml/plantuml/releases/latest | j
 echo $tag > lib/plantuml-tag.md
 curl "https://github.com/plantuml/plantuml/releases/download/${tag}/plantuml-${tag#v}.jar" -L -o lib/plantuml.jar
 
-java -jar lib/plantuml.jar -version > lib/README.md
+#java -jar lib/plantuml.jar -version > lib/README.md
