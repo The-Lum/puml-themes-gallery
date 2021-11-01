@@ -7,8 +7,9 @@ _Don't hesitate to post questions/remarks on the [discussion page](https://githu
 {% capture plantuml-tag %}
 {% include_relative lib/plantuml-tag.md %}
 {% endcapture %}
+{% assign tag = plantuml-tag | strip_newlines %}
 
-| PlantUML version | {{ plantuml-tag | strip_newlines }} |
+| PlantUML version | {{ tag }} |
 |-|-|
 
 <hr>
