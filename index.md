@@ -4,7 +4,11 @@
 	
 _Don't hesitate to post questions/remarks on the [discussion page](https://github.com/The-Lum/puml-themes-gallery/discussions)._
 
-| PlantUML version | {%- include_relative lib/plantuml-tag.md -%} |
+{% capture plantuml-tag %}
+{% include_relative lib/plantuml-tag.md %}
+{% endcapture %}
+
+| PlantUML version | {{ plantuml-tag | strip_newlines }} |
 |-|-|
 
 <hr>
