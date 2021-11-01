@@ -1,1 +1,1 @@
-java -jar lib/plantuml.jar -stdrpt -nometadata -v -Playout=smetana -svg -o img gallery
+java -jar lib/plantuml.jar -stdrpt -nometadata -duration -Playout=smetana -svg -o img gallery
