@@ -4,7 +4,7 @@
 	
 _Don't hesitate to post questions/remarks on the [discussion page](https://github.com/The-Lum/puml-themes-gallery/discussions)._
 
-| PlantUML version | {% include_relative lib/plantuml-tag.md -%} |
+| PlantUML version | {%- include_relative lib/plantuml-tag.md -%} |
 |-|-|
 
 <hr>
