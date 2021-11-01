@@ -4,6 +4,6 @@ rm lib/plantuml.jar
 
 tag=$(curl -s https://api.github.com/repos/plantuml/plantuml/releases/latest | jq -r '.tag_name')
 echo $tag > lib/plantuml-tag.md
-curl -v -L "https://github.com/plantuml/plantuml/releases/download/${tag}/plantuml-${tag#v}.jar" -o lib/plantuml.jar
+curl "https://github.com/plantuml/plantuml/releases/download/${tag}/plantuml-${tag#v}.jar" -L -o lib/plantuml.jar
 
 java -jar lib/plantuml.jar -version > lib/README.md
