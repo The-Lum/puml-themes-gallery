@@ -4,11 +4,11 @@
 	
 _Don't hesitate to post questions/remarks on the [discussion page](https://github.com/The-Lum/puml-themes-gallery/discussions)._
 
-<div class="alert alert-info" role="alert">
-PlantUML version: {% include_relative lib/plantuml-tag.md %}
-Layout: smetana
-Output image format: SVG
-</div>
+Context:
+- PlantUML version: {% include_relative lib/plantuml-tag.md %}
+- Layout: smetana
+- Output image format: SVG
+
 
 <hr>
 * A
