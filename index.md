@@ -4,13 +4,11 @@
 	
 _Don't hesitate to post questions/remarks on the [discussion page](https://github.com/The-Lum/puml-themes-gallery/discussions)._
 
-{% capture plantuml-tag %}
-{% include_relative lib/plantuml-tag.md %}
-{% endcapture %}
-{% assign tag = plantuml-tag | strip_newlines %}
-
-| PlantUML version | {{ tag }} |
-|-|-|
+<div class="alert alert-info" role="alert">
+PlantUML version: {% include_relative lib/plantuml-tag.md %}
+Layout: smetana
+Output image format: SVG
+</div>
 
 <hr>
 * A
