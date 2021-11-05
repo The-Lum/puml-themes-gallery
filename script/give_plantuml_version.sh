@@ -1,1 +1,1 @@
-java -jar lib/plantuml.jar -version > lib/README.md
+java -jar lib/plantuml.jar -version &> lib/README.md
