@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="578px" preserveAspectRatio="none" style="width:786px;height:578px;background:#FFFFFF;" version="1.1" viewBox="0 0 786 578" width="786px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="410" x="5" y="16.1387">An error has occured : java.lang.UnsupportedOperationException</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="435" x="5" y="30.1074">You humans act so strange. Everything you create is used to destroy.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="44.0762"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="264" x="5" y="58.0449">Diagram size: 337 lines / 5791 characters.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="72.0137"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="382" x="5" y="85.9824">PlantUML (1.2021.13) cannot parse result from dot/GraphViz.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="99.9512"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="492" x="5" y="113.9199">Please go to https://plantuml.com/graphviz-dot to check your GraphViz version.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="127.8887"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="277" x="5" y="141.8574">Java Runtime: OpenJDK Runtime Environment</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="187" x="5" y="155.8262">JVM: OpenJDK 64-Bit Server VM</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="169.7949">Default Encoding: UTF-8</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="5" y="183.7637">Language: en</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="5" y="197.7324">Country: null</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="211.7012"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="5" y="225.6699">PLANTUML_LIMIT_SIZE: 4096</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="239.6387"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="253.6074">This may be caused by :</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="9" y="267.5762">- a bug in PlantUML</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="144" x="9" y="281.5449">- a problem in GraphViz</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="295.5137"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="300" x="5" y="309.4824">You should send this diagram and this image to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="309" y="309.4824">plantuml@gmail.com</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="458" y="309.4824">or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="5" y="323.4512">post to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="168" x="54" y="323.4512">https://plantuml.com/qa</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="226" y="323.4512">to solve this issue.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="405" x="5" y="337.4199">You can try to turn arround this issue by simplifing your diagram.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="0" x="9" y="351.3887"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="265" x="5" y="365.3574">java.lang.UnsupportedOperationException</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="551" x="13" y="379.3262">net.sourceforge.plantuml.wire.WireDiagram$1.calculateDimension(WireDiagram.java:99)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="559" x="13" y="393.2949">net.sourceforge.plantuml.svek.DecorateEntityImage.drawU(DecorateEntityImage.java:94)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="570" x="13" y="407.2637">net.sourceforge.plantuml.ugraphic.ImageBuilder.getFinalDimension(ImageBuilder.java:326)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="571" x="13" y="421.2324">net.sourceforge.plantuml.ugraphic.ImageBuilder.writeImageInternal(ImageBuilder.java:260)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="485" x="13" y="435.2012">net.sourceforge.plantuml.ugraphic.ImageBuilder.write(ImageBuilder.java:247)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="553" x="13" y="449.1699">net.sourceforge.plantuml.wire.WireDiagram.exportDiagramInternal(WireDiagram.java:83)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="463.1387">net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="477.1074">net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:177)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="491.0762">net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault(PSystemUtils.java:209)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="485" x="13" y="505.0449">net.sourceforge.plantuml.PSystemUtils.exportDiagrams(PSystemUtils.java:93)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="693" x="13" y="519.0137">net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages(SourceFileReaderAbstract.java:178)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="402" x="13" y="532.9824">net.sourceforge.plantuml.Run.manageFileInternal(Run.java:519)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="360" x="13" y="546.9512">net.sourceforge.plantuml.Run.processArgs(Run.java:402)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="375" x="13" y="560.9199">net.sourceforge.plantuml.Run.manageAllFiles(Run.java:369)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="312" x="13" y="574.8887">net.sourceforge.plantuml.Run.main(Run.java:204)</text><image height="51" width="51" x="735" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAzCAYAAAA6oTAqAAABN0lEQVR4Xu3RQWrEMBBE0bn/FXzYZBUwj4i03K2WY/zhL8aWqsrM5/Py8hyO4/jKaN5WHDereVtwVFbzW3HMDz6Pan4rjnnUx2Q1vxXHZDW/FcdkNb8Vx2Q1vxXHZDW/FcdkNb8Vx4z03i1x9Ejv3RJHz2reVhw3q3lTlIR84h/hvVKqShw90nulZEocGtGMUjIlDo1oRimzZZ7Pan6K2XDPZzU/heGjEt9f1bxzRxrLRiW+v6p55440lq3W/lIsW639pVi2WvtLsWy19i/B0lXauwRLq7WvBUdUaU8LjqjSnlYcc1Vzt+Coq5q7FcdFNecWODKqObfCsY4ePW/Bco2eH70/3/3t/azmpYiG//X+FjzyY3wu0XMtjP4Bf4+IntvK6CMlem4r0ZHRcxHC9ytLX15e/gffQJWOecUKIPYAAAAASUVORK5CYII=" y="6"/><!--MD5=[959aa15b025df006babe15baf353d86d]
+@startwire
+!pragma layout smetana
+!theme minty
+title minty theme
+
+* BOX_1 [100x200]
+- -
+move(100,0)
+* BOX_2 [50x175]
+
+BOX_1 ->  BOX_2 : abcd
+BOX_1 <-> BOX_2 : abcd
+BOX_1 <-  BOX_2 : abcd
+BOX_1 -   BOX_2 : abcd
+BOX_1 =>  BOX_2 : abcd
+BOX_1 <=> BOX_2 #red : abcd
+BOX_1 <=  BOX_2 : abcd
+BOX_1 =   BOX_2 : abcd
+@endwire
+
+@startwire
+!pragma layout smetana
+
+
+
+skinparam backgroundColor transparent
+skinparam useBetaStyle false
+
+
+
+
+
+
+
+skinparam defaultFontName       "Verdana"
+skinparam defaultFontSize       12
+skinparam dpi                   100
+skinparam shadowing             false
+skinparam roundcorner           8
+skinparam ParticipantPadding    40
+skinparam BoxPadding            40
+skinparam Padding               5
+skinparam ArrowColor            #343a40
+skinparam stereotype {
+    CBackgroundColor #f4a1a4
+    CBorderColor #db878b
+    ABackgroundColor #67d1a7
+    ABorderColor #4db88d
+    IBackgroundColor #ff8662
+    IBorderColor #e66c49
+    EBackgroundColor #ffd376
+    EBorderColor #e6b95d
+    NBackgroundColor #7bc9d9
+    NBorderColor #61b0c0
+}
+skinparam title {
+	FontColor	                 #6caf9c
+	BorderColor	                 #db878b
+	FontSize	    	         20
+	BorderRoundCorner            8
+	BorderThickness 	         1
+	BackgroundColor              #f4a1a4-#f3969a
+}
+
+skinparam legend {
+	BackgroundColor #f3969a
+	BorderColor #db878b
+	FontColor #f8f9fa
+}
+
+skinparam swimlane {
+	BorderColor #6cc3d5
+	BorderThickness 2
+	TitleBackgroundColor  #f4a1a4-#f3969a
+	TitleFontColor #78c2ad
+}
+
+
+skinparam activity {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	BarColor #56cc9d
+	StartColor #6cc3d5
+	EndColor #6cc3d5
+	DiamondBackgroundColor #f4a1a4
+  	DiamondBorderColor #db878b
+  	DiamondFontColor #fff
+}
+
+
+skinparam participant {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	ParticipantBorderThickness 2
+}
+
+
+skinparam actor {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam arrow {
+	Thickness 3
+	Color #78c2ad
+	FontColor #fff
+}
+
+
+skinparam sequence {
+	BorderColor #78c2ad
+	TitleFontColor #78c2ad
+	BackgroundColor transparent
+	StartColor #78c2ad
+	EndColor #78c2ad
+	BoxBackgroundColor transparent
+	BoxBorderColor #343a40
+	BoxFontColor #343a40
+	DelayFontColor #343a40
+	LifeLineBorderColor #f3969a
+	LifeLineBorderThickness 2
+	LifeLineBackgroundColor #db878b
+	GroupBorderColor #343a40
+	GroupFontColor #343a40
+	GroupHeaderFontColor #6cc3d5
+	GroupBackgroundColor #f3969a
+	GroupHeaderBackgroundColor transparent
+	DividerBackgroundColor #343a40
+    DividerBorderColor #343a40
+    DividerBorderThickness 2
+    DividerFontColor #f8f9fa
+	ReferenceBackgroundColor transparent
+	ReferenceBorderColor #343a40
+	ReferenceFontColor #343a40
+	ReferenceHeaderFontColor #6cc3d5
+	ReferenceHeaderBackgroundColor #f3969a
+	StereotypeFontColor #fff
+}
+
+
+skinparam partition {
+	BorderColor #78c2ad
+	FontColor #78c2ad
+	BackgroundColor transparent
+}
+
+
+skinparam collections {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam control {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam entity {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam boundary {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam agent {
+	BackgroundColor #ffce67
+	BorderColor #ffd376
+	FontColor #343a40
+}
+
+
+skinparam note {
+	BorderThickness 1
+	BackgroundColor #6cc3d5
+	BorderColor #61b0c0
+	FontColor #fff
+}
+
+
+skinparam artifact {
+	BackgroundColor #343a40
+	BorderColor #2f343a
+	FontColor #f8f9fa
+}
+
+
+skinparam component {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam interface {
+	BackgroundColor  #e66c49
+	BorderColor  #ff7851
+	FontColor #343a40
+}
+
+
+skinparam storage {
+	BackgroundColor #ffce67
+  	BorderColor #e6b95d
+	FontColor #fff
+}
+
+
+skinparam node {
+	BackgroundColor  #f3969a
+	BorderColor #f8f9fa
+	FontColor #f8f9fa
+}
+
+
+skinparam cloud {
+	BackgroundColor #F2FCFE-#eeeeee
+	BorderColor #F2FCFE
+	FontColor #343a40
+}
+
+
+skinparam database {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam class {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	HeaderBackgroundColor #86c8b5
+	StereotypeFontColor #343a40
+	BorderThickness 1
+	AttributeFontColor #343a40
+	AttributeFontSize 11
+}
+
+
+skinparam object {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	StereotypeFontColor #343a40
+	BorderThickness 1
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam usecase {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	BorderThickness 2
+	StereotypeFontColor #78c2ad
+}
+
+
+skinparam rectangle {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	BackgroundColor #f4a1a4
+	BorderThickness 2
+	StereotypeFontColor #78c2ad
+}
+
+
+skinparam package {
+	BackgroundColor #f3969a
+  	BorderColor #78c2ad
+	FontColor #78c2ad
+	BorderThickness 2
+}
+
+
+skinparam folder {
+	BackgroundColor #f4a1a4
+  	BorderColor #ffce67
+	FontColor #ffce67
+	BorderThickness 2
+}
+
+
+skinparam frame {
+	BackgroundColor #f4a1a4
+  	BorderColor #6cc3d5
+	FontColor #6cc3d5
+	BorderThickness 2
+}
+
+
+skinparam state {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+	StartColor #6cc3d5
+	EndColor #6cc3d5
+	AttributeFontColor #fff
+	AttributeFontSize 11
+}
+
+
+skinparam queue {
+		FontColor #fff
+	BorderColor #78c2ad
+	BackgroundColor #86c8b5
+}
+
+
+skinparam card {
+	BackgroundColor #6cc3d5
+	BorderColor #61b0c0
+	FontColor #fff
+}
+
+
+skinparam file {
+	BackgroundColor #db878b
+	BorderColor #f8f9fa
+	FontColor #f8f9fa
+}
+
+
+title minty theme
+
+* BOX_1 [100x200]
+- -
+move(100,0)
+* BOX_2 [50x175]
+
+BOX_1 ->  BOX_2 : abcd
+BOX_1 <-> BOX_2 : abcd
+BOX_1 <-  BOX_2 : abcd
+BOX_1 -   BOX_2 : abcd
+BOX_1 =>  BOX_2 : abcd
+BOX_1 <=> BOX_2 #red : abcd
+BOX_1 <=  BOX_2 : abcd
+BOX_1 =   BOX_2 : abcd
+@endwire
+
+PlantUML version 1.2021.13(Mon Nov 01 11:38:45 UTC 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
