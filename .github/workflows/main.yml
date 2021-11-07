@@ -1,0 +1,25 @@
+name: Run `give_plantuml_version_latest.sh` script
+# Controls when the workflow will run
+on:
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job
+  give_plantuml_version_latest:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      # Runs a single command using the runners shell
+      - name: Run `give_plantuml_version_latest.sh`
+        run: |
+          chmod +x script/give_plantuml_version_latest.sh
+          ./script/give_plantuml_version_latest.sh
+      # Runs  Commit the changes, if any
+      - name: Commit the changes, if any
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update with the latest plantuml version
