@@ -5,7 +5,7 @@
   .image-gallery {
     width: 100%;
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(800px, 1fr));
+    grid-template-columns: repeat(auto-fill,minmax(100px, 1fr));
     justify-content: center;
     padding: 4px;
   }
@@ -23,6 +23,7 @@
    transition: all 0.3s ease-in-out;
   &:hover {
     transform: scale(1.05);
+  }
   }
 </style>
 </head>
