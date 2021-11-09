@@ -33,7 +33,7 @@ foreach my $t (@themes) {
 		open(my $fho, '>:encoding(UTF-8)', 'gallery/' . $file_no_ext . '-' . $t . '.puml');
 		print $fho $h;
 		while (<$fh>) {
-			$_ .= "!theme $t\ntitle $t theme\n" if $. == 1;
+			$_ .= "!theme $t\n" if $. == 1;
 			print $fho $_;
 		}
 	}
