@@ -4,6 +4,7 @@ Class-Abstract-Interface
 Class
 Deployment
 Gantt
+JSON
 Mindmap
 Nwdiag
 Object
@@ -13,3 +14,5 @@ Sequence
 State
 Timing
 WBS
+Wire
+YAML
