@@ -4,7 +4,6 @@
 '
 @startwire
 !theme reddress-lightgreen
-title reddress-lightgreen theme
 
 * BOX_1 [100x200]
 --

@@ -4,7 +4,6 @@
 '
 @startuml
 !theme _none_
-title _none_ theme
 Alice -> Bob: Authentication Request
 
 alt successful case

@@ -4,7 +4,6 @@
 '
 @startuml
 !theme crt-amber
-title crt-amber theme
 participant Participant as Foo
 actor       Actor       as Foo1
 boundary    Boundary    as Foo2

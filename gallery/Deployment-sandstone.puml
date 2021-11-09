@@ -4,7 +4,6 @@
 '
 @startuml
 !theme sandstone
-title sandstone theme
 actor actor
 actor/ "actor/"
 agent agent

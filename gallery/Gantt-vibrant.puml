@@ -4,7 +4,6 @@
 '
 @startuml
 !theme vibrant
-title vibrant theme
 [Task1] lasts 20 days
 note bottom
   memo1 ...

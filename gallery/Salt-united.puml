@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme united
-title united theme
 {+
   Just plain text
   [This is my button]

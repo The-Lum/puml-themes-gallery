@@ -4,7 +4,6 @@
 '
 @startuml
 !theme silver
-title silver theme
 abstract class AbstractList
 abstract AbstractCollection
 interface List

@@ -4,7 +4,6 @@
 '
 @startuml
 !theme crt-amber
-title crt-amber theme
 nwdiag {
   network DMZ {
       address = "y.x.x.x/24"

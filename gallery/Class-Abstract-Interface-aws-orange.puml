@@ -4,7 +4,6 @@
 '
 @startuml
 !theme aws-orange
-title aws-orange theme
 abstract class AbstractList
 abstract AbstractCollection
 interface List

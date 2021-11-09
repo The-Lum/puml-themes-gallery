@@ -4,7 +4,6 @@
 '
 @startuml
 !theme blueprint
-title blueprint theme
 robust "Web Browser" as WB
 concise "Web User" as WU
 

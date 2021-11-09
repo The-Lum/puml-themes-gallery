@@ -4,7 +4,6 @@
 '
 @startuml
 !theme superhero-outline
-title superhero-outline theme
 actor actor
 actor/ "actor/"
 agent agent

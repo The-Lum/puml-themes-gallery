@@ -4,7 +4,6 @@
 '
 @startuml
 !theme plain
-title plain theme
 robust "Web Browser" as WB
 concise "Web User" as WU
 

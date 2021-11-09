@@ -4,7 +4,6 @@
 '
 @startuml
 !theme sandstone
-title sandstone theme
 Alice -> Bob: Authentication Request
 
 alt successful case

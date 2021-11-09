@@ -4,7 +4,6 @@
 '
 @startuml
 !theme metal
-title metal theme
 start
 :init;
 -> test of color;

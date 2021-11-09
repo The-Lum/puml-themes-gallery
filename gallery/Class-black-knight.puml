@@ -4,7 +4,6 @@
 '
 @startuml
 !theme black-knight
-title black-knight theme
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

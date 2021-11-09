@@ -4,7 +4,6 @@
 '
 @startuml
 !theme silver
-title silver theme
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

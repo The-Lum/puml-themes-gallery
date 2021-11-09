@@ -4,7 +4,6 @@
 '
 @startuml
 !theme crt-amber
-title crt-amber theme
 start
 :init;
 -> test of color;

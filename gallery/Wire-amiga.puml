@@ -4,7 +4,6 @@
 '
 @startwire
 !theme amiga
-title amiga theme
 
 * BOX_1 [100x200]
 --

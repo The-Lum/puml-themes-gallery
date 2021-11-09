@@ -4,7 +4,6 @@
 '
 @startuml
 !theme spacelab
-title spacelab theme
 nwdiag {
   network DMZ {
       address = "y.x.x.x/24"

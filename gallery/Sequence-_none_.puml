@@ -4,7 +4,6 @@
 '
 @startuml
 !theme _none_
-title _none_ theme
 participant Participant as Foo
 actor       Actor       as Foo1
 boundary    Boundary    as Foo2

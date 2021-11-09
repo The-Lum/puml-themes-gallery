@@ -4,7 +4,6 @@
 '
 @startwire
 !theme resume-light
-title resume-light theme
 
 * BOX_1 [100x200]
 --

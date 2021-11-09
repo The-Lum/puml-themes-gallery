@@ -4,7 +4,6 @@
 '
 @startuml
 !theme cerulean
-title cerulean theme
 abstract class AbstractList
 abstract AbstractCollection
 interface List

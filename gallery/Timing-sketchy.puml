@@ -4,7 +4,6 @@
 '
 @startuml
 !theme sketchy
-title sketchy theme
 robust "Web Browser" as WB
 concise "Web User" as WU
 

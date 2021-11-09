@@ -4,7 +4,6 @@
 '
 @startwbs
 !theme toy
-title toy theme
 * World
 ** America 
 ***_ Canada 

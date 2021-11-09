@@ -4,7 +4,6 @@
 '
 @startuml
 !theme metal
-title metal theme
 actor actor
 actor/ "actor/"
 agent agent

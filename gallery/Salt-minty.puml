@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme minty
-title minty theme
 {+
   Just plain text
   [This is my button]

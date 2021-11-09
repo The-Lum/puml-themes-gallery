@@ -4,7 +4,6 @@
 '
 @startuml
 !theme sandstone
-title sandstone theme
 [Task1] lasts 20 days
 note bottom
   memo1 ...

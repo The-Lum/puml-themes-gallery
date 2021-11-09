@@ -4,7 +4,6 @@
 '
 @startuml
 !theme vibrant
-title vibrant theme
 start
 :init;
 -> test of color;

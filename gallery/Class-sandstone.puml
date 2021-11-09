@@ -4,7 +4,6 @@
 '
 @startuml
 !theme sandstone
-title sandstone theme
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

@@ -4,7 +4,6 @@
 '
 @startuml
 !theme mimeograph
-title mimeograph theme
 Alice -> Bob: Authentication Request
 
 alt successful case

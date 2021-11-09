@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme cyborg
-title cyborg theme
 {+
   Just plain text
   [This is my button]

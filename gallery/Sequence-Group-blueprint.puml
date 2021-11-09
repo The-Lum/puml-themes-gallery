@@ -4,7 +4,6 @@
 '
 @startuml
 !theme blueprint
-title blueprint theme
 Alice -> Bob: Authentication Request
 
 alt successful case

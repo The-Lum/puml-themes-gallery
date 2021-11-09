@@ -4,7 +4,6 @@
 '
 @startuml
 !theme mimeograph
-title mimeograph theme
 
 object user1
 user1 : name = "Dummy"

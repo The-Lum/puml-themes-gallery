@@ -4,7 +4,6 @@
 '
 @startuml
 !theme aws-orange
-title aws-orange theme
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

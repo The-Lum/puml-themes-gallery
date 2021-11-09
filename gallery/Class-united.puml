@@ -4,7 +4,6 @@
 '
 @startuml
 !theme united
-title united theme
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

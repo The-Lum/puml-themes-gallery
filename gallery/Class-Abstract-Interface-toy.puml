@@ -4,7 +4,6 @@
 '
 @startuml
 !theme toy
-title toy theme
 abstract class AbstractList
 abstract AbstractCollection
 interface List

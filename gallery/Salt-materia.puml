@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme materia
-title materia theme
 {+
   Just plain text
   [This is my button]

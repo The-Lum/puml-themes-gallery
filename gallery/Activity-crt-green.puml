@@ -4,7 +4,6 @@
 '
 @startuml
 !theme crt-green
-title crt-green theme
 start
 :init;
 -> test of color;

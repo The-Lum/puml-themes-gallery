@@ -4,7 +4,6 @@
 '
 @startuml
 !theme sketchy
-title sketchy theme
 start
 :init;
 -> test of color;

@@ -4,7 +4,6 @@
 '
 @startuml
 !theme cerulean
-title cerulean theme
 
 object user1
 user1 : name = "Dummy"

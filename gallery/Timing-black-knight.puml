@@ -4,7 +4,6 @@
 '
 @startuml
 !theme black-knight
-title black-knight theme
 robust "Web Browser" as WB
 concise "Web User" as WU
 

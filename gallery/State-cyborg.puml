@@ -4,7 +4,6 @@
 '
 @startuml
 !theme cyborg
-title cyborg theme
 state choice1 <<choice>>
 state fork1   <<fork>>
 state join2   <<join>>

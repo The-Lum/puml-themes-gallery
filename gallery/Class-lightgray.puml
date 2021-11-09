@@ -4,7 +4,6 @@
 '
 @startuml
 !theme lightgray
-title lightgray theme
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

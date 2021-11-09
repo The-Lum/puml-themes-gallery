@@ -4,7 +4,6 @@
 '
 @startuml
 !theme reddress-lightorange
-title reddress-lightorange theme
 actor actor
 actor/ "actor/"
 agent agent

@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme crt-green
-title crt-green theme
 {+
   Just plain text
   [This is my button]

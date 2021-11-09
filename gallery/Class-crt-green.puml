@@ -4,7 +4,6 @@
 '
 @startuml
 !theme crt-green
-title crt-green theme
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

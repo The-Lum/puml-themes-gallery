@@ -4,7 +4,6 @@
 '
 @startuml
 !theme toy
-title toy theme
 Alice -> Bob: Authentication Request
 
 alt successful case

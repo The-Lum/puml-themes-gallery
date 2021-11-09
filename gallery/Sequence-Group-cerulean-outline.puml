@@ -4,7 +4,6 @@
 '
 @startuml
 !theme cerulean-outline
-title cerulean-outline theme
 Alice -> Bob: Authentication Request
 
 alt successful case

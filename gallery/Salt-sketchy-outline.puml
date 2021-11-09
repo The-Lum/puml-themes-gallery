@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme sketchy-outline
-title sketchy-outline theme
 {+
   Just plain text
   [This is my button]

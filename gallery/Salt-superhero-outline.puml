@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme superhero-outline
-title superhero-outline theme
 {+
   Just plain text
   [This is my button]

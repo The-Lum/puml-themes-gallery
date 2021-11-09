@@ -4,7 +4,6 @@
 '
 @startuml
 !theme blueprint
-title blueprint theme
 
 object user1
 user1 : name = "Dummy"

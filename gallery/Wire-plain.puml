@@ -4,7 +4,6 @@
 '
 @startwire
 !theme plain
-title plain theme
 
 * BOX_1 [100x200]
 --

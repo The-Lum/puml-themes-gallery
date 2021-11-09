@@ -4,7 +4,6 @@
 '
 @startuml
 !theme plain
-title plain theme
 abstract class AbstractList
 abstract AbstractCollection
 interface List

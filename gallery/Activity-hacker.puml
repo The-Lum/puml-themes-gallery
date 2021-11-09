@@ -4,7 +4,6 @@
 '
 @startuml
 !theme hacker
-title hacker theme
 start
 :init;
 -> test of color;

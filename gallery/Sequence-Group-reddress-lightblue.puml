@@ -4,7 +4,6 @@
 '
 @startuml
 !theme reddress-lightblue
-title reddress-lightblue theme
 Alice -> Bob: Authentication Request
 
 alt successful case

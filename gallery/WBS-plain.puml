@@ -4,7 +4,6 @@
 '
 @startwbs
 !theme plain
-title plain theme
 * World
 ** America 
 ***_ Canada 

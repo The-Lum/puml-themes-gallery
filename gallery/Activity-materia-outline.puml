@@ -4,7 +4,6 @@
 '
 @startuml
 !theme materia-outline
-title materia-outline theme
 start
 :init;
 -> test of color;

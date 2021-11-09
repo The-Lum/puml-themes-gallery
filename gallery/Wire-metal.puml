@@ -4,7 +4,6 @@
 '
 @startwire
 !theme metal
-title metal theme
 
 * BOX_1 [100x200]
 --

@@ -4,7 +4,6 @@
 '
 @startuml
 !theme sketchy-outline
-title sketchy-outline theme
 Alice -> Bob: Authentication Request
 
 alt successful case

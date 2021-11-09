@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme spacelab
-title spacelab theme
 {+
   Just plain text
   [This is my button]

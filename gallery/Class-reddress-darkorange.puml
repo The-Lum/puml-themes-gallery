@@ -4,7 +4,6 @@
 '
 @startuml
 !theme reddress-darkorange
-title reddress-darkorange theme
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

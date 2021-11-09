@@ -4,7 +4,6 @@
 '
 @startuml
 !theme mimeograph
-title mimeograph theme
 actor actor
 actor/ "actor/"
 agent agent

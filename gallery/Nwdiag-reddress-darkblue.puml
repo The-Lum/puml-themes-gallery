@@ -4,7 +4,6 @@
 '
 @startuml
 !theme reddress-darkblue
-title reddress-darkblue theme
 nwdiag {
   network DMZ {
       address = "y.x.x.x/24"

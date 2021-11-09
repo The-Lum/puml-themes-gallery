@@ -4,7 +4,6 @@
 '
 @startuml
 !theme blueprint
-title blueprint theme
 actor actor
 actor/ "actor/"
 agent agent

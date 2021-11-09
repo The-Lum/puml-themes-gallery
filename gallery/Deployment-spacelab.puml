@@ -4,7 +4,6 @@
 '
 @startuml
 !theme spacelab
-title spacelab theme
 actor actor
 actor/ "actor/"
 agent agent

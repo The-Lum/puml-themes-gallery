@@ -4,7 +4,6 @@
 '
 @startuml
 !theme aws-orange
-title aws-orange theme
 [Task1] lasts 20 days
 note bottom
   memo1 ...

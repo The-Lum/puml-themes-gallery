@@ -4,7 +4,6 @@
 '
 @startuml
 !theme sketchy
-title sketchy theme
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

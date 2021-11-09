@@ -4,7 +4,6 @@
 '
 @startuml
 !theme blueprint
-title blueprint theme
 [Task1] lasts 20 days
 note bottom
   memo1 ...

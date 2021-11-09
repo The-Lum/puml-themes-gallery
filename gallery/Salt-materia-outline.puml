@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme materia-outline
-title materia-outline theme
 {+
   Just plain text
   [This is my button]

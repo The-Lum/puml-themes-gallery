@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme lightgray
-title lightgray theme
 {+
   Just plain text
   [This is my button]

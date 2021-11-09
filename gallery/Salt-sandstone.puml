@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme sandstone
-title sandstone theme
 {+
   Just plain text
   [This is my button]

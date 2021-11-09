@@ -4,7 +4,6 @@
 '
 @startuml
 !theme minty
-title minty theme
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

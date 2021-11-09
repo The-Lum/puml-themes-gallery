@@ -4,7 +4,6 @@
 '
 @startuml
 !theme reddress-darkblue
-title reddress-darkblue theme
 start
 :init;
 -> test of color;

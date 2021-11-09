@@ -4,7 +4,6 @@
 '
 @startuml
 !theme reddress-lightred
-title reddress-lightred theme
 abstract class AbstractList
 abstract AbstractCollection
 interface List

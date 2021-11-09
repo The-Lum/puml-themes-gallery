@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme reddress-lightblue
-title reddress-lightblue theme
 {+
   Just plain text
   [This is my button]

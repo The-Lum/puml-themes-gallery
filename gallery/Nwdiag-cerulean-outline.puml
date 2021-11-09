@@ -4,7 +4,6 @@
 '
 @startuml
 !theme cerulean-outline
-title cerulean-outline theme
 nwdiag {
   network DMZ {
       address = "y.x.x.x/24"

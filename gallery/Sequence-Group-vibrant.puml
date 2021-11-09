@@ -4,7 +4,6 @@
 '
 @startuml
 !theme vibrant
-title vibrant theme
 Alice -> Bob: Authentication Request
 
 alt successful case

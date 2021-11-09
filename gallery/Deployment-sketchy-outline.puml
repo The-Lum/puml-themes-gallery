@@ -4,7 +4,6 @@
 '
 @startuml
 !theme sketchy-outline
-title sketchy-outline theme
 actor actor
 actor/ "actor/"
 agent agent

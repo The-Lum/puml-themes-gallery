@@ -4,7 +4,6 @@
 '
 @startuml
 !theme sandstone
-title sandstone theme
 start
 :init;
 -> test of color;

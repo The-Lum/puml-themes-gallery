@@ -4,7 +4,6 @@
 '
 @startuml
 !theme sandstone
-title sandstone theme
 robust "Web Browser" as WB
 concise "Web User" as WU
 

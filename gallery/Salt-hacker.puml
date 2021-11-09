@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme hacker
-title hacker theme
 {+
   Just plain text
   [This is my button]

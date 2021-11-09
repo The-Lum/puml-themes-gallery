@@ -4,7 +4,6 @@
 '
 @startuml
 !theme plain
-title plain theme
 actor actor
 actor/ "actor/"
 agent agent

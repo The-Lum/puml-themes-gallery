@@ -4,7 +4,6 @@
 '
 @startuml
 !theme reddress-darkgreen
-title reddress-darkgreen theme
 robust "Web Browser" as WB
 concise "Web User" as WU
 

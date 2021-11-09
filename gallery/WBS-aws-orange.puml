@@ -4,7 +4,6 @@
 '
 @startwbs
 !theme aws-orange
-title aws-orange theme
 * World
 ** America 
 ***_ Canada 

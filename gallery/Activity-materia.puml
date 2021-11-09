@@ -4,7 +4,6 @@
 '
 @startuml
 !theme materia
-title materia theme
 start
 :init;
 -> test of color;

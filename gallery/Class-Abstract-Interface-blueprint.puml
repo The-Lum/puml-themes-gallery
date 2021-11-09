@@ -4,7 +4,6 @@
 '
 @startuml
 !theme blueprint
-title blueprint theme
 abstract class AbstractList
 abstract AbstractCollection
 interface List

@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme black-knight
-title black-knight theme
 {+
   Just plain text
   [This is my button]

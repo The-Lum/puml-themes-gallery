@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme cerulean-outline
-title cerulean-outline theme
 {+
   Just plain text
   [This is my button]

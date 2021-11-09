@@ -4,7 +4,6 @@
 '
 @startuml
 !theme reddress-darkorange
-title reddress-darkorange theme
 start
 :init;
 -> test of color;

@@ -4,7 +4,6 @@
 '
 @startwire
 !theme sketchy-outline
-title sketchy-outline theme
 
 * BOX_1 [100x200]
 --

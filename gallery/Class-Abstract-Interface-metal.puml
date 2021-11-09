@@ -4,7 +4,6 @@
 '
 @startuml
 !theme metal
-title metal theme
 abstract class AbstractList
 abstract AbstractCollection
 interface List

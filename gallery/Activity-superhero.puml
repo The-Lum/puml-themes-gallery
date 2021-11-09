@@ -4,7 +4,6 @@
 '
 @startuml
 !theme superhero
-title superhero theme
 start
 :init;
 -> test of color;

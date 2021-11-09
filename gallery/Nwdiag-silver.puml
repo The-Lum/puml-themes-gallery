@@ -4,7 +4,6 @@
 '
 @startuml
 !theme silver
-title silver theme
 nwdiag {
   network DMZ {
       address = "y.x.x.x/24"

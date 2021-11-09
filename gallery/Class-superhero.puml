@@ -4,7 +4,6 @@
 '
 @startuml
 !theme superhero
-title superhero theme
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

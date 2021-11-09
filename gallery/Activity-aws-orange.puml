@@ -4,7 +4,6 @@
 '
 @startuml
 !theme aws-orange
-title aws-orange theme
 start
 :init;
 -> test of color;

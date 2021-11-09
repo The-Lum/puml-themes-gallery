@@ -4,7 +4,6 @@
 '
 @startuml
 !theme crt-green
-title crt-green theme
 Alice -> Bob: Authentication Request
 
 alt successful case

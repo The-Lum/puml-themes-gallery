@@ -4,7 +4,6 @@
 '
 @startuml
 !theme amiga
-title amiga theme
 start
 :init;
 -> test of color;

@@ -4,7 +4,6 @@
 '
 @startuml
 !theme lightgray
-title lightgray theme
 robust "Web Browser" as WB
 concise "Web User" as WU
 

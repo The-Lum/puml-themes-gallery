@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme aws-orange
-title aws-orange theme
 {+
   Just plain text
   [This is my button]

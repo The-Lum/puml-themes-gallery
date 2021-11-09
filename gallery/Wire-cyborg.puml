@@ -4,7 +4,6 @@
 '
 @startwire
 !theme cyborg
-title cyborg theme
 
 * BOX_1 [100x200]
 --

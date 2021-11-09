@@ -4,7 +4,6 @@
 '
 @startuml
 !theme aws-orange
-title aws-orange theme
 actor actor
 actor/ "actor/"
 agent agent

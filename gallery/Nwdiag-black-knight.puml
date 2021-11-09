@@ -4,7 +4,6 @@
 '
 @startuml
 !theme black-knight
-title black-knight theme
 nwdiag {
   network DMZ {
       address = "y.x.x.x/24"

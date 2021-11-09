@@ -4,7 +4,6 @@
 '
 @startuml
 !theme reddress-lightred
-title reddress-lightred theme
 robust "Web Browser" as WB
 concise "Web User" as WU
 

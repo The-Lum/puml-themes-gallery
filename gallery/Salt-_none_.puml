@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme _none_
-title _none_ theme
 {+
   Just plain text
   [This is my button]

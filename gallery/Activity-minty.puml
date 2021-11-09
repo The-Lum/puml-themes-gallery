@@ -4,7 +4,6 @@
 '
 @startuml
 !theme minty
-title minty theme
 start
 :init;
 -> test of color;

@@ -4,7 +4,6 @@
 '
 @startuml
 !theme reddress-lightorange
-title reddress-lightorange theme
 
 object user1
 user1 : name = "Dummy"

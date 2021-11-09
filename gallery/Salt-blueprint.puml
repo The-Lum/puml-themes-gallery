@@ -4,7 +4,6 @@
 '
 @startsalt
 !theme blueprint
-title blueprint theme
 {+
   Just plain text
   [This is my button]

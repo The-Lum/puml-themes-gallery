@@ -4,7 +4,6 @@
 '
 @startwire
 !theme hacker
-title hacker theme
 
 * BOX_1 [100x200]
 --
