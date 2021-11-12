@@ -4,10 +4,12 @@
 _Don't hesitate to post questions/remarks on the [discussion page](https://github.com/The-Lum/puml-themes-gallery/discussions)._
 
 ---
+
 Context:
 - PlantUML version: {% include_relative lib/plantuml-tag.md %}
 - Layout: smetana
 - Output image format: SVG
+
 ---
 
 <hr>
