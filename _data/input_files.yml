@@ -4,6 +4,7 @@ Class-Abstract-Interface
 Class
 Deployment
 Gantt
+GanttWithCalendar
 JSON
 Mindmap
 Nwdiag
@@ -13,6 +14,7 @@ Sequence
 SequenceGroup
 State
 Timing
+UseCase
 WBS
 Wire
 YAML
