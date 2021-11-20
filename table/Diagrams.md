@@ -10,6 +10,7 @@
 ## {{ d }}
 {% for t in themes %}
 ### {{ d }} ▶ {{ t }}
+{: .no_toc}
 ![image](../gallery/img/{{ d }}-{{ t }}.svg){: .align-center}
 {% endfor %}
 {% endfor %}
