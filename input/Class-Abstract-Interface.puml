@@ -4,12 +4,12 @@ abstract AbstractCollection
 interface List
 interface Collection
 
-List <|-- AbstractList
-Collection <|-- AbstractCollection
+List <|-- AbstractList : AList to List
+Collection <|-- AbstractCollection : AColl to Coll
 
-Collection <|- List
-AbstractCollection <|- AbstractList
-AbstractList <|-- ArrayList
+Collection <|- List : List to Coll
+AbstractCollection <|- AbstractList : AList to AColl
+AbstractList <|-- ArrayList : ArList to AList
 
 class ArrayList {
   Object[] elementData
