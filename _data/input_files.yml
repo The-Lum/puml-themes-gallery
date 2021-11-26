@@ -7,6 +7,7 @@ DeploymentWithGroup
 Gantt
 GanttWithCalendar
 JSON
+JSONwithHighlight
 Mindmap
 MindmapWithBoxless
 Nwdiag
@@ -22,3 +23,4 @@ UseCaseWithActorStyle
 WBS
 Wire
 YAML
+YAMLwithHighlight
