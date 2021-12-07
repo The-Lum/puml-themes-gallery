@@ -1,0 +1,9 @@
+@startuml
+!pragma teoz true
+Alice -> Bob : hello
+& Bob -> Charlie : hi
+group A teoz group
+Alice -> Bob : hello
+& Bob -> Charlie : ha
+end
+@enduml
