@@ -1,1 +1,1 @@
-PlantUML version 1.2021.17beta1 (Unknown compile time)
+PlantUML version 1.2022.2beta2 (Unknown compile time)
