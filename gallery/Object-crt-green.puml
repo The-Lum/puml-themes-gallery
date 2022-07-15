@@ -32,4 +32,10 @@ map CapitalCity {
 }
 
 user1 --> CapitalCity : visits >
+
+json json {
+   "fruit":"Apple",
+   "size": "Large",
+   "color": ["Red", "Green"]
+}
 @enduml
