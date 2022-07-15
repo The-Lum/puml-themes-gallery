@@ -9,5 +9,8 @@ diamond         diamond
 <>              diamond_short_form
 entity          entity
 enum            enum
+exception       exception
 interface       interface
+protocol        protocol
+struct          struct
 @enduml
