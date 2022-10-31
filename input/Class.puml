@@ -11,6 +11,8 @@ entity          entity
 enum            enum
 exception       exception
 interface       interface
+metaclass       metaclass
 protocol        protocol
+stereotype      stereotype
 struct          struct
 @enduml
