@@ -1,4 +1,4 @@
-@startuml
+@startgantt
 Project starts the 2020-12-14
 sunday are closed
 [Task1] lasts 10 days
@@ -17,4 +17,4 @@ end note
 -- Separator title --
 [M1] happens on 5 days after [Task1]'s end
 -- end --
-@enduml
+@endgantt
