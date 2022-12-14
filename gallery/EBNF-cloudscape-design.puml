@@ -6,7 +6,7 @@
 !theme cloudscape-design
 (* Test of some EBNF elements *)
 rule-0 = rule, "litteral_dq", 'litteral_sq', ?special?;
-r1 = t, [h], {Ã©}, {o}-;
+r1 = t, [h], {e}, {o}-;
 r2 =(3 * nil | z), (r | s), t;
 e = ;
 @endebnf
