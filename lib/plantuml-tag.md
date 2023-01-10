@@ -1,1 +1,1 @@
-PlantUML version 1.2022.15beta6 (Unknown compile time)
+PlantUML version 1.2023.0 (Mon Jan 09 18:31:34 UTC 2023)
