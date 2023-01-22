@@ -1,0 +1,6 @@
+@startgantt
+[Task1] on {Alice} lasts 10 days
+[Task2] on {Bob:50%} lasts 2 days
+then [Task3] on {Alice:25%} lasts 1 days
+left footer \n<i>Rel. Issue: [[https://github.com/plantuml/plantuml/issues/616 #616]]
+@endgantt
