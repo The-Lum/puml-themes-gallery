@@ -1,0 +1,4 @@
+@startregex
+title How title is parsed by PlantUML?
+^title(?:[%s]*:[%s]*|[%s]+)(?:(?:[%g](.*)[%g])|(?:(.*[%pLN_.].*)))$
+@endregex
