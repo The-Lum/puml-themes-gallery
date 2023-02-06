@@ -4,8 +4,11 @@
 '
 @startuml
 !theme aws-orange
-robust "Web Browser" as WB
-concise "Web User" as WU
+robust  "Web Browser" as WB
+concise "Web User"    as WU
+clock   "Clock_1"     as C1 with period 100 pulse 15 offset 10
+binary  "Binary"      as B
+analog  "Analog"      as A
 
 WB is Initializing
 WU is Absent
@@ -20,4 +23,13 @@ WB@0 <-> @50 : {50 ms lag}
 0 is Waiting
 +500 is ok
 @200 <-> @+150 : {150 ms}
+
+@B
+100 is high
+
+@A
+0 is 0
+100 is 3
+300 is 1
+
 @enduml
