@@ -5,6 +5,7 @@ annotation      annotation
 circle          circle
 ()              circle_short_form
 class           class
+class           class_stereo  <<stereotype>>
 diamond         diamond
 <>              diamond_short_form
 entity          entity
