@@ -1,4 +1,5 @@
 @startuml
+action action
 actor actor
 actor/ "actor/"
 agent agent
@@ -21,6 +22,7 @@ label label
 node node
 package package
 person person
+process process
 queue queue
 rectangle rectangle
 stack stack
