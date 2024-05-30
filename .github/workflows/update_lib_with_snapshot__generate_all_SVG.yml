@@ -7,7 +7,7 @@ jobs:
     name: Update lib with Snapshot and Generate all SVG
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Run `update_lib_with_snapshot`
         run: |
           chmod +x script/update_lib_with_snapshot.sh
