@@ -18,6 +18,7 @@ REGEX
 Salt
 Sequence
 SequenceGroup
+SequenceMainExample
 SequenceWithTeoz
 State
 StateWithPoint
