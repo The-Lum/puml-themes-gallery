@@ -20,6 +20,6 @@ jobs:
           perl -w script/give_all_input_file.pl
       # Runs  Commit the changes, if any
       - name: Commit the changes, if any
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update input_files

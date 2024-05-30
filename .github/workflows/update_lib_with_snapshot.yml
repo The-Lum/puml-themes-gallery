@@ -12,6 +12,6 @@ jobs:
           chmod +x script/update_lib_with_snapshot.sh
           ./script/update_lib_with_snapshot.sh
       - name: Commit the changes, if any
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update repository with the latest snapshot lib
