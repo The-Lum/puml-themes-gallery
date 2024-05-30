@@ -1,0 +1,21 @@
+@startuml
+note over Alice : initial state of Alice
+/ note over Bob : initial state of Bob
+== Initialization ==
+ref over Alice, Bob : init
+Alice -> Bob ++ : hello
+Bob -> Bob ++ : self call
+Bob -> Bob ++  #005500 : hello
+Bob -> George ** : create
+return done
+return rc
+Bob -> George !! : delete
+return success
+
+== Delay example ==
+Alice ->(10) Bob: Authentication Request
+...
+Bob -->(10) Alice: Authentication Response
+...5 minutes later...
+Bob --> Alice: Good Bye !
+@enduml
