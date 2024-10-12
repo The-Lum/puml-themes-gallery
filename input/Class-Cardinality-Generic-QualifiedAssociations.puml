@@ -1,0 +1,10 @@
+@startuml
+' Source: https://github.com/plantuml/plantuml/issues/1467 '
+
+interface Map<K,V>
+class HashMap<Long,Customer>
+
+Map <|.. HashMap
+Shop [customerId: long] ---> "customer\n1" Customer
+HashMap [id: Long] -r-> "value" Customer
+@enduml
