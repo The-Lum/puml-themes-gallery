@@ -1,11 +1,13 @@
-<hr>
+# List All the Diagrams in All Themes
+
 * A
 {:toc}
-<hr>
 
-# All the Diagrams
+---
+
+{% assign diagrams = site.data.diagrams | split: " " %}
 {% assign themes = site.data.themes | split: " " %}
-{% assign diagrams = site.data.input_files | split: " " %}
+
 {% for d in diagrams %}
 ## {{ d }}
 {% for t in themes %}
