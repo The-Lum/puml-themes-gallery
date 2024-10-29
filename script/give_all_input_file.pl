@@ -13,7 +13,7 @@ use autodie;
 my @files = <input/*.puml>;
 
 # Output file
-open(my $fho, '>:encoding(UTF-8)', '_data/input_files.yml');
+open(my $fho, '>:encoding(UTF-8)', '_data/diagrams.yml');
 
 foreach my $f (@files) {
 	(my $file_no_ext = $f) =~ s/\.[^.]+$//;

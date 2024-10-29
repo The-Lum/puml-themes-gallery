@@ -11,7 +11,7 @@ end
 
 subgraph _data
 at[_data/themes.yml]
-if[_data/input_files.yml]
+if[_data/diagrams.yml]
 end
 
 subgraph gallery
