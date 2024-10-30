@@ -1,4 +1,7 @@
-# All the diagrams
+---
+layout: default
+---
+## All the diagrams
 {: .no_toc}
 
 * TOC seed list
@@ -9,6 +12,7 @@
 
 {% for d in diagrams %}
 ## {{ d }} Diagram
+### {{ diagram.name }} Diagram
 <div class ="image-gallery">
 {% for t in themes %}
   <div class="box">

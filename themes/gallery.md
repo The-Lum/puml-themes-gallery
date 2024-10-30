@@ -1,4 +1,7 @@
-# All the themes
+---
+layout: default
+---
+## All the themes
 {: .no_toc}
 
 * TOC seed list
@@ -9,6 +12,7 @@
 
 {% for t in themes %}
 ## {{ t }} Theme
+### {{ theme.name }} Theme
 <div class ="image-gallery">
 {% for d in diagrams %}
   <div class="box">

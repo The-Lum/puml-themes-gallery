@@ -1,4 +1,7 @@
-# Show All the Themes for All Diagrams
+---
+layout: default
+---
+## Show All the Themes for All Diagrams
 
 {% assign themes = site.data.themes | split: " " %}
 {% assign diagrams = site.data.diagrams | split: " " %}

@@ -1,4 +1,7 @@
-# List of All the Diagrams in All Themes
+---
+layout: default
+---
+## List of All the Diagrams in All Themes
 {: .no_toc}
 
 * TOC seed list
@@ -11,6 +14,8 @@
 ## {{ d }} Diagram
 {% for t in themes %}
 ### {{ d }} Diagram in {{ t }} Theme
+### {{ diagram.name }} Diagram
+#### {{ diagram.name }} Diagram in {{ theme.name }} Theme
 {: .no_toc}
 ![image](../gallery/img/{{ d }}-{{ t }}.svg){: .align-center}
 {% endfor %}
