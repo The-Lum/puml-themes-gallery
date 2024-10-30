@@ -10,8 +10,7 @@ layout: default
 {% assign diagrams = site.data.diagrams | split: " " %}
 {% assign themes = site.data.themes | split: " " %}
 
-{% for d in diagrams %}
-## {{ d }} Diagram
+{% for diagram in diagrams %}
 ### {{ diagram.name }} Diagram
 <div class ="image-gallery">
 {% for t in themes %}

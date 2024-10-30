@@ -10,11 +10,9 @@ layout: default
 {% assign themes = site.data.themes | split: " " %}
 {% assign diagrams = site.data.diagrams | split: " " %}
 
-{% for t in themes %}
-## {{ t }} Theme
-{% for d in diagrams %}
-### {{ d }} Diagram in {{ t }} Theme
+{% for theme in themes %}
 ### {{ theme.name }} Theme
+{% for diagram in diagrams %}
 #### {{ diagram.name }} Diagram in {{ theme.name }} Theme
 {: .no_toc}
 ![image](../gallery/img/{{ d }}-{{ t }}.svg){: .align-center}
