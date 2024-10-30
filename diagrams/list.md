@@ -17,6 +17,6 @@ layout: default
 {% for theme in themes %}
 #### {{ diagram.name }} Diagram in {{ theme.name }} Theme
 {: .no_toc}
-![image](../gallery/img/{{ diagram.name }}-{{ theme.name }}.svg){: .align-center}
+![{{ diagram.name }} in {{ theme.name }}](../gallery/img/{{ diagram.name }}-{{ theme.name }}.svg)
 {% endfor %}
 {% endfor %}

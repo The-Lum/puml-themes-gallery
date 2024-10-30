@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h2>{{ page.name }}</h2>
+
+{{ content }}
+
+<h3>Themes</h3>
+
+{% for theme in site.data.themes %}
+<h4>{{ page.short_name }} Diagram in {{ theme.name }} Theme</h4>
+
+<img src="../gallery/img/{{ page.short_name }}-{{ theme.name }}.svg" alt="{{ page.name }} in {{ theme.name }}" />
+{% endfor %}

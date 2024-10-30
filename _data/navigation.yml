@@ -1,9 +1,13 @@
+- name: Themes Overview
+  link: /themes/
 - name: Themes List
   link: /themes/list.html
 - name: Themes Table
   link: /themes/table.html
 - name: Themes Gallery
   link: /themes/gallery.html
+- name: Diagrams Overview
+  link: /diagrams/
 - name: Diagrams List
   link: /diagrams/list.html
 - name: Diagrams Table
