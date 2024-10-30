@@ -1,17 +1,16 @@
-# List All the Themes for All Diagrams
+# List of All the Themes for All Diagrams
+{: .no_toc}
 
-* A
+* TOC seed list
 {:toc}
-
----
 
 {% assign themes = site.data.themes | split: " " %}
 {% assign diagrams = site.data.diagrams | split: " " %}
 
 {% for t in themes %}
-## {{ t }}
+## {{ t }} Theme
 {% for d in diagrams %}
-### {{ t }} ▶ {{ d }}
+### {{ d }} Diagram in {{ t }} Theme
 {: .no_toc}
 ![image](../gallery/img/{{ d }}-{{ t }}.svg){: .align-center}
 {% endfor %}

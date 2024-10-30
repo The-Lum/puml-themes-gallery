@@ -1,15 +1,14 @@
 # All the diagrams
+{: .no_toc}
 
-* A
-  {:toc}
-
----
+* TOC seed list
+{:toc}
 
 {% assign diagrams = site.data.diagrams | split: " " %}
 {% assign themes = site.data.themes | split: " " %}
 
 {% for d in diagrams %}
-## {{ d }}
+## {{ d }} Diagram
 <div class ="image-gallery">
 {% for t in themes %}
   <div class="box">
