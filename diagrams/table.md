@@ -4,20 +4,20 @@
 {% assign themes = site.data.themes | split: " " %}
 
 <table>
-  <tr>
-    <th></th>
+    <tr>
+        <th>Overview</th>
 {% for d in diagrams %}
-    <th>{{ d }}</th>
+        <th>{{ d }}</th>
 {% endfor %}
-  </tr>
+    </tr>
 {% for t in themes %}
-  <tr>
-    <th>{{ t }}</th>
+    <tr>
+        <th>{{ t }}</th>
 {% for d in diagrams %}
-    <td>
-      <img src="../gallery/img/{{ d }}-{{ t }}.svg" alt="{{ d }} in {{ t }}" />
-    </td>
+        <td>
+            <img src="../gallery/img/{{ d }}-{{ t }}.svg" alt="{{ d }} in {{ t }}" />
+        </td>
 {% endfor %}
-  </tr>
+    </tr>
 {% endfor %}
 </table>
