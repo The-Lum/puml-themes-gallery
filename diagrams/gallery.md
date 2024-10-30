@@ -7,18 +7,18 @@ layout: default
 * TOC seed list
 {:toc}
 
-{% assign diagrams = site.data.diagrams | split: " " %}
-{% assign themes = site.data.themes | split: " " %}
+{% assign diagrams = site.data.diagrams %}
+{% assign themes = site.data.themes %}
 
 {% for diagram in diagrams %}
 ### {{ diagram.name }} Diagram
 <div class ="image-gallery">
-{% for t in themes %}
-  <div class="box">
-    <a href="../gallery/img/{{ d }}-{{ t }}.svg">
-      <img src="../gallery/img/{{ d }}-{{ t }}.svg " alt="{{ d }} in {{ t }}"  class="img-gallery" />
-    </a>
-  </div>
+{% for theme in themes %}
+    <div class="box">
+        <a href="../gallery/img/{{ diagram.name }}-{{ theme.name }}.svg">
+            <img src="../gallery/img/{{ diagram.name }}-{{ theme.name }}.svg " alt="{{ diagram.name }} in {{ theme.name }}"  class="img-gallery" />
+        </a>
+    </div>
 {% endfor %}
 </div>
 {% endfor %}

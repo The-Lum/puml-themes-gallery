@@ -3,22 +3,22 @@ layout: default
 ---
 ## Show All the Themes for All Diagrams
 
-{% assign themes = site.data.themes | split: " " %}
-{% assign diagrams = site.data.diagrams | split: " " %}
+{% assign themes = site.data.themes %}
+{% assign diagrams = site.data.diagrams %}
 
 <table>
     <tr>
         <th>Overview</th>
-{% for t in themes %}
-        <th>{{ t }}</th>
+{% for theme in themes %}
+        <th>{{ theme.name }}</th>
 {% endfor %}
     </tr>
-{% for d in diagrams %}
+{% for diagram in diagrams %}
     <tr>
-        <th>{{ d }}</th>
-{% for t in themes %}
+        <th>{{ diagram.name }}</th>
+{% for theme in themes %}
         <td>
-            <img src="../gallery/img/{{ d }}-{{ t }}.svg" alt="{{ d }} in {{ t }}" />
+            <img src="../gallery/img/{{ diagram.name }}-{{ theme.name }}.svg" alt="{{ diagram.name }} in {{ theme.name }}" />
         </td>
 {% endfor %}
     </tr>

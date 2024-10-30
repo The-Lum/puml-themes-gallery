@@ -2,7 +2,7 @@
 # Author: The-Lum
 # Script: 
 # The script generates all the `.puml` files (from all `.puml` files of the `input` directory)
-# for all PlantUML theme (from `_data/themes.yml`)
+# for all PlantUML theme (from `_data/themes.csv`)
 # on the `gallery` directory
 
 use strict;
@@ -10,7 +10,7 @@ use warnings;
 use autodie;
 
 # Theme list
-open(my $fh_t, '<', '_data/themes.yml');
+open(my $fh_t, '<', '_data/themes.csv');
 my @themes = <$fh_t>;
 chomp(@themes);
 
@@ -24,6 +24,7 @@ my $h = <<EOT;
 '
 EOT
 
+shift @themes; # Remove the first element (header) and throw it away
 foreach my $t (@themes) {
 	foreach my $f (@files) {
 		open(my $fh, '<',  $f); 

@@ -13,11 +13,12 @@ use autodie;
 my @files = <input/*.puml>;
 
 # Output file
-open(my $fho, '>:encoding(UTF-8)', '_data/diagrams.yml');
+open(my $fho, '>:encoding(UTF-8)', '_data/diagrams.csv');
 
+print $fho "name\n";
 foreach my $f (@files) {
-	(my $file_no_ext = $f) =~ s/\.[^.]+$//;
-	$file_no_ext =~ s|^.*/||;
-	print $fho $file_no_ext;
-	print $fho "\n";
+    (my $file_no_ext = $f) =~ s/\.[^.]+$//;
+    $file_no_ext =~ s|^.*/||;
+    print $fho $file_no_ext;
+    print $fho "\n";
 }

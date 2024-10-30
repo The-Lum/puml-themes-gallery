@@ -20,6 +20,15 @@ remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-remote-theme
 
+csv_reader:
+  converters: []
+  headers: true
+  encoding: utf-8
+tsv_reader:
+  converters: []
+  headers: true
+  encoding: utf-8
+
 # Dinky Theme settings
 show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
