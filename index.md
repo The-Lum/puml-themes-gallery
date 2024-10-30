@@ -26,4 +26,3 @@ Context:
 ![image](gallery/img/{{ d }}-{{ t }}.svg){: .align-center}
 {% endfor %}
 {% endfor %}
-

@@ -1,1 +1,51 @@
-theme: jekyll-theme-dinky
+# These settings are used to personalize your new site.
+# If you look at the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like,
+# and they will be accessible in the templates via {{ site.myvariable }}.
+
+# Site settings
+title: PlantUML Theme Gallery
+#email: your-email@example.com
+description: >-
+  A gallery of all the themes included with PlantUML.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+github_username: The-Lum
+
+# Build settings
+#theme: jekyll-theme-dinky
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Dinky Theme settings
+show_downloads: false
+#google_analytics: [Your Google Analytics tracking ID]
+
+
+# Exclude from processing.
+# The following items will not be processed by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - puml-themes-gallery.iml
+  - lib
+  - script
+  - README.md
+  - run.sh
+
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+# include: []
