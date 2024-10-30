@@ -1,0 +1,12 @@
+- name: Themes (list view)
+  link: /themes/list.html
+- name: Themes (table view)
+  link: /themes/table.html
+- name: Themes (gallery view)
+  link: /themes/gallery.html
+- name: Diagrams (list view)
+  link: /diagrams/list.html
+- name: Diagrams (table view)
+  link: /diagrams/table.html
+- name: Diagrams (gallery view)
+  link: /diagrams/gallery.html

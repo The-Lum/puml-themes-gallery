@@ -8,7 +8,7 @@ strContains() { case $1 in *$2* ) return 0;; *) return 1;; esac ;}
 run::jekyllServe() {
   pageRoot=${1:-}
   cd "$PROJECT_ROOT/$pageRoot" || exit
-  bundle exec jekyll serve --baseurl=""
+  bundle exec jekyll serve --livereload --baseurl=""
 }
 
 run::jekyllUpdate() {
