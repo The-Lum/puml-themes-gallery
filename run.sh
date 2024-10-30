@@ -5,11 +5,24 @@ PROJECT_ROOT=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &> /dev/null && pwd)
 
 strContains() { case $1 in *$2* ) return 0;; *) return 1;; esac ;}
 
+run::jekyllBuild() {
+  pageRoot=${1:-}
+  cd "$PROJECT_ROOT/$pageRoot" || exit
+  JEKYLL_ENV=production bundle exec jekyll build
+}
+
 run::jekyllServe() {
   pageRoot=${1:-}
   cd "$PROJECT_ROOT/$pageRoot" || exit
   bundle exec jekyll serve --livereload --baseurl=""
 }
+
+run::jekyllClean() {
+  pageRoot=${1:-}
+  cd "$PROJECT_ROOT/$pageRoot" || exit
+  bundle exec jekyll clean
+}
+
 
 run::jekyllUpdate() {
   bundle update github-pages

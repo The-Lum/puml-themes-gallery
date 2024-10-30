@@ -5,6 +5,14 @@ layout: default
 
 {{ content }}
 
+<h3>Diagram Code</h3>
+
+<pre>
+    <code class="language-puml">
+{% include_relative input/{{ page.short_name }}.puml %}
+    </code>
+</pre>
+
 <h3>Themes</h3>
 
 {% for theme in site.data.themes %}

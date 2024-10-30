@@ -47,6 +47,8 @@ defaults:
 remote_theme: pages-themes/dinky@v0.2.0
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 csv_reader:
   converters: []
