@@ -1,8 +1,12 @@
 ---
-
 ---
 
 @import "{{ site.theme }}";
+
+/* Navigation Styles */
+.current {
+  font-weight: bold;
+}
 
 /*! div style */
 .image-gallery {

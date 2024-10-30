@@ -4,6 +4,8 @@ layout: default
 ## All the themes
 {: .no_toc}
 
+{% include quickNavigation.html %}
+
 * TOC seed list
 {:toc}
 
