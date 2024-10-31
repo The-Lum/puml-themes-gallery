@@ -15,6 +15,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: The-Lum
 
 # Collection settings
+collections_dir: collections
 collections:
   themes:
     output: true
