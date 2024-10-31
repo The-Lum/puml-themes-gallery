@@ -6,7 +6,7 @@
     {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -18,15 +18,17 @@
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% include navigation.html %}
 
-        <ul>
-            {% if site.show_downloads %}
-            <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
-            <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
-            {% endif %}
-            <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
-        </ul>
+        <nav>
+            <ul>
+                {% include mainNavigation.html %}
+                {% if site.show_downloads %}
+                <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
+                <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
+                {% endif %}
+                <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
+            </ul>
+        </nav>
 
         {% if site.github.is_project_page %}
         <p class="header">

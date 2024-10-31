@@ -1,0 +1,6 @@
+<p>
+    <a href="/" {% if page.url== '/' %}class="current"{% endif %}>Overview</a>
+    {% for item in site.data.subNavigation %}
+    | <a href="{{ item.link }}" {% if page.url== item.link %}class="currentPage" {% endif %}>{{ item.name }}</a>
+    {% endfor %}
+</p>

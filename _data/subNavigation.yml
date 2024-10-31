@@ -1,0 +1,6 @@
+- name: List
+  link: list.html
+- name: Table
+  link: table.html
+- name: Gallery
+  link: gallery.html

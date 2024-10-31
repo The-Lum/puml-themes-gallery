@@ -3,7 +3,7 @@ layout: default
 ---
 ## Show All the Themes for All Diagrams
 
-{% include quickNavigation.html %}
+{% include subNavigation.html %}
 
 {% assign themes = site.data.themes %}
 {% assign diagrams = site.data.diagrams %}

@@ -4,7 +4,7 @@ layout: default
 ## List of All the Themes for All Diagrams
 {: .no_toc}
 
-{% include quickNavigation.html %}
+{% include subNavigation.html %}
 
 * TOC seed list
 {:toc}

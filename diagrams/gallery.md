@@ -4,7 +4,7 @@ layout: default
 ## All the diagrams
 {: .no_toc}
 
-{% include quickNavigation.html %}
+{% include subNavigation.html %}
 
 * TOC seed list
 {:toc}

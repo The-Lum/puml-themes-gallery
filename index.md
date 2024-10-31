@@ -3,7 +3,7 @@ layout: default
 ---
 ## Welcome to PlantUML themes Gallery
 
-{% include quickNavigation.html %}
+{% include subNavigation.html %}
 
 ---
 
@@ -23,12 +23,14 @@ Context:
 
 View all the themes
 
+* [Themes Overview](themes/)
 * [All Themes (list view)](themes/list.md)
 * [All Themes (table view)](themes/table.md)
 * [All Themes (gallery view)](themes/gallery.md)
 
 View all the diagrams
 
+* [Diagrams Overview)](diagrams/)
 * [All Diagrams (list view)](diagrams/list.md)
 * [All Diagrams (table view)](diagrams/table.md)
 * [All Diagrams (gallery view)](diagrams/gallery.md)
