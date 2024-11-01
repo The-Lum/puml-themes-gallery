@@ -29,7 +29,7 @@ permalink: /diagrams/table.html
 
 
             <td>
-{% capture url %}{{ theme.url }}#{{ diagram.name }}{% endcapture %}
+{% capture url %}{{ diagram.url }}#{{ theme.name }}{% endcapture %}
 {% capture file %}{{ diagram.name }}-{{ theme.name }}.svg{% endcapture %}
 {% capture alt %}{{ diagram.display_name }} in {{ theme.display_name }}{% endcapture %}
 
