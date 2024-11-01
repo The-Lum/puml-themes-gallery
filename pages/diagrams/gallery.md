@@ -21,7 +21,7 @@ Go to the page for the [{{ diagram.display_name }}]({{ diagram.url }})
 
 {% for theme in site.themes %}
 
-{% capture url %} {{ theme.url }}#{{ diagram.name }}{% endcapture %}
+{% capture url %}{{ diagram.url }}#{{ theme.name }}{% endcapture %}
 {% capture file %}{{ diagram.name }}-{{ theme.name }}.svg{% endcapture %}
 {% capture alt %}{{ diagram.display_name }} in {{ theme.display_name }}{% endcapture %}
 {% capture caption %}{{ theme.display_name }}{% endcapture %}
@@ -31,5 +31,7 @@ Go to the page for the [{{ diagram.display_name }}]({{ diagram.url }})
 {% endfor %}
 
 </div>
+
+Go to the page for the [{{ diagram.display_name }}]({{ diagram.url }})
 
 {% endfor %}

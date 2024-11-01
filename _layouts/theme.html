@@ -14,21 +14,15 @@ layout: default
     page.display_name }}</a> for the theme's implementation details.
 </p>
 
-<h3>Diagram Gallery</h3>
+<h3>Available Diagrams</h3>
 
 {% for diagram in site.diagrams %}
 
-<h4>{{ diagram.display_name }} in {{ page.display_name }}</h4>
+<h4 id="{{ diagram.name }}">{{ diagram.display_name }} shown in {{ page.display_name }}</h4>
 
-{% capture url %}
-{{ diagram.url }}#{{ page.name }}
-{% endcapture %}
-{% capture file %}
-{{ diagram.name }}-{{ page.name }}.svg
-{% endcapture %}
-{% capture alt %}
-{{ diagram.display_name }} in {{ page.display_name }}
-{% endcapture %}
+{% capture url %}{{ diagram.url }}#{{ page.name }}{% endcapture %}
+{% capture file %}{{ diagram.name }}-{{ page.name }}.svg{% endcapture %}
+{% capture alt %}{{ diagram.display_name }} in {{ page.display_name }}{% endcapture %}
 
 {% include figure.html url=url file=file alt=alt %}
 

@@ -14,7 +14,7 @@ run::jekyllBuild() {
 run::jekyllServe() {
   pageRoot=${1:-}
   cd "$PROJECT_ROOT/$pageRoot" || exit
-  bundle exec jekyll serve --livereload --baseurl=""
+  bundle exec jekyll serve --incremental --livereload --baseurl=""
 }
 
 run::jekyllClean() {

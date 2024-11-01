@@ -16,7 +16,7 @@ github_username: The-Lum
 
 default_theme:
   name: _none_
-  display_name: Plain Theme
+  display_name: _none_ Theme
   url: /themes/_none_.html
 
 default_diagram:
@@ -29,6 +29,12 @@ collections_dir: collections
 collections:
   themes:
     output: true
+    # This does not currently work for some reason
+    sort_by: name
+    order:
+      - collections/_themes/none.md
+      - _themes/none.md
+      - none.md
   diagrams:
     output: true
 

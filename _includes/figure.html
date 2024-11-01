@@ -1,10 +1,10 @@
-<figure class="image-box">
+<figure class="image-box{% if include.caption %} with-caption{% endif %}">
     <a href="{{ include.url }}">
         <img src="../gallery/img/{{ include.file }}"
                 alt="{{ include.alt }}"
                 loading="lazy" />
     </a>
 {% if include.caption %}
-    <figcaption class="image-description">{{ include.caption }}</figcaption>
+    <figcaption>{{ include.caption }}</figcaption>
 {% endif %}
 </figure>

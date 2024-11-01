@@ -15,16 +15,15 @@ permalink: /themes/index.html
 
 ### {{ theme.display_name }}
 
+{{ theme.excerpt }}
+
 Go to the page for the [{{ theme.display_name }}]({{ theme.url }}).
 
-{% if theme.content %}
-{{ theme.content | markdownify }}
-{% endif %}
-
-{% capture url %}{{ sitte.default_diagram.url }}#{{ theme.name }}{% endcapture %}
+{% capture url %}{{ theme.url }}{% endcapture %}
 {% capture file %}{{ site.default_diagram.name }}-{{ theme.name }}.svg{% endcapture %}
 {% capture alt %}{{ site.default_diagram.display_name }} in {{ theme.display_name }}{% endcapture %}
+{% capture caption %}{{ site.default_diagram.display_name }} shown in {{ theme.display_name }}{% endcapture %}
 
-{% include figure.html url=url file=file alt=alt %}
+{% include figure.html url=url file=file alt=alt caption=caption %}
 
 {% endfor %}

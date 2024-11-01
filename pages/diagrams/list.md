@@ -19,14 +19,17 @@ Go to the page for the [{{ diagram.display_name }}]({{ diagram.url }})
 
 {% for theme in site.themes %}
 
-#### {{ diagram.display_name }} in {{ theme.display_name }}
+#### {{ diagram.display_name }} shown in {{ theme.display_name }}
 {: .no_toc}
 
-{% capture url %} {{ theme.url }}#{{ diagram.name }}{% endcapture %}
+{% capture url %}{{ diagram.url }}#{{ theme.name }}{% endcapture %}
 {% capture file %}{{ diagram.name }}-{{ theme.name }}.svg{% endcapture %}
 {% capture alt %}{{ diagram.display_name }} in {{ theme.display_name }}{% endcapture %}
 
 {% include figure.html url=url file=file alt=alt %}
 
 {% endfor %}
+
+Go to the page for the [{{ diagram.display_name }}]({{ diagram.url }})
+
 {% endfor %}
