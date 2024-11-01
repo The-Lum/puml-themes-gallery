@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h2>{{ page.name }}</h2>
+<h2>{{ page.display_name }}</h2>
 
 {% include subNavigation.html %}
 
@@ -9,16 +9,30 @@ layout: default
 
 <h3>Diagram Code</h3>
 
+This diagram was created by the following PlantUML code:
+
 <pre>
     <code class="language-puml">
-{% include_relative input/{{ page.short_name }}.puml %}
+{% include_relative input/{{ page.name }}.puml %}
     </code>
 </pre>
 
-<h3>Themes</h3>
+<h3>Theme Gallery</h3>
 
-{% for theme in site.data.themes %}
-<h4>{{ page.short_name }} Diagram in {{ theme.name }} Theme</h4>
+{% for theme in site.themes %}
 
-<img src="../gallery/img/{{ page.short_name }}-{{ theme.name }}.svg" alt="{{ page.name }} in {{ theme.name }}" />
+<h4>{{ page.display_name }} in {{ theme.display_name }}</h4>
+
+{% capture url %}
+{{ theme.url }}#{{ page.name }}
+{% endcapture %}
+{% capture file %}
+{{ page.name }}-{{ theme.name }}.svg
+{% endcapture %}
+{% capture alt %}
+{{ page.display_name }} in {{ theme.display_name }}
+{% endcapture %}
+
+{% include figure.html url=url file=file alt=alt %}
+
 {% endfor %}

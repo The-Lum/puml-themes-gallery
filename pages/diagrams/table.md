@@ -1,28 +1,46 @@
 ---
-layout: default
+permalink: /diagrams/table.html
 ---
-## Show All the Diagrams in All Themes
+## Diagrams Table View
 
 {% include subNavigation.html %}
 
-{% assign diagrams = site.data.diagrams %}
-{% assign themes = site.data.themes %}
-
 <table>
-    <tr>
-        <th>Overview</th>
-{% for diagram in diagrams %}
-        <th>{{ diagram.name }}</th>
+    <thead class="sticky">
+        <tr>
+            <th>Overview</th>
+
+{% for diagram in site.diagrams %}
+
+            <th>{{ diagram.name }}</th>
+
 {% endfor %}
-    </tr>
-{% for theme in themes %}
-    <tr>
-        <th>{{ theme.name }}</th>
-{% for diagram in diagrams %}
-        <td>
-            <img src="../gallery/img/{{ diagram.name }}-{{ theme.name }}.svg" alt="{{ diagram.name }} in {{ theme.name }}" />
-        </td>
+
+        </tr>
+    </thead>
+    <tbody>
+
+{% for theme in site.themes %}
+
+        <tr>
+            <th class="sticky">{{ theme.name }}</th>
+
+{% for diagram in site.diagrams %}
+
+
+            <td>
+{% capture url %} {{ theme.url }}#{{ diagram.name }}{% endcapture %}
+{% capture file %}{{ diagram.name }}-{{ theme.name }}.svg{% endcapture %}
+{% capture alt %}{{ diagram.display_name }} in {{ theme.display_name }}{% endcapture %}
+
+{% include figure.html url=url file=file alt=alt %}
+            </td>
+
 {% endfor %}
-    </tr>
+
+        </tr>
+
 {% endfor %}
+
+    </tbody>
 </table>

@@ -14,6 +14,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username: The-Lum
 
+default_theme:
+  name: _none_
+  display_name: Plain Theme
+  url: /themes/_none_.html
+
+default_diagram:
+  name: Deployment
+  display_name: Deployment Diagram
+  url: /diagrams/Deployment.html
+
 # Collection settings
 collections_dir: collections
 collections:

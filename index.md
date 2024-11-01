@@ -1,11 +1,7 @@
 ---
 layout: default
 ---
-## Welcome to PlantUML themes Gallery
-
-{% include subNavigation.html %}
-
----
+## Welcome to the PlantUML Themes Gallery
 
 🚧 _Under construction with first public release the 2021-10-31 (using PlantUML, smetana, SVG,...)_ 🚧
 

@@ -1,18 +1,35 @@
 ---
 layout: default
 ---
-<h2>{{ page.name }}</h2>
+<h2>{{ page.display_name }}</h2>
+
+{% include subNavigation.html %}
 
 {{ content }}
 
+<h3>Theme Code</h3>
+
 <p>
-    See <a href="https://github.com/plantuml/plantuml/tree/master/themes/puml-theme-{{ page.short_name }}.puml">{{ page.name }}</a> for theme details.
+    See <a href="https://github.com/plantuml/plantuml/tree/master/themes/puml-theme-{{ page.name }}.puml">PlantUML themes {{
+    page.display_name }}</a> for the theme's implementation details.
 </p>
 
-<h3>Diagrams</h3>
+<h3>Diagram Gallery</h3>
 
-{% for diagram in site.data.diagrams %}
-<h4>{{ diagram.name }} Diagram in {{ page.short_name }} Theme</h4>
+{% for diagram in site.diagrams %}
 
-<img src="../gallery/img/{{ diagram.name }}-{{ page.short_name }}.svg" alt="{{ diagram.name }} in {{ page.short_name }}" />
+<h4>{{ diagram.display_name }} in {{ page.display_name }}</h4>
+
+{% capture url %}
+{{ diagram.url }}#{{ page.name }}
+{% endcapture %}
+{% capture file %}
+{{ diagram.name }}-{{ page.name }}.svg
+{% endcapture %}
+{% capture alt %}
+{{ diagram.display_name }} in {{ page.display_name }}
+{% endcapture %}
+
+{% include figure.html url=url file=file alt=alt %}
+
 {% endfor %}

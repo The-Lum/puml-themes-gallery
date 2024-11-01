@@ -1,22 +1,32 @@
 ---
-layout: default
+permalink: /diagrams/list.html
 ---
-## List of All the Diagrams in All Themes
+## List of all the Diagrams
 {: .no_toc}
 
 {% include subNavigation.html %}
 
+**Diagrams on this Page:**
+
 * TOC seed list
 {:toc}
 
-{% assign diagrams = site.data.diagrams %}
-{% assign themes = site.data.themes %}
+{% for diagram in site.diagrams %}
 
-{% for diagram in diagrams %}
-### {{ diagram.name }} Diagram
-{% for theme in themes %}
-#### {{ diagram.name }} Diagram in {{ theme.name }} Theme
+### {{ diagram.display_name }}
+
+Go to the page for the [{{ diagram.display_name }}]({{ diagram.url }})
+
+{% for theme in site.themes %}
+
+#### {{ diagram.display_name }} in {{ theme.display_name }}
 {: .no_toc}
-![{{ diagram.name }} in {{ theme.name }}](../gallery/img/{{ diagram.name }}-{{ theme.name }}.svg)
+
+{% capture url %} {{ theme.url }}#{{ diagram.name }}{% endcapture %}
+{% capture file %}{{ diagram.name }}-{{ theme.name }}.svg{% endcapture %}
+{% capture alt %}{{ diagram.display_name }} in {{ theme.display_name }}{% endcapture %}
+
+{% include figure.html url=url file=file alt=alt %}
+
 {% endfor %}
 {% endfor %}

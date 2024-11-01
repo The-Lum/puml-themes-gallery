@@ -1,26 +1,35 @@
 ---
-layout: default
+permalink: /themes/gallery.html
 ---
-## All the themes
+## Themes Gallery
 {: .no_toc}
 
 {% include subNavigation.html %}
 
+**Themes on this Page:**
+
 * TOC seed list
 {:toc}
 
-{% assign themes = site.data.themes %}
-{% assign diagrams = site.data.diagrams %}
+{% for theme in site.themes %}
 
-{% for theme in themes %}
-### {{ theme.name }} Theme
+### {{ theme.display_name }}
+
+Go to the page for the [{{ theme.display_name }}]({{ theme.url }}).
+
 <div class ="image-gallery">
-{% for diagram in diagrams %}
-    <div class="box">
-        <a href="../gallery/img/{{ diagram.name }}-{{ theme.name }}.svg">
-            <img src="../gallery/img/{{ diagram.name }}-{{ theme.name }}.svg " alt="{{ diagram.name }} in {{ theme.name }}"  class="img-gallery" />
-        </a>
-    </div>
+
+{% for diagram in site.diagrams %}
+
+{% capture url %} {{ diagram.url }}#{{ theme.name }}{% endcapture %}
+{% capture file %}{{ diagram.name }}-{{ theme.name }}.svg{% endcapture %}
+{% capture alt %}{{ diagram.display_name }} in {{ theme.display_name }}{% endcapture %}
+{% capture caption %}{{ diagram.display_name }}{% endcapture %}
+
+{% include figure.html url=url file=file alt=alt caption=caption %}
+
 {% endfor %}
+
 </div>
+
 {% endfor %}
