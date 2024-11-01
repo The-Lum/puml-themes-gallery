@@ -1,6 +1,6 @@
 ---
-name: Class
-display_name: Class Diagram
+name: JSON
+display_name: JSON Diagram
 author: unknown
 ---
 _Add a diagram description_.

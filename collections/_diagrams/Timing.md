@@ -1,6 +1,6 @@
 ---
-name: Class
-display_name: Class Diagram
+name: Timing
+display_name: Timing Diagram
 author: unknown
 ---
 _Add a diagram description_.

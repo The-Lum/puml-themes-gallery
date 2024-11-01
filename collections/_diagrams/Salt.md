@@ -1,6 +1,6 @@
 ---
-name: Class
-display_name: Class Diagram
+name: Salt
+display_name: Salt Diagram
 author: unknown
 ---
 _Add a diagram description_.

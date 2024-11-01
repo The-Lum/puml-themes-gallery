@@ -5,13 +5,13 @@ PROJECT_ROOT=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &> /dev/null && pwd)
 
 strContains() { case $1 in *$2* ) return 0;; *) return 1;; esac ;}
 
-run::extractThemeCollection() {
+run::updateThemeCollection() {
   pathToThemes="$1"
   for themeFile in "$pathToThemes"/puml-theme-*.puml; do
     themeName=$(basename "$themeFile" .puml | tail -c+12)
     collectionFile="collections/_themes/$themeName.md"
 
-    echo "Extracted ${themeName} theme:"
+    echo "Found ${themeName} theme:"
     echo "----------------------------"
 
     if [ ! -e "$collectionFile" ]; then
@@ -37,6 +37,31 @@ run::extractThemeCollection() {
   done;
 }
 
+run::updateDiagramCollection() {
+  pathToDiagrams="$1"
+  for diagramFile in "$pathToDiagrams"/*.puml; do
+    diagramName=$(basename "$diagramFile" .puml)
+    collectionFile="collections/_diagrams/$diagramName.md"
+
+    echo "Found ${diagramName} diagram:"
+    echo "----------------------------"
+
+    if [ ! -e "$collectionFile" ]; then
+      {
+        echo "---"
+        echo "name: $diagramName"
+        echo "display_name: $diagramName Diagram"
+        echo "author: unknown"
+        echo "---"
+        echo "_Add a diagram description_."
+        echo "----------------------------" 1>&2
+        echo Stopping 1>&2
+      } > "$collectionFile"
+    fi
+
+  done;
+}
+
 run::jekyllBuild() {
   pageRoot=${1:-}
   cd "$PROJECT_ROOT/$pageRoot" || exit
@@ -46,7 +71,7 @@ run::jekyllBuild() {
 run::jekyllServe() {
   pageRoot=${1:-}
   cd "$PROJECT_ROOT/$pageRoot" || exit
-  bundle exec jekyll serve --livereload --baseurl=""
+  bundle exec jekyll serve --livereload --incremental --baseurl=""
 }
 
 run::jekyllClean() {

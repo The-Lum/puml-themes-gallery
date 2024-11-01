@@ -1,6 +1,6 @@
 ---
-name: Class
-display_name: Class Diagram
+name: Nwdiag
+display_name: Nwdiag Diagram
 author: unknown
 ---
 _Add a diagram description_.

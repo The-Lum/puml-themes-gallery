@@ -1,6 +1,6 @@
 ---
-name: Class
-display_name: Class Diagram
+name: YAML
+display_name: YAML Diagram
 author: unknown
 ---
 _Add a diagram description_.

@@ -1,6 +1,6 @@
 ---
-name: Class
-display_name: Class Diagram
+name: REGEX
+display_name: REGEX Diagram
 author: unknown
 ---
 _Add a diagram description_.

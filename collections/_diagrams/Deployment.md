@@ -1,5 +1,6 @@
 ---
 name: Deployment
 display_name: Deployment Diagram
+author: unknown
 ---
-Add diagram description.
+_Add a diagram description_.

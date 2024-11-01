@@ -1,6 +1,6 @@
 ---
-name: Class
-display_name: Class Diagram
+name: Gantt
+display_name: Gantt Diagram
 author: unknown
 ---
 _Add a diagram description_.
