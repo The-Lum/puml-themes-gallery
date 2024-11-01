@@ -62,7 +62,7 @@ figure.image-box {
 }
 
 /*! Image Gallery Style */
-.image-gallery {
+div.image-gallery {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
@@ -109,7 +109,58 @@ figure.image-box {
 }
 
 @media print, screen and (max-width: 640px) {
-  .image-gallery {
+  div.image-gallery {
     grid-template-columns: 1fr;
   }
+}
+
+/* Table view styles */
+table.image-gallery {
+  text-align: center;
+  position: relative;
+  border-collapse: collapse;
+
+  th {
+    z-index: 5;
+  }
+
+  thead.sticky th {
+    position: sticky;
+    top: 0; /* Don't forget this, required for the stickiness */
+  }
+
+  th.sticky {
+    position: sticky;
+    left: 0; /* Don't forget this, required for the stickiness */
+  }
+
+  figure.image-box {
+    transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+    img {
+      max-width: 200px;
+      max-height: 200px;
+      object-fit: cover;
+      aspect-ratio: 4/3;
+      margin: 0;
+      padding: 0;
+      border: none;
+      z-index: 0;
+    }
+
+    &:hover {
+      transform: scale(1.75);
+      z-index: 10;
+
+      background-color: #eee;
+      border: 3px solid #bbb;
+
+      img {
+        object-fit: contain;
+        z-index: 15;
+      }
+    }
+  }
+
 }

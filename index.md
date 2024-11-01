@@ -20,16 +20,16 @@ Context:
 View all the themes
 
 * [Themes Overview](themes/index.html)
-* [View all themes in an image gallery](themes/gallery.md)
-* [View all themes in a table](themes/table.md)
-* [View all themes in a big list (classic approach)](themes/list.md)
+* [View all themes in an image gallery](themes/gallery.html)
+* [View all themes in a table](themes/table.html)
+* [View all themes in a big list (classic approach)](themes/list.html)
 
 View all the diagrams
 
 * [Diagrams Overview](diagrams/index.html)
-* [View all diagrams in an image gallery](diagrams/gallery.md)
-* [View all diagrams in a table](diagrams/table.md)
-* [View all diagrams in a big list (classic approach)](diagrams/list.md)
+* [View all diagrams in an image gallery](diagrams/gallery.html)
+* [View all diagrams in a table](diagrams/table.html)
+* [View all diagrams in a big list (classic approach)](diagrams/list.html)
 
 ### Theme-Specific Pages
 

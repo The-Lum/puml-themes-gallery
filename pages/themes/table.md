@@ -5,7 +5,7 @@ permalink: /themes/table.html
 
 {% include secondaryNavigation.html %}
 
-<table>
+<table class="image-gallery">
     <thead class="sticky">
         <tr>
             <th>Overview</th>
