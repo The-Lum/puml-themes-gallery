@@ -15,7 +15,7 @@ my @themes = <$fh_t>;
 chomp(@themes);
 
 # Input file: all the .puml file
-my @files = <collections/_diagrams/input/*.puml>;
+my @files = glob("collections/_diagrams/input/*.puml");
 
 my $h = <<EOT;
 ' Do not edit
@@ -26,16 +26,16 @@ EOT
 
 shift @themes; # Remove the first element (header) and throw it away
 foreach my $t (@themes) {
-	foreach my $f (@files) {
-		open(my $fh, '<',  $f); 
-		(my $file_no_ext = $f) =~ s/\.[^.]+$//;
-		$file_no_ext =~ s|^.*/||;
-		# Output File
-		open(my $fho, '>:encoding(UTF-8)', 'gallery/' . $file_no_ext . '-' . $t . '.puml');
-		print $fho $h;
-		while (<$fh>) {
-			$_ .= "!theme $t\n" if $. == 1;
-			print $fho $_;
-		}
-	}
+    foreach my $f (@files) {
+        open(my $fh, '<',  $f);
+        (my $file_no_ext = $f) =~ s/\.[^.]+$//;
+        $file_no_ext =~ s|^.*/||;
+        # Output File
+        open(my $fho, '>:encoding(UTF-8)', 'gallery/' . $file_no_ext . '-' . $t . '.puml');
+        print $fho $h;
+        while (<$fh>) {
+            $_ .= "!theme $t\n" if $. == 1;
+            print $fho $_;
+        }
+    }
 }

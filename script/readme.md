@@ -67,5 +67,5 @@ style a fill:#047b04
 b["auto-generated (not directly modifiable)"]
 style b fill:#660044
 c[PlantUML dependance]
-style c fill:#fbbd16 
+style c fill:#fbbd16
 ````

@@ -39,7 +39,7 @@ Or jump directly to any of the pages dedicated to each theme.
 
 * Go to [{{ theme.display_name }}]({{ theme.url }}) page
   {{ theme.excerpt }}
-  
+
 {% endfor %}
 
 ### Diagram-Specific Pages
@@ -50,5 +50,5 @@ Or jump directly to any of the pages dedicated to each diagram.
 
 * Go to [{{ diagram.display_name }}]({{ diagram.url }}) page
   {{ diagram.excerpt }}
- 
+
 {% endfor %}

@@ -10,7 +10,7 @@ use warnings;
 use autodie;
 
 # Input file: all the .puml file
-my @files = <collections/_diagrams/input/*.puml>;
+my @files = glob("collections/_diagrams/input/*.puml");
 
 # Output file
 open(my $fho, '>:encoding(UTF-8)', 'script/diagrams.csv');

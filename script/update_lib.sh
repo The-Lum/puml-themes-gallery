@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir -p lib
 #rm lib/plantuml.jar
 #curl -L https://sourceforge.net/projects/plantuml/files/plantuml.jar/download -o lib/plantuml.jar
