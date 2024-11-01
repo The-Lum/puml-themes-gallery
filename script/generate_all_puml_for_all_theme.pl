@@ -2,7 +2,7 @@
 # Author: The-Lum
 # Script: 
 # The script generates all the `.puml` files (from all `.puml` files of the `input` directory)
-# for all PlantUML theme (from `_data/themes.csv`)
+# for all PlantUML theme (from `script/themes.csv`)
 # on the `gallery` directory
 
 use strict;
@@ -10,12 +10,12 @@ use warnings;
 use autodie;
 
 # Theme list
-open(my $fh_t, '<', '_data/themes.csv');
+open(my $fh_t, '<', 'script/themes.csv');
 my @themes = <$fh_t>;
 chomp(@themes);
 
 # Input file: all the .puml file
-my @files = <input/*.puml>;
+my @files = <collections/_diagrams/input/*.puml>;
 
 my $h = <<EOT;
 ' Do not edit

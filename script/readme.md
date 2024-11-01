@@ -10,8 +10,8 @@ v[lib/plantuml-tag.md]
 end
 
 subgraph _data
-at[_data/themes.csv]
-if[_data/diagrams.csv]
+at[script/themes.csv]
+if[script/diagrams.csv]
 end
 
 subgraph gallery
