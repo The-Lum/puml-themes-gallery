@@ -3,7 +3,7 @@ permalink: /themes/table.html
 ---
 ## Themes Table View
 
-{% include subNavigation.html %}
+{% include secondaryNavigation.html %}
 
 <table>
     <thead class="sticky">

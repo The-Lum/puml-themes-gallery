@@ -4,7 +4,7 @@ permalink: /themes/list.html
 ## List of all the Themes
 {: .no_toc}
 
-{% include subNavigation.html %}
+{% include secondaryNavigation.html %}
 
 **Themes on this Page:**
 

@@ -1,10 +1,10 @@
 ---
-permalink: /themes/
+permalink: /themes/index.html
 ---
 ## Themes Overview
 {: .no_toc}
 
-{% include subNavigation.html %}
+{% include secondaryNavigation.html %}
 
 **Themes on this Page:**
 

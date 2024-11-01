@@ -35,23 +35,31 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "diagrams"
-    values:
-      layout: "diagram"
-  - scope:
-      path: ""
       type: "themes"
     values:
       layout: "theme"
+      kind: "themes"
+  - scope:
+      path: "pages/themes"
+    values:
+      layout: "default"
+      kind: "themes"
   - scope:
       path: ""
-      type: "posts"
+      type: "diagrams"
     values:
-      layout: "post"
+      layout: "diagram"
+      kind: "diagrams"
+  - scope:
+      path: "pages/diagrams"
+    values:
+      layout: "default"
+      kind: "diagrams"
   - scope:
       path: ""
     values:
       layout: "default"
+      kind: "other"
 
 # Build settings
 #theme: jekyll-theme-dinky

@@ -1,18 +1,27 @@
 - name: Home
+  kind: other
   link: /
 - name: Themes Overview
-  link: /themes/
+  kind: themes
+  link: /themes/index.html
 #- name: Themes List
+#  kind: themes
 #  link: /themes/list.html
 #- name: Themes Table
+#  kind: themes
 #  link: /themes/table.html
 #- name: Themes Gallery
+#  kind: themes
 #  link: /themes/gallery.html
 - name: Diagrams Overview
-  link: /diagrams/
+  kind: diagrams
+  link: /diagrams/index.html
 #- name: Diagrams List
+#  kind: diagrams
 #  link: /diagrams/list.html
 #- name: Diagrams Table
+#  kind: diagrams
 #  link: /diagrams/table.html
 #- name: Diagrams Gallery
+#  kind: diagrams
 #  link: /diagrams/gallery.html

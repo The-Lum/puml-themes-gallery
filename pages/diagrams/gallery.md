@@ -4,7 +4,7 @@ permalink: /diagrams/gallery.html
 ## Diagrams Gallery
 {: .no_toc}
 
-{% include subNavigation.html %}
+{% include secondaryNavigation.html %}
 
 **Diagrams on this Page:**
 

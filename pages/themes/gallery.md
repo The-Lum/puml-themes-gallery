@@ -4,7 +4,7 @@ permalink: /themes/gallery.html
 ## Themes Gallery
 {: .no_toc}
 
-{% include subNavigation.html %}
+{% include secondaryNavigation.html %}
 
 **Themes on this Page:**
 

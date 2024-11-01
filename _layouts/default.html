@@ -19,7 +19,7 @@
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
 
-        <nav>
+        <nav class="main" aria-label="main navigation">
             <ul>
                 {% include mainNavigation.html %}
                 {% if site.show_downloads %}
@@ -27,6 +27,9 @@
                 <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
                 {% endif %}
                 <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li>
+                {% if site.github.is_user_page %}
+                <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
+                {% endif %}
             </ul>
         </nav>
 
@@ -35,12 +38,6 @@
             This project is maintained by
             <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
         </p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        <ul>
-            <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-        </ul>
         {% endif %}
     </header>
 

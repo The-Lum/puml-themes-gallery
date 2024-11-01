@@ -4,7 +4,7 @@ permalink: /diagrams/list.html
 ## List of all the Diagrams
 {: .no_toc}
 
-{% include subNavigation.html %}
+{% include secondaryNavigation.html %}
 
 **Diagrams on this Page:**
 

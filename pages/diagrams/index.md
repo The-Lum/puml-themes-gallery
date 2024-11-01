@@ -1,10 +1,10 @@
 ---
-permalink: /diagrams/
+permalink: /diagrams/index.html
 ---
 ## Diagrams Overview
 {: .no_toc}
 
-{% include subNavigation.html %}
+{% include secondaryNavigation.html %}
 
 **Diagrams on this Page:**
 

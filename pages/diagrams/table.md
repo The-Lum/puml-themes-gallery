@@ -3,7 +3,7 @@ permalink: /diagrams/table.html
 ---
 ## Diagrams Table View
 
-{% include subNavigation.html %}
+{% include secondaryNavigation.html %}
 
 <table>
     <thead class="sticky">

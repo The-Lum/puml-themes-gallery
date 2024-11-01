@@ -4,8 +4,36 @@
 @import "{{ site.theme }}";
 
 /* Navigation Styles */
-.currentPage {
-  font-weight: bold;
+nav {
+  &.main {
+    a.currentKind {
+      font-style: italic;
+    }
+  }
+  &.secondary {
+    ul {
+      display: flex;
+      list-style: none;
+      padding: 0;
+    }
+
+    li:not(:last-child):after {
+      content: "|";
+      padding: 7px;
+    }
+
+    a:hover, a:focus {
+      color: #036;
+    }
+
+    a:active {
+      color: #333;
+    }
+
+    [aria-current=page] {
+      font-weight: bold;
+    }
+  }
 }
 
 /*! Image Gallery Style */
