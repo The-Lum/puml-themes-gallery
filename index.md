@@ -15,18 +15,40 @@ Context:
 - Output image format: SVG
 - PlantUML version: {% include_relative lib/plantuml-tag.md %}
 
----
+### Overview Pages
 
 View all the themes
 
-* [Themes Overview](themes/)
-* [All Themes (list view)](themes/list.md)
-* [All Themes (table view)](themes/table.md)
-* [All Themes (gallery view)](themes/gallery.md)
+* [Themes Overview](themes/index.html)
+* [View all themes in an image gallery](themes/gallery.md)
+* [View all themes in a table](themes/table.md)
+* [View all themes in a big list (classic approach)](themes/list.md)
 
 View all the diagrams
 
-* [Diagrams Overview)](diagrams/)
-* [All Diagrams (list view)](diagrams/list.md)
-* [All Diagrams (table view)](diagrams/table.md)
-* [All Diagrams (gallery view)](diagrams/gallery.md)
+* [Diagrams Overview](diagrams/index.html)
+* [View all diagrams in an image gallery](diagrams/gallery.md)
+* [View all diagrams in a table](diagrams/table.md)
+* [View all diagrams in a big list (classic approach)](diagrams/list.md)
+
+### Theme-Specific Pages
+
+Or jump directly to any of the pages dedicated to each theme.
+
+{% for theme in site.themes %}
+
+* Go to [{{ theme.display_name }}]({{ theme.url }}) page
+  {{ theme.excerpt }}
+  
+{% endfor %}
+
+### Diagram-Specific Pages
+
+Or jump directly to any of the pages dedicated to each diagram.
+
+{% for diagram in site.diagrams %}
+
+* Go to [{{ diagram.display_name }}]({{ diagram.url }}) page
+  {{ diagram.excerpt }}
+ 
+{% endfor %}
