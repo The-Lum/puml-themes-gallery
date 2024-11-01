@@ -5,6 +5,7 @@ author: Bharat Rajagopalan
 ---
 Carbon Gray theme — using the Gray palette from https://carbondesignsystem.com.
 
-Author: Bharat Rajagopalan
+Author
+: Bharat Rajagopalan
 
 Copyright © 2022 by Bharat Rajagopalan

@@ -5,4 +5,5 @@ author: Matthew Leather
 ---
 A purple on grey theme based on the Mimeograph reproduction process https://en.wikipedia.org/wiki/Mimeograph.
 
-Original Author: Matthew Leather
+Original Author
+: Matthew Leather

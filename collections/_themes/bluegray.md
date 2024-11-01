@@ -5,6 +5,7 @@ author: Brett Schwarz
 ---
 A blue-gray theme.
 
-Author: Brett Schwarz
+Author
+: Brett Schwarz
 
 Copyright © 2019 by Brett Schwarz

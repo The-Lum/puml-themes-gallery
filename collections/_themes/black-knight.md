@@ -6,7 +6,8 @@ author: Brett Schwarz
 Colors representing the black knight.
 Looks best on a dark background.
 
-Author: Brett Schwarz
+Author
+: Brett Schwarz
 
 Assume if the background is transparent, that the background will be dark for this theme.
 

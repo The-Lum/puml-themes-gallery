@@ -5,4 +5,5 @@ author: Matthew Leather
 ---
 A simple black on white theme (with blue hyperlinks).
 
-Original Author: Matthew Leather
+Original Author
+: Matthew Leather
