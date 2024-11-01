@@ -37,9 +37,15 @@ nav {
   }
 }
 
+/* TOC styles */
+ul#markdown-toc {
+  column-count: 3;
+}
+
 /* Image Style outside of Gallery View */
 figure.image-box {
   img {
+    background-color: #f7f7f7;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -64,7 +70,7 @@ figure.image-box {
   margin-bottom: 22px;
 
   figure.image-box {
-    background-color: #ccc;
+    background-color: #eee;
     border: 1px solid #0D0D0D;
     border-radius: 4px;
 
@@ -96,7 +102,7 @@ figure.image-box {
     }
 
     figcaption {
-      background-color: darken(#ccc, 15%);
+      background-color: #ccc;
       text-align: left;
     }
   }
