@@ -15,7 +15,7 @@ permalink: /themes/gallery.html
 
 ### {{ theme.display_name }}
 
-Go to the page for the [{{ theme.display_name }}]({{ theme.url }}).
+Go to the page for the [{{ theme.display_name }}]({{ theme.url | relative_url }}).
 
 <div class ="image-gallery">
 
@@ -30,6 +30,6 @@ Go to the page for the [{{ theme.display_name }}]({{ theme.url }}).
 
 </div>
 
-Go to the page for the [{{ theme.display_name }}]({{ theme.url }}).
+Go to the page for the [{{ theme.display_name }}]({{ theme.url | relative_url }}).
 
 {% endfor %}

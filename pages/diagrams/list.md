@@ -15,7 +15,7 @@ permalink: /diagrams/list.html
 
 ### {{ diagram.display_name }}
 
-Go to the page for the [{{ diagram.display_name }}]({{ diagram.url }})
+Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_url }})
 
 {% for theme in site.themes %}
 
@@ -28,6 +28,6 @@ Go to the page for the [{{ diagram.display_name }}]({{ diagram.url }})
 
 {% endfor %}
 
-Go to the page for the [{{ diagram.display_name }}]({{ diagram.url }})
+Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_url }})
 
 {% endfor %}

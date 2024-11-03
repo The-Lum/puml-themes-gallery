@@ -6,12 +6,12 @@
 
     <a class="menu-item{% if page.kind== item.kind %} currentKind{% endif %}"
             aria-current="page"
-            href="{{ item.link }}">{{ item.name }}</a>
+            href="{{ item.link | relative_url }}">{{ item.name }}</a>
 
 {% else %}
 
     <a class="menu-item{% if page.kind== item.kind %} currentKind{% endif %}"
-            href="{{ item.link }}">{{ item.name }}</a>
+            href="{{ item.link | relative_url }}">{{ item.name }}</a>
 
 {% endif %}
 
