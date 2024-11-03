@@ -1,2 +1,2 @@
 collections/_diagrams/input/*.puml linguist-detectable
-gallery/*.puml -linguist-detectable
+gallery/themed-input/*.puml -linguist-detectable

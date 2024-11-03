@@ -30,7 +30,7 @@ foreach my $t (@themes) {
         (my $file_no_ext = $f) =~ s/\.[^.]+$//;
         $file_no_ext =~ s|^.*/||;
         # Output File
-        open(my $fho, '>:encoding(UTF-8)', 'gallery/' . $file_no_ext . '-' . $t . '.puml');
+        open(my $fho, '>:encoding(UTF-8)', 'gallery/themed-input/' . $file_no_ext . '-' . $t . '.puml');
         print $fho $h;
         while (<$fh>) {
             $_ .= "!theme $t\n" if $. == 1;

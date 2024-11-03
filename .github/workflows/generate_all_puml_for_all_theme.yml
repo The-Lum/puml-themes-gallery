@@ -17,9 +17,9 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run `generate_all_puml_for_all_theme.pl`
         run: |
-          mkdir -p gallery
+          mkdir -p gallery/themed-input
           perl -w script/generate_all_puml_for_all_theme.pl
-      # Runs  Commit the changes, if any
+      # Runs Commit the changes, if any
       - name: Commit the changes, if any
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
