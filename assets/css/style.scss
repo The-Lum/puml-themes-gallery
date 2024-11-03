@@ -1,0 +1,165 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Navigation Styles */
+nav {
+  &.main {
+    a.currentKind {
+      font-style: italic;
+    }
+  }
+
+  &.secondary {
+    ul {
+      display: flex;
+      list-style: none;
+      padding: 0;
+    }
+
+    li:not(:last-child):after {
+      content: "|";
+      padding: 7px;
+    }
+
+    a:hover, a:focus {
+      color: #036;
+    }
+
+    a:active {
+      color: #333;
+    }
+
+    [aria-current=page] {
+      font-weight: bold;
+    }
+  }
+}
+
+/* TOC styles */
+ul#markdown-toc {
+  column-count: 3;
+}
+
+/* Image Style outside of Gallery View */
+figure.image-box {
+  img {
+    background-color: #f7f7f7;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  figcaption {
+    padding: 6px;
+    text-align: center;
+  }
+
+  &.with-caption img {
+    margin-bottom: 0;
+  }
+}
+
+/*! Image Gallery Style */
+div.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+
+  margin-bottom: 22px;
+
+  figure.image-box {
+    background-color: #eee;
+    border: 1px solid #0D0D0D;
+    border-radius: 4px;
+
+    transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+    &:hover {
+      transform: scale(1.75);
+      z-index: 10;
+
+      img {
+        object-fit: contain;
+      }
+    }
+
+    a {
+      display: block;
+    }
+
+    img {
+      width: 100%;
+      object-fit: cover;
+      aspect-ratio: 4/3;
+      margin: 0;
+      padding: 0;
+      border: none;
+      border-top-left-radius: 4px;
+      border-top-right-radius: 4px;
+    }
+
+    figcaption {
+      background-color: #ccc;
+      text-align: left;
+    }
+  }
+}
+
+@media print, screen and (max-width: 640px) {
+  div.image-gallery {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Table view styles */
+table.image-gallery {
+  text-align: center;
+  position: relative;
+  border-collapse: collapse;
+
+  th {
+    z-index: 5;
+  }
+
+  thead.sticky th {
+    position: sticky;
+    top: 0; /* Don't forget this, required for the stickiness */
+  }
+
+  th.sticky {
+    position: sticky;
+    left: 0; /* Don't forget this, required for the stickiness */
+  }
+
+  figure.image-box {
+    transform: scale(1);
+    transition: all 0.3s ease-in-out;
+
+    img {
+      max-width: 200px;
+      max-height: 200px;
+      object-fit: cover;
+      aspect-ratio: 4/3;
+      margin: 0;
+      padding: 0;
+      border: none;
+      z-index: 0;
+    }
+
+    &:hover {
+      transform: scale(1.75);
+      z-index: 10;
+
+      background-color: #eee;
+      border: 3px solid #bbb;
+
+      img {
+        object-fit: contain;
+        z-index: 15;
+      }
+    }
+  }
+}

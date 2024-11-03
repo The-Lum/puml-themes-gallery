@@ -1,0 +1,76 @@
+@startuml
+hide empty members
+abstract class AbstractList
+abstract AbstractCollection
+interface List
+interface Collection
+
+List <|-- AbstractList : AList to List <
+Collection "many" <|-- "many" AbstractCollection : AColl to Coll
+
+Collection <|- List : List to Coll
+AbstractCollection <|- AbstractList : AList to AColl
+AbstractList <|-- ArrayList : ArList to AList
+note on link: this is a note\non link
+
+class ArrayList {
+  Object[] elementData
+  size()
+}
+
+enum TimeUnit {
+  DAYS
+  HOURS
+  MINUTES
+}
+
+annotation SuppressWarnings
+SuppressWarnings +-l-> ArrayList
+annotation Annotation  <<stereotype>> {
+  annotation with members
+  String foo()
+  String bar()
+}
+
+class Dummy {
+ -field1
+ #field2
+ ~method1()
+ +method2()
+ {static} String id
+ {abstract} void methods()
+}
+
+note "This is a floating note" as N1
+
+N1 #-u-> AbstractCollection
+N1 -r-> ArrayList
+
+package foo_frame <<Frame>> {
+  class Foo<? extends Element> {
+    int si ze()
+  }
+}
+Foo *-- Element
+Element --() interface
+
+note right of Foo::size
+   This is a note
+end note
+
+note right of Element
+   This is a note
+end note
+
+class User <<user>> <<admin>> {
+  .. Simple Getter ..
+  + getName()
+  + getAddress()
+  .. Some setter ..
+  + setName()
+  __ private data __
+  int age
+  -- encrypted --
+  String password
+}
+@enduml

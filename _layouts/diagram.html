@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<h2>{{ page.display_name }}</h2>
+
+{% include secondaryNavigation.html %}
+
+{{ content }}
+
+<h3>Diagram Code</h3>
+
+This diagram was created from the following PlantUML code:
+
+<pre>
+    <code class="language-puml">
+{% include_relative input/{{ page.name }}.puml %}
+    </code>
+</pre>
+
+<h3>Available Themes</h3>
+
+{% for theme in site.themes %}
+
+<h4 id="{{ theme.name }}">{{ page.display_name }} shown in {{ theme.display_name }}</h4>
+
+{% capture url %}{{ theme.url }}#{{ page.name }}{% endcapture %}
+
+{% include figure.html theme=theme diagram=page url=url %}
+
+{% endfor %}

@@ -10,8 +10,8 @@ v[lib/plantuml-tag.md]
 end
 
 subgraph _data
-at[_data/themes.yml]
-if[_data/input_files.yml]
+at[script/themes.csv]
+if[script/diagrams.csv]
 end
 
 subgraph gallery
@@ -67,5 +67,5 @@ style a fill:#047b04
 b["auto-generated (not directly modifiable)"]
 style b fill:#660044
 c[PlantUML dependance]
-style c fill:#fbbd16 
+style c fill:#fbbd16
 ````

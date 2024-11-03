@@ -2,7 +2,7 @@
 # Author: The-Lum
 # Script: 
 # The script generates all the `.puml` files (from all `.puml` files of the `input` directory)
-# for all PlantUML theme (from `_data/themes.yml`)
+# for all PlantUML theme (from `script/themes.csv`)
 # on the `gallery` directory
 
 use strict;
@@ -10,12 +10,12 @@ use warnings;
 use autodie;
 
 # Theme list
-open(my $fh_t, '<', '_data/themes.yml');
+open(my $fh_t, '<', 'script/themes.csv');
 my @themes = <$fh_t>;
 chomp(@themes);
 
 # Input file: all the .puml file
-my @files = <input/*.puml>;
+my @files = glob("collections/_diagrams/input/*.puml");
 
 my $h = <<EOT;
 ' Do not edit
@@ -25,16 +25,16 @@ my $h = <<EOT;
 EOT
 
 foreach my $t (@themes) {
-	foreach my $f (@files) {
-		open(my $fh, '<',  $f); 
-		(my $file_no_ext = $f) =~ s/\.[^.]+$//;
-		$file_no_ext =~ s|^.*/||;
-		# Output File
-		open(my $fho, '>:encoding(UTF-8)', 'gallery/' . $file_no_ext . '-' . $t . '.puml');
-		print $fho $h;
-		while (<$fh>) {
-			$_ .= "!theme $t\n" if $. == 1;
-			print $fho $_;
-		}
-	}
+    foreach my $f (@files) {
+        open(my $fh, '<',  $f);
+        (my $file_no_ext = $f) =~ s/\.[^.]+$//;
+        $file_no_ext =~ s|^.*/||;
+        # Output File
+        open(my $fho, '>:encoding(UTF-8)', 'gallery/themed-input/' . $file_no_ext . '-' . $t . '.puml');
+        print $fho $h;
+        while (<$fh>) {
+            $_ .= "!theme $t\n" if $. == 1;
+            print $fho $_;
+        }
+    }
 }

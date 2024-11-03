@@ -1,0 +1,20 @@
+{% for item in site.data.mainNavigation %}
+
+<li>
+
+{% if page.url == item.link %}
+
+    <a class="menu-item{% if page.kind== item.kind %} currentKind{% endif %}"
+            aria-current="page"
+            href="{{ item.link }}">{{ item.name }}</a>
+
+{% else %}
+
+    <a class="menu-item{% if page.kind== item.kind %} currentKind{% endif %}"
+            href="{{ item.link }}">{{ item.name }}</a>
+
+{% endif %}
+
+</li>
+
+{% endfor %}
