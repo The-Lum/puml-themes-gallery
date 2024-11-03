@@ -1,6 +1,7 @@
+{%capture imageSrc %}/gallery/lightmode/{{ include.diagram.name }}-{{ include.theme.name}}.svg{% endcapture %}
 <figure class="image-box{% if include.caption %} with-caption{% endif %}">
-    <a href="{{ include.url }}">
-        <img src="../../gallery/lightmode/{{ include.diagram.name }}-{{ include.theme.name}}.svg"
+    <a href="{{ include.url | relative_url }}">
+        <img src="{{ imageSrc | relative_url }}"
                 alt="{{ include.diagram.display_name }} in {{ include.theme.display_name}}"
                 loading="lazy" />
     </a>
