@@ -98,7 +98,6 @@ exclude:
   - lib
   - script
   - README.md
-  - run.sh
   - puml-themes-gallery.iml
 
 # Excluded items can be processed by explicitly listing the directories or

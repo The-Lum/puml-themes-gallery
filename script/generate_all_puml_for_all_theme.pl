@@ -24,7 +24,6 @@ my $h = <<EOT;
 '
 EOT
 
-shift @themes; # Remove the first element (header) and throw it away
 foreach my $t (@themes) {
     foreach my $f (@files) {
         open(my $fh, '<',  $f);
