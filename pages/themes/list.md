@@ -23,10 +23,8 @@ Go to the page for the [{{ theme.display_name }}]({{ theme.url }})
 {: .no_toc}
 
 {% capture url %}{{ theme.url }}#{{ diagram.name }}{% endcapture %}
-{% capture file %}{{ diagram.name }}-{{ theme.name }}.svg{% endcapture %}
-{% capture alt %}{{ diagram.display_name }} in {{ theme.display_name }}{% endcapture %}
 
-{% include figure.html url=url file=file alt=alt %}
+{% include figure.html theme=theme diagram=diagram url=url %}
 
 {% endfor %}
 

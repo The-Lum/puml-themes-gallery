@@ -28,11 +28,11 @@ permalink: /themes/table.html
 {% for theme in site.themes %}
 
             <td>
-{% capture url %}{{ theme.url }}#{{ diagram.name }}{% endcapture %}
-{% capture file %}{{ diagram.name }}-{{ theme.name }}.svg{% endcapture %}
-{% capture alt %}{{ diagram.display_name }} in {{ theme.display_name }}{% endcapture %}
 
-{% include figure.html url=url file=file alt=alt %}
+{% capture url %}{{ theme.url }}#{{ diagram.name }}{% endcapture %}
+
+{% include figure.html theme=theme diagram=diagram url=url %}
+
             </td>
 
 {% endfor %}

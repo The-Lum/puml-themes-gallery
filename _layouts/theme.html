@@ -21,9 +21,7 @@ layout: default
 <h4 id="{{ diagram.name }}">{{ diagram.display_name }} shown in {{ page.display_name }}</h4>
 
 {% capture url %}{{ diagram.url }}#{{ page.name }}{% endcapture %}
-{% capture file %}{{ diagram.name }}-{{ page.name }}.svg{% endcapture %}
-{% capture alt %}{{ diagram.display_name }} in {{ page.display_name }}{% endcapture %}
 
-{% include figure.html url=url file=file alt=alt %}
+{% include figure.html theme=page diagram=diagram url=url %}
 
 {% endfor %}

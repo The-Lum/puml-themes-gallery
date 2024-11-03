@@ -24,9 +24,7 @@ This diagram was created from the following PlantUML code:
 <h4 id="{{ theme.name }}">{{ page.display_name }} shown in {{ theme.display_name }}</h4>
 
 {% capture url %}{{ theme.url }}#{{ page.name }}{% endcapture %}
-{% capture file %}{{ page.name }}-{{ theme.name }}.svg{% endcapture %}
-{% capture alt %}{{ page.display_name }} in {{ theme.display_name }}{% endcapture %}
 
-{% include figure.html url=url file=file alt=alt %}
+{% include figure.html theme=theme diagram=page url=url %}
 
 {% endfor %}

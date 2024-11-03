@@ -1,7 +1,7 @@
 <figure class="image-box{% if include.caption %} with-caption{% endif %}">
     <a href="{{ include.url }}">
-        <img src="/gallery/{{ include.file }}"
-                alt="{{ include.alt }}"
+        <img src="/gallery/{{ include.diagram.name }}-{{ include.theme.name}}.svg"
+                alt="{{ include.diagram.display_name }} in {{ include.theme.display_name}}"
                 loading="lazy" />
     </a>
 {% if include.caption %}

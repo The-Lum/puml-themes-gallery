@@ -22,11 +22,9 @@ Go to the page for the [{{ diagram.display_name }}]({{ diagram.url }})
 {% for theme in site.themes %}
 
 {% capture url %}{{ diagram.url }}#{{ theme.name }}{% endcapture %}
-{% capture file %}{{ diagram.name }}-{{ theme.name }}.svg{% endcapture %}
-{% capture alt %}{{ diagram.display_name }} in {{ theme.display_name }}{% endcapture %}
 {% capture caption %}{{ theme.display_name }}{% endcapture %}
 
-{% include figure.html url=url file=file alt=alt caption=caption %}
+{% include figure.html theme=theme diagram=diagram url=url caption=caption %}
 
 {% endfor %}
 

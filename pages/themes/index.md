@@ -20,10 +20,8 @@ permalink: /themes/index.html
 Go to the page for the [{{ theme.display_name }}]({{ theme.url }}).
 
 {% capture url %}{{ theme.url }}{% endcapture %}
-{% capture file %}{{ site.default_diagram.name }}-{{ theme.name }}.svg{% endcapture %}
-{% capture alt %}{{ site.default_diagram.display_name }} in {{ theme.display_name }}{% endcapture %}
 {% capture caption %}{{ site.default_diagram.display_name }} shown in {{ theme.display_name }}{% endcapture %}
 
-{% include figure.html url=url file=file alt=alt caption=caption %}
+{% include figure.html theme=theme diagram=site.default_diagram url=url caption=caption %}
 
 {% endfor %}
