@@ -13,6 +13,9 @@
 #- name: Themes Gallery
 #  kind: themes
 #  link: /themes/gallery.html
+- name: Skins Overview
+  kind: skins
+  link: /skins/index.html
 - name: Diagrams Overview
   kind: diagrams
   link: /diagrams/index.html

@@ -22,14 +22,21 @@ View all the themes
 * [Themes Overview](themes/index.html)
 * [View all themes in an image gallery](themes/gallery.html)
 * [View all themes in a table](themes/table.html)
-* [View all themes in a big list (classic approach)](themes/list.html)
+* [View all themes in a big list _(classic approach)_](themes/list.html)
 
 View all the diagrams
 
 * [Diagrams Overview](diagrams/index.html)
 * [View all diagrams in an image gallery](diagrams/gallery.html)
 * [View all diagrams in a table](diagrams/table.html)
-* [View all diagrams in a big list (classic approach)](diagrams/list.html)
+* [View all diagrams in a big list _(classic approach)_](diagrams/list.html)
+
+View all the skins
+
+* [Skins Overview](skins/index.html)
+* [View all skins in an image gallery](skins/gallery.html)
+* [View all skins in a table](skins/table.html)
+* [View all skins in a big list _(classic approach)_](skins/list.html)
 
 ### Theme-Specific Pages
 
