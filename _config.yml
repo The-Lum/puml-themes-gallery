@@ -35,6 +35,13 @@ collections:
       - collections/_themes/none.md
       - _themes/none.md
       - none.md
+  skins:
+    output: true
+    sort_by: name
+    order:
+      - collections/_skins/plantuml.md
+      - _skins/plantuml.md
+      - plantuml.md
   diagrams:
     output: true
 
