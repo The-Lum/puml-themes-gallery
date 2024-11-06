@@ -61,7 +61,7 @@ defaults:
     values:
       layout: "default"
       kind: "diagrams"
-    - scope:
+  - scope:
       path: ""
       type: "skins"
     values:
