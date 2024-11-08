@@ -44,8 +44,11 @@ collections:
       - plantuml.md
   diagrams:
     output: true
+  stdlibs:
+    output: true
 
 defaults:
+# Themes
   - scope:
       path: ""
       type: "themes"
@@ -57,6 +60,7 @@ defaults:
     values:
       layout: "default"
       kind: "themes"
+# Diagrams
   - scope:
       path: ""
       type: "diagrams"
@@ -68,6 +72,7 @@ defaults:
     values:
       layout: "default"
       kind: "diagrams"
+# Skins
   - scope:
       path: ""
       type: "skins"
@@ -79,6 +84,19 @@ defaults:
     values:
       layout: "default"
       kind: "skins"
+# Stdlibs
+  - scope:
+      path: ""
+      type: "stdlibs"
+    values:
+      layout: "stdlib"
+      kind: "stdlibs"
+  - scope:
+      path: "pages/stdlibs"
+    values:
+      layout: "default"
+      kind: "stdlibs"
+# Other
   - scope:
       path: ""
     values:

@@ -1,4 +1,4 @@
-{%capture imageSrc %}/gallery/lightmode/{{ include.diagram.name }}-{{ include.theme.name}}.svg{% endcapture %}
+{%capture imageSrc %}/gallery/lightmode/{% if page.kind=="stdlibs" %}stdlib-{% endif %}{{ include.diagram.name }}-{{ include.theme.name}}.svg{% endcapture %}
 <figure class="image-box{% if include.caption %} with-caption{% endif %}">
     <a href="{{ include.url | relative_url }}">
         <img src="{{ imageSrc | relative_url }}"

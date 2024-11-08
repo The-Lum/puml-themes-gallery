@@ -28,3 +28,6 @@
 #- name: Diagrams Gallery
 #  kind: diagrams
 #  link: /diagrams/gallery.html
+- name: Standard Libs Overview
+  kind: stdlibs
+  link: /sdtlibs/index.html
