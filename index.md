@@ -19,24 +19,24 @@ Context:
 
 View all the themes
 
-* [Themes Overview](themes/index.html)
-* [View all themes in an image gallery](themes/gallery.html)
-* [View all themes in a table](themes/table.html)
-* [View all themes in a big list _(classic approach)_](themes/list.html)
+* [Themes Overview]({% link pages/themes/index.md %})
+* [View all themes in an image gallery]({% link pages/themes/gallery.md %})
+* [View all themes in a table]({% link pages/themes/table.md %})
+* [View all themes in a big list _(classic approach)_]({% link pages/themes/list.md %})
 
 View all the diagrams
 
-* [Diagrams Overview](diagrams/index.html)
-* [View all diagrams in an image gallery](diagrams/gallery.html)
-* [View all diagrams in a table](diagrams/table.html)
-* [View all diagrams in a big list _(classic approach)_](diagrams/list.html)
+* [Diagrams Overview]({% link pages/diagrams/index.md %})
+* [View all diagrams in an image gallery]({% link pages/diagrams/gallery.md %})
+* [View all diagrams in a table]({% link pages/diagrams/table.md %})
+* [View all diagrams in a big list _(classic approach)_]({% link pages/diagrams/list.md %})
 
 View all the skins
 
-* [Skins Overview](skins/index.html)
-* [View all skins in an image gallery](skins/gallery.html)
-* [View all skins in a table](skins/table.html)
-* [View all skins in a big list _(classic approach)_](skins/list.html)
+* [Skins Overview]({% link pages/skins/index.md %})
+* [View all skins in an image gallery]({% link pages/skins/gallery.md %})
+* [View all skins in a table]({% link pages/skins/table.md %})
+* [View all skins in a big list _(classic approach)_]({% link pages/skins/list.md %})
 
 ### Theme-Specific Pages
 
