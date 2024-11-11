@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 9
 name: REGEX
 display_name: REGEX Diagram

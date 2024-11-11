@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 1
 name: UseCase
 display_name: Use Case Diagram

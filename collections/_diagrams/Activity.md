@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 3
 name: Activity
 display_name: Activity Diagram

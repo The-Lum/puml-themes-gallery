@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 6
 name: Object
 display_name: Object Diagram

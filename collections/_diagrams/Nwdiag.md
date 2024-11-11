@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 10
 name: Nwdiag
 display_name: Network Diagram

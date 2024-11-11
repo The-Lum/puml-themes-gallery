@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 8
 name: Timing
 display_name: Timing Diagram

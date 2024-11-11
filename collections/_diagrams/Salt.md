@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 11
 name: Salt
 display_name: Salt Diagram (Wireframe)

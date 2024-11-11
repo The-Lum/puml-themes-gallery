@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 15
 name: Mindmap
 display_name: Mindmap Diagram

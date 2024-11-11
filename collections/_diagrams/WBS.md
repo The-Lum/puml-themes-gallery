@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 16
 name: WBS
 display_name: Work Breakdown Structure Diagram

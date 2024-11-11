@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 7
 name: Deployment
 display_name: Deployment Diagram

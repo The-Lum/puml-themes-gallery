@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 17
 name: EBNF
 display_name: Extended Backus-Naur Form Diagram

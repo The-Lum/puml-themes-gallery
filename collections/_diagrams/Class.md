@@ -1,5 +1,5 @@
 ---
-author: PlantUML
+author: PlantUML Maintainers
 plantuml_order: 2
 name: Class
 display_name: Class Diagram

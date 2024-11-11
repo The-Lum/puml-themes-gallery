@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 13
 name: Gantt
 display_name: Gantt Chart

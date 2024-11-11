@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 19
 name: YAML
 display_name: YAML Diagram

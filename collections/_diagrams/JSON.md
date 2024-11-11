@@ -1,5 +1,5 @@
 ---
-author: unknown
+author: PlantUML Maintainers
 plantuml_order: 18
 name: JSON
 display_name: JSON Diagram
