@@ -1,5 +1,6 @@
 ---
 author: PlantUML
+plantuml_order: 2
 name: Class
 display_name: Class Diagram
 variants:
@@ -8,4 +9,9 @@ variants:
   - name: Class-Cardinality-Generic-QualifiedAssociations
     display_name: Class Diagram with Cardinality Generic QualifiedAssociations
 ---
-_Add a diagram description_.
+
+Class diagrams are designed using a syntax that mirrors those traditionally employed in programming languages.
+This resemblance fosters a familiar environment for developers,
+thereby facilitating an easier and more intuitive diagram creation process.
+
+See [PlantUML Class Diagram](https://plantuml.com/en/class-diagram) for more information.
