@@ -3,7 +3,7 @@ layout: default
 ---
 ## Welcome to the PlantUML Themes Gallery
 
-🚧 _Under construction with first public release the 2021-10-31 (using PlantUML, smetana, SVG,...)_ 🚧
+🚧 _Under construction with first public release the 2021-10-31 (using PlantUML, smetana, SVG, ...)_ 🚧
 
 Don't hesitate to post questions/remarks on the [discussion page](https://github.com/The-Lum/puml-themes-gallery/discussions).
 
@@ -11,9 +11,9 @@ Don't hesitate to post questions/remarks on the [discussion page](https://github
 
 Context:
 
-- Layout: smetana
-- Output image format: SVG
-- PlantUML version: {% include_relative lib/plantuml-tag.md %}
+- **Layout:** smetana
+- **Output image format:** SVG
+{% include_relative lib/plantuml-versions.md %}
 
 ### Overview Pages
 
