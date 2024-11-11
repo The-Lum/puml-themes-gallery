@@ -1,6 +1,9 @@
 ---
+author: unknown
 name: Mindmap
 display_name: Mindmap Diagram
-author: unknown
+variants:
+  - name: MindmapWithBoxless
+    display_name: Mindmap Diagram with Boxless
 ---
 _Add a diagram description_.

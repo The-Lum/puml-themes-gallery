@@ -1,6 +1,9 @@
 ---
+author: unknown
 name: Timing
 display_name: Timing Diagram
-author: unknown
+variants:
+  - name: TimingWithHighlight
+    display_name: Timing Diagram with Highlight
 ---
 _Add a diagram description_.
