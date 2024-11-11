@@ -1,12 +1,12 @@
 ---
 permalink: /stdlibs/index.html
 ---
-## Stdlibs Overview
+## Standard Libraries Overview
 {: .no_toc}
 
 {% include secondaryNavigation.html %}
 
-**Stdlibs on this Page:**
+**Standard Libraries on this Page:**
 
 * TOC seed list
 {:toc}

@@ -1,12 +1,12 @@
 ---
 permalink: /stdlibs/gallery.html
 ---
-## Stdlibs Gallery
+## Standard Libraries Gallery
 {: .no_toc}
 
 {% include secondaryNavigation.html %}
 
-**Stdlibs on this Page:**
+**Standard Libraries on this Page:**
 
 * TOC seed list
 {:toc}
