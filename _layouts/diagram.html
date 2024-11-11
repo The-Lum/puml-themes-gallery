@@ -24,9 +24,15 @@ This diagram was created from the following PlantUML code:
 <h4 id="{{ theme.name }}">{{ page.display_name }} shown in {{ theme.display_name }}</h4>
 
 {% capture url %}{{ theme.url }}#{{ page.name }}{% endcapture %}
+{% capture main_caption %}Main {{ page.display_name }}{% endcapture %}
 
-{% include figure.html theme=theme diagram=page url=url %}
+{% include figure.html theme=theme diagram=page url=url caption=main_caption %}
 
+{% for variant in page.variants %}
+
+{% include figure.html theme=theme diagram=variant url=url caption=variant.display_name %}
+
+{% endfor %}
 {% endfor %}
 
 <h3>Available Skins</h3>
@@ -36,7 +42,13 @@ This diagram was created from the following PlantUML code:
 <h4 id="{{ skin.name }}">{{ page.display_name }} shown in {{ skin.display_name }}</h4>
 
 {% capture url %}{{ skin.url }}#{{ page.name }}{% endcapture %}
+{% capture main_caption %}Main {{ page.display_name }}{% endcapture %}
 
-{% include figure.html theme=skin diagram=page url=url %}
+{% include figure.html theme=skin diagram=page url=url caption=main_caption %}
 
+{% for variant in page.variants %}
+
+{% include figure.html theme=skin diagram=variant url=url caption=variant.display_name %}
+
+{% endfor %}
 {% endfor %}
