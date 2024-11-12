@@ -3,7 +3,7 @@ permalink: /skins/table.html
 ---
 ## Skins Table View
 
-{% include secondaryNavigation.html %}
+{% include secondaryNavigation.liquid %}
 
 <table class="image-gallery">
     <thead class="sticky">
@@ -31,7 +31,7 @@ permalink: /skins/table.html
 
 {% capture url %}{{ skin.url }}#{{ diagram.name }}{% endcapture %}
 
-{% include figure.html theme=skin diagram=diagram url=url %}
+{% include figure.liquid theme=skin diagram=diagram url=url %}
 
             </td>
 

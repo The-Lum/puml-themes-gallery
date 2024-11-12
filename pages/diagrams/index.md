@@ -4,7 +4,7 @@ permalink: /diagrams/index.html
 ## Diagrams Overview
 {: .no_toc}
 
-{% include secondaryNavigation.html %}
+{% include secondaryNavigation.liquid %}
 
 **Diagrams on this Page:**
 
@@ -22,6 +22,6 @@ Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_ur
 {% capture url %}{{ diagram.url }}{% endcapture %}
 {% capture caption %}{{ diagram.display_name }} shown in {{ site.default_theme.display_name }}{% endcapture %}
 
-{% include figure.html theme=site.default_theme diagram=diagram url=url caption=caption %}
+{% include figure.liquid theme=site.default_theme diagram=diagram url=url caption=caption %}
 
 {% endfor %}

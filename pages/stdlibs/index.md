@@ -4,7 +4,7 @@ permalink: /stdlibs/index.html
 ## Standard Libraries Overview
 {: .no_toc}
 
-{% include secondaryNavigation.html %}
+{% include secondaryNavigation.liquid %}
 
 **Standard Libraries on this Page:**
 
@@ -22,6 +22,6 @@ Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url 
 {% capture url %}{{ stdlib.url }}{% endcapture %}
 {% capture caption %}{{ stdlib.display_name }} shown in {{ site.default_theme.display_name }}{% endcapture %}
 
-{% include figure.html theme=site.default_theme diagram=stdlib url=url caption=caption %}
+{% include figure.liquid theme=site.default_theme diagram=stdlib url=url caption=caption %}
 
 {% endfor %}

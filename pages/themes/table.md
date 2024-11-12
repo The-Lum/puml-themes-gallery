@@ -3,7 +3,7 @@ permalink: /themes/table.html
 ---
 ## Themes Table View
 
-{% include secondaryNavigation.html %}
+{% include secondaryNavigation.liquid %}
 
 <table class="image-gallery">
     <thead class="sticky">
@@ -31,7 +31,7 @@ permalink: /themes/table.html
 
 {% capture url %}{{ theme.url }}#{{ diagram.name }}{% endcapture %}
 
-{% include figure.html theme=theme diagram=diagram url=url %}
+{% include figure.liquid theme=theme diagram=diagram url=url %}
 
             </td>
 

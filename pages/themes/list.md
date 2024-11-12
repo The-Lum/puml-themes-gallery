@@ -4,7 +4,7 @@ permalink: /themes/list.html
 ## List of all the Themes
 {: .no_toc}
 
-{% include secondaryNavigation.html %}
+{% include secondaryNavigation.liquid %}
 
 **Themes on this Page:**
 
@@ -24,7 +24,7 @@ Go to the page for the [{{ theme.display_name }}]({{ theme.url | relative_url }}
 
 {% capture url %}{{ theme.url }}#{{ diagram.name }}{% endcapture %}
 
-{% include figure.html theme=theme diagram=diagram url=url %}
+{% include figure.liquid theme=theme diagram=diagram url=url %}
 
 {% endfor %}
 

@@ -3,7 +3,7 @@ layout: default
 ---
 <h2>{{ page.display_name }}</h2>
 
-{% include secondaryNavigation.html %}
+{% include secondaryNavigation.liquid %}
 
 {{ content }}
 
@@ -21,7 +21,7 @@ This diagram was created from the following PlantUML code:
 {% for theme in site.themes %}
 <h4 id="{{ theme.name }}">{{ page.display_name }} shown in {{ theme.display_name }}</h4>
 {% capture url %}{{ theme.url }}#{{ page.name }}{% endcapture %}
-{% include figure.html theme=theme diagram=page url=url %}
+{% include figure.liquid theme=theme diagram=page url=url %}
 {% endfor %}
 
 <h3>Available Skins</h3>
@@ -29,5 +29,5 @@ This diagram was created from the following PlantUML code:
 {% for skin in site.skins %}
 <h4 id="{{ skin.name }}">{{ page.display_name }} shown in {{ skin.display_name }}</h4>
 {% capture url %}{{ skin.url }}#{{ page.name }}{% endcapture %}
-{% include figure.html theme=skin diagram=page url=url %}
+{% include figure.liquid theme=skin diagram=page url=url %}
 {% endfor %}

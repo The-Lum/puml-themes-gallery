@@ -3,7 +3,7 @@ permalink: /stdlibs/table.html
 ---
 ## Standard Libraries Table View
 
-{% include secondaryNavigation.html %}
+{% include secondaryNavigation.liquid %}
 
 <table class="image-gallery">
     <thead class="sticky">
@@ -31,7 +31,7 @@ permalink: /stdlibs/table.html
 
 {% capture url %}{{ stdlib.url }}#{{ theme.name }}{% endcapture %}
 
-{% include figure.html theme=theme diagram=stdlib url=url %}
+{% include figure.liquid theme=theme diagram=stdlib url=url %}
 
             </td>
 
