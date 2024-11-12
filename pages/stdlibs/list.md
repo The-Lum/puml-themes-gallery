@@ -24,7 +24,7 @@ Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url 
 
 {% capture url %}{{ stdlib.url }}#{{ theme.name }}{% endcapture %}
 
-{% include figure.html theme=theme stdlib=stdlib url=url %}
+{% include figure.html theme=theme diagram=stdlib url=url %}
 
 {% endfor %}
 
