@@ -11,11 +11,10 @@ layout: default
 
 This diagram was created from the following PlantUML code:
 
-<pre>
-    <code class="language-puml">
-{% include_relative input/{{ page.name }}.puml %}
-    </code>
-</pre>
+{% capture my_code %}{% include_relative input/{{ page.name }}.puml %}{% endcapture %}
+{% highlight plantuml %}
+{{ my_code | strip }}
+{% endhighlight %}
 
 <h3>Available Themes</h3>
 

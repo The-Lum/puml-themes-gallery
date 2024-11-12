@@ -1,7 +1,7 @@
 ---
 permalink: /stdlibs/table.html
 ---
-## Stdlibs Table View
+## Standard Libraries Table View
 
 {% include secondaryNavigation.html %}
 
