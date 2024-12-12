@@ -3,7 +3,7 @@ layout: default
 ---
 <h2>{{ page.display_name }}</h2>
 
-{% include secondaryNavigation.html %}
+{% include secondaryNavigation.liquid %}
 
 {{ content }}
 
@@ -14,20 +14,4 @@ layout: default
     page.display_name }}</a> for the skin's implementation details.
 </p>
 
-<h3>Available Diagrams</h3>
-
-{% for diagram in site.diagrams %}
-
-<h4 id="{{ diagram.name }}">{{ diagram.display_name }} shown in {{ page.display_name }}</h4>
-
-{% capture url %}{{ diagram.url }}#{{ page.name }}{% endcapture %}
-{% capture main_caption %}Main {{ diagram.display_name }}{% endcapture %}
-
-{% include figure.html theme=page diagram=diagram url=url caption=main_caption %}
-
-{% for variant in diagram.variants %}
-
-{% include figure.html theme=page diagram=variant url=url caption=variant.display_name %}
-
-{% endfor %}
-{% endfor %}
+{% include availableDiagrams.liquid %}

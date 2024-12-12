@@ -1,2 +1,8 @@
-collections/_diagrams/input/*.puml linguist-detectable
-gallery/themed-input/*.puml -linguist-detectable
+# Detectable (for stat.)
+collections/**/input/*.puml linguist-detectable
+
+# Generated Code
+gallery/themed-input/*.puml linguist-generated
+
+# Language Highlight
+_layouts/*.html linguist-language=liquid

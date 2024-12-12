@@ -4,7 +4,7 @@ permalink: /skins/list.html
 ## List of all the skins
 {: .no_toc}
 
-{% include secondaryNavigation.html %}
+{% include secondaryNavigation.liquid %}
 
 **Skins on this Page:**
 
@@ -24,7 +24,7 @@ Go to the page for the [{{ skin.display_name }}]({{ skin.url | relative_url }})
 
 {% capture url %}{{ skin.url }}#{{ diagram.name }}{% endcapture %}
 
-{% include figure.html theme=skin diagram=diagram url=url %}
+{% include figure.liquid theme=skin diagram=diagram url=url %}
 
 {% endfor %}
 

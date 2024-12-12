@@ -1,12 +1,12 @@
 ---
 permalink: /stdlibs/gallery.html
 ---
-## Stdlibs Gallery
+## Standard Libraries Gallery
 {: .no_toc}
 
-{% include secondaryNavigation.html %}
+{% include secondaryNavigation.liquid %}
 
-**Stdlibs on this Page:**
+**Standard Libraries on this Page:**
 
 * TOC seed list
 {:toc}
@@ -24,7 +24,7 @@ Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url 
 {% capture url %}{{ stdlib.url }}#{{ theme.name }}{% endcapture %}
 {% capture caption %}{{ theme.display_name }}{% endcapture %}
 
-{% include figure.html theme=theme diagram=stdlib url=url caption=caption %}
+{% include figure.liquid theme=theme diagram=stdlib url=url caption=caption %}
 
 {% endfor %}
 

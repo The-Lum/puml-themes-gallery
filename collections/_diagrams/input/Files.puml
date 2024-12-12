@@ -1,0 +1,11 @@
+@startfiles
+/.github/
+/tests/v1/example_test.py
+/tests/__init__.py
+/doc/dummy.doc
+<note>
+this is a note
+on two lines
+</note>
+/LICENSE
+@endfiles
