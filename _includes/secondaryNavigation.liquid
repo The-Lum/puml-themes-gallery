@@ -2,17 +2,17 @@
     <ul>
 
 {% for item in site.data.secondaryNavigation %}
-{% capture real_link %}/{{ page.kind }}/{{ item.link }}{% endcapture %}
+{% capture prefixed_link %}/{{ page.kind }}/{{ item.link }}{% endcapture %}
 
         <li>
 
-{% if page.url == real_link %}
+{% if page.url == prefixed_link %}
 
             <a class="menu-item" aria-current="page" href="#">{{ item.name }}</a>
 
 {% else %}
 
-            <a class="menu-item" href="{{ item.link }}">{{ item.name }}</a>
+            <a class="menu-item" href="{{ prefixed_link | relative_url }}">{{ item.name }}</a>
 
 {% endif %}
 
