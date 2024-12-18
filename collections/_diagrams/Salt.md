@@ -11,4 +11,4 @@ It is invaluable in crafting graphical interfaces, schematics, and blueprints.
 It aids in aligning conceptual structures with visual design, emphasizing functionality over aesthetics.
 Wireframes, central to this process, are used across various disciplines.
 
-See [PlantUML Salt Diagram (Wireframe)](https://plantuml.com/en/salt) for more information.
+See [PlantUML Salt Diagram (Wireframe)](https://plantuml.com/salt) for more information.
