@@ -10,4 +10,4 @@ variants:
 
 You can use PlantUML to visualize your JSON data.
 
-See [PlantUML JSON Data](https://plantuml.com/en/json) for more information.
+See [PlantUML JSON Data](https://plantuml.com/json) for more information.
