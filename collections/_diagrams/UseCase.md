@@ -17,4 +17,4 @@ understanding how users will interact with the system.
 By providing a high-level view, use case diagrams help
 stakeholders understand the system's functionality and its potential value.
 
-See [PlantUML Use Case Diagram](https://plantuml.com/en/use-case-diagram) for more information.
+See [PlantUML Use Case Diagram](https://plantuml.com/use-case-diagram) for more information.
