@@ -14,4 +14,4 @@ variants:
 
 _Add a diagram description_.
 
-See [PlantUML Sequence Diagram](https://plantuml.com/en/sequence-diagram) for more information.
+See [PlantUML Sequence Diagram](https://plantuml.com/sequence-diagram) for more information.
