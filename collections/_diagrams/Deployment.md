@@ -13,4 +13,4 @@ showcasing how software components are deployed onto hardware.
 It provides a clear picture of the components' distribution across various nodes,
 such as servers, workstations, and devices.
 
-See [PlantUML Deployment Diagram](https://plantuml.com/en/deployment-diagram) for more information.
+See [PlantUML Deployment Diagram](https://plantuml.com/deployment-diagram) for more information.
