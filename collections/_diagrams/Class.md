@@ -14,4 +14,4 @@ Class diagrams are designed using a syntax that mirrors those traditionally empl
 This resemblance fosters a familiar environment for developers,
 thereby facilitating an easier and more intuitive diagram creation process.
 
-See [PlantUML Class Diagram](https://plantuml.com/en/class-diagram) for more information.
+See [PlantUML Class Diagram](https://plantuml.com/class-diagram) for more information.
