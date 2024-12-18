@@ -10,4 +10,4 @@ time.
 It provides a snapshot of the system's structure,
 capturing the static view of the instances present and their associations.
 
-See [PlantUML Object Diagram](https://plantuml.com/en/object-diagram) for more information.
+See [PlantUML Object Diagram](https://plantuml.com/object-diagram) for more information.
