@@ -13,4 +13,4 @@ set up, and troubleshoot networks.
 They are also essential for visualizing the structure and flow of data in a network,
 ensuring optimal performance and security.
 
-See [PlantUML Network Diagram](https://plantuml.com/en/nwdiag) for more information.
+See [PlantUML Network Diagram](https://plantuml.com/nwdiag) for more information.
