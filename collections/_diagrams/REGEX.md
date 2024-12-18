@@ -10,4 +10,4 @@ especially as they grow in complexity.
 The syntax, although efficient, can become obscure and hard to read for both beginners and experienced developers.
 This is where visual tools like PlantUML come into play.
 
-See [PlantUML Regex Diagram](https://plantuml.com/en/regex) for more information.
+See [PlantUML Regex Diagram](https://plantuml.com/regex) for more information.
