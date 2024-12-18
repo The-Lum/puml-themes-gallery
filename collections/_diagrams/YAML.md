@@ -10,4 +10,4 @@ variants:
 
 You can use PlantUML to visualize your YAML data.
 
-See [PlantUML YAML Data](https://plantuml.com/en/json) for more information.
+See [PlantUML YAML Data](https://plantuml.com/yaml) for more information.
