@@ -2,6 +2,12 @@
 
 {% for diagram in site.diagrams %}
 <h4 id="{{ diagram.name }}">{{ diagram.display_name }} shown in {{ page.display_name }}</h4>
+
 {% capture url %}{{ diagram.url }}#{{ page.name }}{% endcapture %}
-{% include figure.liquid theme=page diagram=diagram url=url %}
+{% capture main_caption %}Main {{ diagram.display_name }}{% endcapture %}
+{% include figure.liquid theme=page diagram=diagram url=url caption=main_caption %}
+
+{% for variant in diagram.variants %}
+{% include figure.liquid theme=page diagram=variant url=url caption=variant.display_name %}
+{% endfor %}
 {% endfor %}

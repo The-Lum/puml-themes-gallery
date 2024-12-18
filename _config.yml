@@ -44,6 +44,7 @@ collections:
       - plantuml.md
   diagrams:
     output: true
+    sort_by: plantuml_order
   stdlibs:
     output: true
 
@@ -131,6 +132,7 @@ show_downloads: false
 # the internal "default list".
 exclude:
   - gallery/themed-input
+  - input
   - lib
   - script
   - README.md
