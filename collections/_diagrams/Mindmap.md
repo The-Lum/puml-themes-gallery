@@ -15,4 +15,4 @@ where central ideas branch out into related topics, creating a spider-web of con
 PlantUML facilitates the creation of these diagrams with its simple, text-based syntax,
 allowing for the efficient organization and visualization of complex ideas.
 
-See [PlantUML MindMap Diagram](https://plantuml.com/en/mindmap-diagram) for more information.
+See [PlantUML MindMap Diagram](https://plantuml.com/mindmap-diagram) for more information.
