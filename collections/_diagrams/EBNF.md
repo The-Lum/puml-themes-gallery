@@ -9,4 +9,4 @@ is a type of formal syntax used to specify the structure of a programming langua
 It is an extension of Backus-Naur Form (BNF),
 which was originally developed by John Backus and Peter Naur to describe the syntax of the Algol programming language.
 
-See [PlantUML Extended Backus-Naur Form (EBNF)](https://plantuml.com/en/ebnf) for more information.
+See [PlantUML Extended Backus-Naur Form (EBNF)](https://plantuml.com/ebnf) for more information.
