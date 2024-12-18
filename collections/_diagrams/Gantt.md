@@ -16,4 +16,4 @@ allowing managers and team members to see the start and end dates of the entire 
 The diagram displays tasks or activities along a horizontal time axis,
 showing the duration of each task, their sequence, and how they overlap or run concurrently.
 
-See [PlantUML Gantt Chart](https://plantuml.com/en/gantt) for more information.
+See [PlantUML Gantt Chart](https://plantuml.com/gantt) for more information.
