@@ -10,4 +10,4 @@ more manageable components or tasks.
 It's essentially a hierarchical decomposition of the total scope of work to be carried out by the project team
 to achieve the project goals and create the required deliverables.
 
-See [PlantUML Work Breakdown Structure Diagram](https://plantuml.com/en/wbs-diagram) for more information.
+See [PlantUML Work Breakdown Structure Diagram](https://plantuml.com/wbs-diagram) for more information.
