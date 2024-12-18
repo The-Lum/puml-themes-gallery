@@ -13,4 +13,4 @@ It focuses on the chronological order of events, showcasing how different object
 Timing diagrams are especially useful in real-time systems and embedded systems
 to understand the behavior of objects throughout a given period.
 
-See [PlantUML Timing Diagram](https://plantuml.com/en/timing-diagram) for more information.
+See [PlantUML Timing Diagram](https://plantuml.com/timing-diagram) for more information.
