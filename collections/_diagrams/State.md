@@ -14,4 +14,4 @@ They are essential in modeling the dynamic behavior of systems,
 capturing how they respond to different events over time.
 State diagrams depict the system's life cycle, making it easier to understand, design, and optimize its behavior.
 
-See [PlantUML State Diagram](https://plantuml.com/en/state-diagram) for more information.
+See [PlantUML State Diagram](https://plantuml.com/state-diagram) for more information.
