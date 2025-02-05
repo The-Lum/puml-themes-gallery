@@ -1,0 +1,3 @@
+@startjson
+%get_current_theme()
+@endjson
