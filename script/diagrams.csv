@@ -6,6 +6,7 @@ Class
 Deployment
 DeploymentWithGroup
 EBNF
+Files
 Gantt
 GanttWithCalendar
 GanttWithResources
@@ -25,6 +26,7 @@ State
 StateWithPoint
 Timing
 TimingWithHighlight
+TitleBlock
 UseCase
 UseCaseWithActorStyle
 WBS
