@@ -57,10 +57,12 @@ View all the standard libraries
 Or jump directly to any of the pages dedicated to each theme.
 
 {% for theme in site.themes %}
+{% unless theme.main_variant %}
 
 * Go to [{{ theme.display_name }}]({{ theme.url | relative_url }}) page
   {{ theme.excerpt }}
 
+{% endunless %}
 {% endfor %}
 
 ### Skin-Specific Pages

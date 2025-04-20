@@ -18,6 +18,7 @@ permalink: /stdlibs/list.html
 Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url }})
 
 {% for theme in site.themes %}
+{% unless theme.main_variant %}
 
 #### {{ stdlib.display_name }} shown in {{ theme.display_name }}
 {: .no_toc}
@@ -26,6 +27,7 @@ Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url 
 
 {% include figure.liquid theme=theme diagram=stdlib url=url %}
 
+{% endunless %}
 {% endfor %}
 
 Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url }})

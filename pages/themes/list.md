@@ -12,6 +12,7 @@ permalink: /themes/list.html
 {:toc}
 
 {% for theme in site.themes %}
+{% unless theme.main_variant %}
 
 ### {{ theme.display_name }}
 
@@ -30,4 +31,5 @@ Go to the page for the [{{ theme.display_name }}]({{ theme.url | relative_url }}
 
 Go to the page for the [{{ theme.display_name }}]({{ theme.url | relative_url }})
 
+{% endunless %}
 {% endfor %}

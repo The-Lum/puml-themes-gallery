@@ -20,12 +20,14 @@ Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_ur
 <div class="image-gallery">
 
 {% for theme in site.themes %}
+{% unless theme.main_variant %}
 
 {% capture url %}{{ diagram.url }}#{{ theme.name }}{% endcapture %}
 {% capture caption %}{{ theme.display_name }}{% endcapture %}
 
 {% include figure.liquid theme=theme diagram=diagram url=url caption=caption %}
 
+{% endunless %}
 {% endfor %}
 
 </div>

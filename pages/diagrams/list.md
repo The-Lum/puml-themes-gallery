@@ -18,6 +18,7 @@ permalink: /diagrams/list.html
 Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_url }})
 
 {% for theme in site.themes %}
+{% unless theme.main_variant %}
 
 #### {{ diagram.display_name }} shown in {{ theme.display_name }}
 {: .no_toc}
@@ -26,6 +27,7 @@ Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_ur
 
 {% include figure.liquid theme=theme diagram=diagram url=url %}
 
+{% endunless %}
 {% endfor %}
 
 Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_url }})

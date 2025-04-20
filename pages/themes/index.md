@@ -12,6 +12,7 @@ permalink: /themes/index.html
 {:toc}
 
 {% for theme in site.themes %}
+{% unless theme.main_variant %}
 
 ### {{ theme.display_name }}
 
@@ -24,4 +25,5 @@ Go to the page for the [{{ theme.display_name }}]({{ theme.url | relative_url }}
 
 {% include figure.liquid theme=theme diagram=site.default_diagram url=url caption=caption %}
 
+{% endunless %}
 {% endfor %}
