@@ -7,7 +7,7 @@
 {% capture main_caption %}Main {{ diagram.display_name }}{% endcapture %}
 {% include figure.liquid theme=page diagram=diagram url=url caption=main_caption %}
 
-{% for variant in diagram.variants %}
-{% include figure.liquid theme=page diagram=variant url=url caption=variant.display_name %}
+{% for example in diagram.examples %}
+{% include figure.liquid theme=page diagram=example url=url caption=example.display_name %}
 {% endfor %}
 {% endfor %}

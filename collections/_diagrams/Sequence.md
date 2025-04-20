@@ -3,7 +3,7 @@ author: PlantUML Maintainers
 plantuml_order: 0
 name: SequenceMainExample
 display_name: Sequence Diagram
-variants:
+examples:
   - name: Sequence
     display_name: Sequence Diagram with All Participants
   - name: SequenceGroup

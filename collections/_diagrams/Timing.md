@@ -3,7 +3,7 @@ author: PlantUML Maintainers
 plantuml_order: 8
 name: Timing
 display_name: Timing Diagram
-variants:
+examples:
   - name: TimingWithHighlight
     display_name: Timing Diagram with Highlight
 ---
