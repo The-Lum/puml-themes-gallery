@@ -2,6 +2,9 @@
 name: cyborg
 display_name: cyborg Theme
 author: Brett Schwarz
+variants:
+  - name: cyborg-outline
+    display_name: cyborg Theme with an outline style
 ---
 Cyborg theme based off of the bootstrap theme of the same name https://bootswatch.com/cyborg/.
 
