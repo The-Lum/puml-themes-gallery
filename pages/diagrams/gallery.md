@@ -15,7 +15,7 @@ permalink: /diagrams/gallery.html
 
 ### {{ diagram.display_name }}
 
-Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_url }})
+{% include linkToPage.liquid diagram=diagram relation="before" %}
 
 <div class="image-gallery">
 
@@ -32,6 +32,6 @@ Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_ur
 
 </div>
 
-Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_url }})
+{% include linkToPage.liquid diagram=diagram relation="after" %}
 
 {% endfor %}

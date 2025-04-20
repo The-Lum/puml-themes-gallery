@@ -15,7 +15,7 @@ permalink: /stdlibs/list.html
 
 ### {{ stdlib.display_name }}
 
-Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url }})
+{% include linkToPage.liquid diagram=stdlib relation="before" %}
 
 {% for theme in site.themes %}
 {% unless theme.main_variant %}
@@ -30,6 +30,6 @@ Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url 
 {% endunless %}
 {% endfor %}
 
-Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url }})
+{% include linkToPage.liquid diagram=stdlib relation="after" %}
 
 {% endfor %}

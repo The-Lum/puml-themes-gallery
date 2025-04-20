@@ -1,6 +1,7 @@
 ---
 permalink: /themes/index.html
 ---
+
 ## Themes Overview
 {: .no_toc}
 
@@ -18,7 +19,7 @@ permalink: /themes/index.html
 
 {{ theme.excerpt }}
 
-Go to the page for the [{{ theme.display_name }}]({{ theme.url | relative_url }}).
+{% include linkToPage.liquid theme=theme relation="before" %}
 
 {% capture url %}{{ theme.url }}{% endcapture %}
 {% capture caption %}{{ site.default_diagram.display_name }} shown in {{ theme.display_name }}{% endcapture %}

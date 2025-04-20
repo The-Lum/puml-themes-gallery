@@ -16,7 +16,7 @@ permalink: /themes/gallery.html
 
 ### {{ theme.display_name }}
 
-Go to the page for the [{{ theme.display_name }}]({{ theme.url | relative_url }}).
+{% include linkToPage.liquid theme=theme relation="before" %}
 
 <div class ="image-gallery">
 
@@ -31,7 +31,7 @@ Go to the page for the [{{ theme.display_name }}]({{ theme.url | relative_url }}
 
 </div>
 
-Go to the page for the [{{ theme.display_name }}]({{ theme.url | relative_url }}).
+{% include linkToPage.liquid theme=theme relation="after" %}
 
 {% endunless %}
 {% endfor %}

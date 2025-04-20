@@ -17,7 +17,7 @@ permalink: /diagrams/index.html
 
 {{ diagram.excerpt }}
 
-Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_url }})
+{% include linkToPage.liquid diagram=diagram relation="before" %}
 
 {% capture url %}{{ diagram.url }}{% endcapture %}
 {% capture caption %}{{ diagram.display_name }} shown in {{ site.default_theme.display_name }}{% endcapture %}

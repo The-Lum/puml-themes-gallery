@@ -15,7 +15,7 @@ permalink: /stdlibs/gallery.html
 
 ### {{ stdlib.display_name }}
 
-Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url }})
+{% include linkToPage.liquid diagram=stdlib relation="before" %}
 
 <div class="image-gallery">
 
@@ -32,6 +32,6 @@ Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url 
 
 </div>
 
-Go to the page for the [{{ stdlib.display_name }}]({{ stdlib.url | relative_url }})
+{% include linkToPage.liquid diagram=stdlib relation="after" %}
 
 {% endfor %}

@@ -15,7 +15,7 @@ permalink: /diagrams/list.html
 
 ### {{ diagram.display_name }}
 
-Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_url }})
+{% include linkToPage.liquid diagram=diagram relation="before" %}
 
 {% for theme in site.themes %}
 {% unless theme.main_variant %}
@@ -30,6 +30,6 @@ Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_ur
 {% endunless %}
 {% endfor %}
 
-Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_url }})
+{% include linkToPage.liquid diagram=diagram relation="after" %}
 
 {% endfor %}
