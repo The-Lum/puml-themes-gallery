@@ -4,8 +4,7 @@ display_name: materia Theme with an outline style
 author: Brett Schwarz
 main_variant: materia
 variants:
-  - name: materia
-    display_name: materia Theme
+  - materia
 ---
 Materia theme based off of the bootstrap theme of the same name https://bootswatch.com/materia/.
 

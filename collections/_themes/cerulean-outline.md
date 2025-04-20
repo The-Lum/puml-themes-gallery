@@ -4,8 +4,7 @@ display_name: cerulean Theme with an outline style
 author: Brett Schwarz
 main_variant: cerulean
 variants:
-  - name: cerulean
-    display_name: cerulean Theme
+  - cerulean
 ---
 Cerulean theme based off of the bootstrap theme of the same name https://bootswatch.com/cerulean/.
 

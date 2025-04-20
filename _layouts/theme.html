@@ -22,12 +22,12 @@ layout: default
     The theme is available in different variants.
 </p>
 
-{% for variant in page.variants %}
-{% assign current_variant = site.themes | where:"name", variant.name  | first %}
+{% for variant_name in page.variants %}
+{% assign variant = site.themes | where:"name", variant_name  | first %}
 
-{% capture url %}{{ current_variant.url }}{% endcapture %}
-{% capture main_caption %}Variant {{ current_variant.display_name }}{% endcapture %}
-{% include figure.liquid theme=current_variant diagram=site.default_diagram url=url caption=main_caption %}
+{% capture url %}{{ variant.url }}{% endcapture %}
+{% capture main_caption %}Variant {{ variant.display_name }}{% endcapture %}
+{% include figure.liquid theme=variant diagram=site.default_diagram url=url caption=main_caption %}
 
 {% endfor %}
 {% endif %}
