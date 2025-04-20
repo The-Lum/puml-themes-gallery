@@ -1,7 +1,6 @@
 ---
 permalink: /themes/index.html
 ---
-
 ## Themes Overview
 {: .no_toc}
 
