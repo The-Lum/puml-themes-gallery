@@ -132,6 +132,7 @@ table.image-gallery {
   th.sticky {
     position: sticky;
     left: 0; /* Don't forget this, required for the stickiness */
+    writing-mode: sideways-lr;
   }
 
   figure.image-box {

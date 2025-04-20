@@ -8,7 +8,7 @@ permalink: /stdlibs/table.html
 <table class="image-gallery">
     <thead class="sticky">
         <tr>
-            <th>Overview</th>
+            <th></th>
 
 {% for stdlib in site.stdlibs %}
 

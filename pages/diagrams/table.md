@@ -8,7 +8,7 @@ permalink: /diagrams/table.html
 <table class="image-gallery">
     <thead class="sticky">
         <tr>
-            <th>Overview</th>
+            <th></th>
 
 {% for diagram in site.diagrams %}
 
