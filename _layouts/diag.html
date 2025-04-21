@@ -9,12 +9,33 @@ layout: default
 
 <h3>{{ layout.display_name }} Code</h3>
 
+{% if page.variants %}
+These diagram variants were created from the following PlantUML code:
+{% else %}
 This diagram was created from the following PlantUML code:
+{% endif %}
+
+<details>
+    <summary>Show code of Main {{ page.display_name }}<br>
+        or go directly to <a href="{{ site.github.repository_url }}/blob/main/collections/_{{ page.kind }}/input/{{ page.name }}.puml" target="_blank">{{ page.name }}.puml on GitHub</a></summary>
 
 {% capture my_code %}{% include_relative input/{{ page.name }}.puml %}{% endcapture %}
 {% highlight plantuml %}
 {{ my_code | strip }}
 {% endhighlight %}
+</details>
+
+{% for variant in page.variants %}
+<details>
+    <summary>Show code of {{ variant.display_name }}<br>
+        or go directly to <a href="{{ site.github.repository_url }}/blob/main/collections/_{{ page.kind }}/input/{{ variant.name }}.puml" target="_blank">{{ variant.name }}.puml on GitHub</a></summary>
+
+{% capture my_code %}{% include_relative input/{{ variant.name }}.puml %}{% endcapture %}
+{% highlight plantuml %}
+{{ my_code | strip }}
+{% endhighlight %}
+</details>
+{% endfor %}
 
 <h3>Available Themes</h3>
 

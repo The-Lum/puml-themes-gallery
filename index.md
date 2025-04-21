@@ -26,31 +26,31 @@ Context:
 
 View all the themes
 
-* [Themes Overview]({{ site.baseurl }}/{% link pages/themes/index.md %})
-* [View all themes in an image gallery]({{ site.baseurl }}/{% link pages/themes/gallery.md %})
-* [View all themes in a table]({{ site.baseurl }}/{% link pages/themes/table.md %})
-* [View all themes in a big list _(classic approach)_]({{ site.baseurl }}/{% link pages/themes/list.md %})
+* [Themes Overview]({{ site.baseurl }}{% link pages/themes/index.md %})
+* [View all themes in an image gallery]({{ site.baseurl }}{% link pages/themes/gallery.md %})
+* [View all themes in a table]({{ site.baseurl }}{% link pages/themes/table.md %})
+* [View all themes in a big list _(classic approach)_]({{ site.baseurl }}{% link pages/themes/list.md %})
 
 View all the skins
 
-* [Skins Overview]({{ site.baseurl }}/{% link pages/skins/index.md %})
-* [View all skins in an image gallery]({{ site.baseurl }}/{% link pages/skins/gallery.md %})
-* [View all skins in a table]({{ site.baseurl }}/{% link pages/skins/table.md %})
-* [View all skins in a big list _(classic approach)_]({{ site.baseurl }}/{% link pages/skins/list.md %})
+* [Skins Overview]({{ site.baseurl }}{% link pages/skins/index.md %})
+* [View all skins in an image gallery]({{ site.baseurl }}{% link pages/skins/gallery.md %})
+* [View all skins in a table]({{ site.baseurl }}{% link pages/skins/table.md %})
+* [View all skins in a big list _(classic approach)_]({{ site.baseurl }}{% link pages/skins/list.md %})
 
 View all the diagrams
 
-* [Diagrams Overview]({{ site.baseurl }}/{% link pages/diagrams/index.md %})
-* [View all diagrams in an image gallery]({{ site.baseurl }}/{% link pages/diagrams/gallery.md %})
-* [View all diagrams in a table]({{ site.baseurl }}/{% link pages/diagrams/table.md %})
-* [View all diagrams in a big list _(classic approach)_]({{ site.baseurl }}/{% link pages/diagrams/list.md %})
+* [Diagrams Overview]({{ site.baseurl }}{% link pages/diagrams/index.md %})
+* [View all diagrams in an image gallery]({{ site.baseurl }}{% link pages/diagrams/gallery.md %})
+* [View all diagrams in a table]({{ site.baseurl }}{% link pages/diagrams/table.md %})
+* [View all diagrams in a big list _(classic approach)_]({{ site.baseurl }}{% link pages/diagrams/list.md %})
  
 View all the standard libraries
 
-* [Standard Libraries Overview]({{ site.baseurl }}/{% link pages/stdlibs/index.md %})
-* [View all standard libraries in an image gallery]({{ site.baseurl }}/{% link pages/stdlibs/gallery.md %})
-* [View all standard libraries in a table]({{ site.baseurl }}/{% link pages/stdlibs/table.md %})
-* [View all standard libraries in a big list _(classic approach)_]({{ site.baseurl }}/{% link pages/stdlibs/list.md %})
+* [Standard Libraries Overview]({{ site.baseurl }}{% link pages/stdlibs/index.md %})
+* [View all standard libraries in an image gallery]({{ site.baseurl }}{% link pages/stdlibs/gallery.md %})
+* [View all standard libraries in a table]({{ site.baseurl }}{% link pages/stdlibs/table.md %})
+* [View all standard libraries in a big list _(classic approach)_]({{ site.baseurl }}{% link pages/stdlibs/list.md %})
 
 ### Theme-Specific Pages
 
