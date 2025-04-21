@@ -21,6 +21,7 @@ permalink: /stdlibs/table.html
     <tbody>
 
 {% for theme in site.themes %}
+{% unless theme.main_variant %}
 
         <tr>
             <th class="sticky">{{ theme.name }}</th>
@@ -39,6 +40,7 @@ permalink: /stdlibs/table.html
 
         </tr>
 
+{% endunless %}
 {% endfor %}
 
     </tbody>

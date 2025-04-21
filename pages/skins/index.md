@@ -17,7 +17,7 @@ permalink: /skins/index.html
 
 {{ skin.excerpt }}
 
-Go to the page for the [{{ skin.display_name }}]({{ skin.url | relative_url }}).
+{% include linkToPage.liquid theme=skin relation="before" %}
 
 {% capture url %}{{ skin.url }}{% endcapture %}
 {% capture caption %}{{ site.default_diagram.display_name }} shown in {{ skin.display_name }}{% endcapture %}

@@ -1,0 +1,29 @@
+{% if include.relation == "after" %}
+{% assign orientation = "above" %}
+{% else %}
+{% assign orientation = "below" %}
+{% endif %}
+
+{% if include.theme %}
+{% assign linked_theme = include.theme %}
+
+{% if linked_theme.variants %}
+This theme is available in multiple variants.
+Only the main variant is shown {{ orientation }}.
+Go to the [{{ linked_theme.display_name }}]({{ linked_theme.url | relative_url }}) page to see all the theme's variants
+and all available diagrams
+{% else %}
+Go to the [{{ linked_theme.display_name }}]({{ linked_theme.url | relative_url }}) page to see all available diagrams.
+{% endif %}
+{% endif %}
+
+{% if include.diagram %}
+{% assign linked_diagram = include.diagram %}
+
+{% if linked_diagram.examples %}
+There are multiple examples available for this diagram type.
+Go to the [{{ linked_diagram.display_name }}]({{ linked_diagram.url | relative_url }}) page to see all examples in all themes.
+{% else %}
+Go to the [{{ linked_diagram.display_name }}]({{ linked_diagram.url | relative_url }}) page to see this diagram in all themes.
+{% endif %}
+{% endif %}

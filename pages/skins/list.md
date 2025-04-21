@@ -15,7 +15,7 @@ permalink: /skins/list.html
 
 ### {{ skin.display_name }}
 
-Go to the page for the [{{ skin.display_name }}]({{ skin.url | relative_url }})
+{% include linkToPage.liquid theme=skin relation="before" %}
 
 {% for diagram in site.diagrams %}
 
@@ -28,6 +28,6 @@ Go to the page for the [{{ skin.display_name }}]({{ skin.url | relative_url }})
 
 {% endfor %}
 
-Go to the page for the [{{ skin.display_name }}]({{ skin.url | relative_url }})
+{% include linkToPage.liquid theme=skin relation="after" %}
 
 {% endfor %}

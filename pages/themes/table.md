@@ -11,9 +11,11 @@ permalink: /themes/table.html
             <th>Overview</th>
 
 {% for theme in site.themes %}
+{% unless theme.main_variant %}
 
             <th>{{ theme.name }}</th>
 
+{% endunless %}
 {% endfor %}
 
         </tr>
@@ -26,6 +28,7 @@ permalink: /themes/table.html
             <th class="sticky">{{ diagram.name }}</th>
 
 {% for theme in site.themes %}
+{% unless theme.main_variant %}
 
             <td>
 
@@ -35,6 +38,7 @@ permalink: /themes/table.html
 
             </td>
 
+{% endunless %}
 {% endfor %}
 
         </tr>

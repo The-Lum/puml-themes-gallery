@@ -3,7 +3,7 @@ author: PlantUML Maintainers
 plantuml_order: 5
 name: State
 display_name: State Diagram
-variants:
+examples:
   - name: StateWithPoint
     display_name: State Diagram with Point
 ---

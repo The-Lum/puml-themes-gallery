@@ -2,6 +2,8 @@
 name: sketchy
 display_name: sketchy Theme
 author: Brett Schwarz
+variants:
+  - sketchy-outline
 ---
 superhero theme based off of the bootstrap theme of the same name https://bootswatch.com/sketchy/.
 

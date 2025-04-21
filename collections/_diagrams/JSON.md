@@ -3,7 +3,7 @@ author: PlantUML Maintainers
 plantuml_order: 18
 name: JSON
 display_name: JSON Diagram
-variants:
+examples:
   - name: JSONwithHighlight
     display_name: JSON Diagram with Highlight
 ---

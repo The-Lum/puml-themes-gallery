@@ -3,7 +3,7 @@ author: PlantUML Maintainers
 plantuml_order: 13
 name: Gantt
 display_name: Gantt Chart
-variants:
+examples:
   - name: GanttWithCalendar
     display_name: Gantt Chart with Calendar
   - name: GanttWithResources

@@ -15,7 +15,7 @@ permalink: /skins/gallery.html
 
 ### {{ skin.display_name }}
 
-Go to the page for the [{{ skin.display_name }}]({{ skin.url | relative_url }}).
+{% include linkToPage.liquid theme=skin relation="before" %}
 
 <div class ="image-gallery">
 
@@ -30,6 +30,6 @@ Go to the page for the [{{ skin.display_name }}]({{ skin.url | relative_url }}).
 
 </div>
 
-Go to the page for the [{{ skin.display_name }}]({{ skin.url | relative_url }}).
+{% include linkToPage.liquid theme=skin relation="after" %}
 
 {% endfor %}

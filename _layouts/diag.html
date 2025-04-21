@@ -46,8 +46,8 @@ This diagram was created from the following PlantUML code:
 {% capture main_caption %}Main {{ page.display_name }}{% endcapture %}
 {% include figure.liquid theme=theme diagram=page url=url caption=main_caption %}
 
-{% for variant in page.variants %}
-{% include figure.liquid theme=theme diagram=variant url=url caption=variant.display_name %}
+{% for example in page.examples %}
+{% include figure.liquid theme=theme diagram=example url=url caption=example.display_name %}
 {% endfor %}
 {% endfor %}
 
@@ -60,7 +60,7 @@ This diagram was created from the following PlantUML code:
 {% capture main_caption %}Main {{ page.display_name }}{% endcapture %}
 {% include figure.liquid theme=skin diagram=page url=url caption=main_caption %}
 
-{% for variant in page.variants %}
-{% include figure.liquid theme=skin diagram=variant url=url caption=variant.display_name %}
+{% for example in page.examples %}
+{% include figure.liquid theme=skin diagram=example url=url caption=example.display_name %}
 {% endfor %}
 {% endfor %}

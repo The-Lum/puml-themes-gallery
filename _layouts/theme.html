@@ -10,8 +10,26 @@ layout: default
 <h3>Theme Code</h3>
 
 <p>
-    See <a href="https://github.com/plantuml/plantuml/tree/master/themes/puml-theme-{{ page.name }}.puml">PlantUML themes {{
+    See <a href="https://github.com/plantuml/plantuml/blob/master/src/main/resources/themes/puml-theme-{{ page.name }}.puml">PlantUML
+    themes {{
     page.display_name }}</a> for the theme's implementation details.
 </p>
+
+{% if page.variants %}
+<h3>Other Theme Variants</h3>
+
+<p>
+    This theme is available in different variants.
+</p>
+
+{% for variant_name in page.variants %}
+{% assign variant = site.themes | where:"name", variant_name  | first %}
+
+{% capture url %}{{ variant.url }}{% endcapture %}
+{% capture main_caption %}Variant {{ variant.display_name }}{% endcapture %}
+{% include figure.liquid theme=variant diagram=site.default_diagram url=url caption=main_caption %}
+
+{% endfor %}
+{% endif %}
 
 {% include availableDiagrams.liquid %}

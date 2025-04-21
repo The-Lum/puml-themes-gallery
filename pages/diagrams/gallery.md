@@ -15,21 +15,23 @@ permalink: /diagrams/gallery.html
 
 ### {{ diagram.display_name }}
 
-Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_url }})
+{% include linkToPage.liquid diagram=diagram relation="before" %}
 
 <div class="image-gallery">
 
 {% for theme in site.themes %}
+{% unless theme.main_variant %}
 
 {% capture url %}{{ diagram.url }}#{{ theme.name }}{% endcapture %}
 {% capture caption %}{{ theme.display_name }}{% endcapture %}
 
 {% include figure.liquid theme=theme diagram=diagram url=url caption=caption %}
 
+{% endunless %}
 {% endfor %}
 
 </div>
 
-Go to the page for the [{{ diagram.display_name }}]({{ diagram.url | relative_url }})
+{% include linkToPage.liquid diagram=diagram relation="after" %}
 
 {% endfor %}

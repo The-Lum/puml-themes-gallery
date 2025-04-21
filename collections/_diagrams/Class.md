@@ -3,7 +3,7 @@ author: PlantUML Maintainers
 plantuml_order: 2
 name: Class
 display_name: Class Diagram
-variants:
+examples:
   - name: Class-Abstract-Interface
     display_name: Class Diagram with Abstract Interface
   - name: Class-Cardinality-Generic-QualifiedAssociations

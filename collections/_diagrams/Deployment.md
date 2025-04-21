@@ -3,7 +3,7 @@ author: PlantUML Maintainers
 plantuml_order: 7
 name: Deployment
 display_name: Deployment Diagram
-variants:
+examples:
   - name: DeploymentWithGroup
     display_name: Deployment Diagram with Group
 ---

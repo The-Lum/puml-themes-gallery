@@ -12,16 +12,18 @@ permalink: /themes/index.html
 {:toc}
 
 {% for theme in site.themes %}
+{% unless theme.main_variant %}
 
 ### {{ theme.display_name }}
 
 {{ theme.excerpt }}
 
-Go to the page for the [{{ theme.display_name }}]({{ theme.url | relative_url }}).
+{% include linkToPage.liquid theme=theme relation="before" %}
 
 {% capture url %}{{ theme.url }}{% endcapture %}
 {% capture caption %}{{ site.default_diagram.display_name }} shown in {{ theme.display_name }}{% endcapture %}
 
 {% include figure.liquid theme=theme diagram=site.default_diagram url=url caption=caption %}
 
+{% endunless %}
 {% endfor %}
