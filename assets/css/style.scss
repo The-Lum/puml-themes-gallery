@@ -77,15 +77,6 @@ div.image-gallery {
     transform: scale(1);
     transition: all 0.3s ease-in-out;
 
-    &:hover {
-      transform: scale(1.75);
-      z-index: 10;
-
-      img {
-        object-fit: contain;
-      }
-    }
-
     a {
       display: block;
     }
@@ -104,6 +95,15 @@ div.image-gallery {
     figcaption {
       background-color: #ccc;
       text-align: left;
+    }
+
+    &:hover {
+      transform: scale(1.75);
+      z-index: 10;
+
+      img {
+        object-fit: contain;
+      }
     }
   }
 }
