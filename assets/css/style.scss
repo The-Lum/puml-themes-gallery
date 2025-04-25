@@ -140,6 +140,7 @@ table.image-gallery {
     transition: all 0.3s ease-in-out;
     position: relative;
     left: 0;
+    border: 3px solid #ccc;
 
     img {
       max-width: 200px;
