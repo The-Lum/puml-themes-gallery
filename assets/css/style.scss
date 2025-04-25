@@ -138,6 +138,8 @@ table.image-gallery {
   figure.image-box {
     transform: scale(1);
     transition: all 0.3s ease-in-out;
+    position: relative;
+    left: 0;
 
     img {
       max-width: 200px;
