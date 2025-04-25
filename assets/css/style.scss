@@ -143,8 +143,8 @@ table.image-gallery {
     border: 3px solid #ccc;
 
     img {
-      max-width: 200px;
-      max-height: 200px;
+      width: 200px;
+      height: 200px;
       object-fit: cover;
       aspect-ratio: 4/3;
       margin: 0;
