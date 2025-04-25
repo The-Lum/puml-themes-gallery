@@ -12,7 +12,7 @@ permalink: /skins/table.html
 
 {% for skin in site.skins %}
 
-            <th>{{ skin.name }}</th>
+            <th><a href="{{ skin.url }}">{{ skin.name }}</a></th>
 
 {% endfor %}
 
@@ -23,7 +23,7 @@ permalink: /skins/table.html
 {% for diagram in site.diagrams %}
 
         <tr>
-            <th class="sticky">{{ diagram.name }}</th>
+            <th class="sticky"><a href="{{ diagram.url }}">{{ diagram.name }}</a></th>
 
 {% for skin in site.skins %}
 

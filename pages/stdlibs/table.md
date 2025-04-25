@@ -12,7 +12,7 @@ permalink: /stdlibs/table.html
 
 {% for stdlib in site.stdlibs %}
 
-            <th>{{ stdlib.name }}</th>
+            <th><a href="{{ stdlib.url }}">{{ stdlib.name }}</a></th>
 
 {% endfor %}
 
@@ -23,7 +23,7 @@ permalink: /stdlibs/table.html
 {% for theme in site.themes %}
 
         <tr>
-            <th class="sticky">{{ theme.name }}</th>
+            <th class="sticky"><a href="{{ theme.url }}">{{ theme.name }}</a></th>
 
 {% for stdlib in site.stdlibs %}
 

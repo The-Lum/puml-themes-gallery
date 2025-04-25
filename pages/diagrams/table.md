@@ -12,7 +12,7 @@ permalink: /diagrams/table.html
 
 {% for diagram in site.diagrams %}
 
-            <th>{{ diagram.name }}</th>
+            <th><a href="{{ diagram.url }}">{{ diagram.name }}</a></th>
 
 {% endfor %}
 
@@ -23,7 +23,7 @@ permalink: /diagrams/table.html
 {% for theme in site.themes %}
 
         <tr>
-            <th class="sticky">{{ theme.name }}</th>
+            <th class="sticky"><a href="{{ theme.url }}">{{ theme.name }}</a></th>
 
 {% for diagram in site.diagrams %}
 
