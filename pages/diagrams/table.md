@@ -8,11 +8,11 @@ permalink: /diagrams/table.html
 <table class="image-gallery">
     <thead class="sticky">
         <tr>
-            <th>Overview</th>
+            <th></th>
 
 {% for diagram in site.diagrams %}
 
-            <th>{{ diagram.name }}</th>
+            <th><a href="{{ diagram.url }}">{{ diagram.name }}</a></th>
 
 {% endfor %}
 
@@ -24,7 +24,7 @@ permalink: /diagrams/table.html
 {% unless theme.main_variant %}
 
         <tr>
-            <th class="sticky">{{ theme.name }}</th>
+            <th class="sticky"><a href="{{ theme.url }}">{{ theme.name }}</a></th>
 
 {% for diagram in site.diagrams %}
 

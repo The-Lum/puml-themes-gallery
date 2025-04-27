@@ -8,11 +8,11 @@ permalink: /stdlibs/table.html
 <table class="image-gallery">
     <thead class="sticky">
         <tr>
-            <th>Overview</th>
+            <th></th>
 
 {% for stdlib in site.stdlibs %}
 
-            <th>{{ stdlib.name }}</th>
+            <th><a href="{{ stdlib.url }}">{{ stdlib.name }}</a></th>
 
 {% endfor %}
 
@@ -24,7 +24,7 @@ permalink: /stdlibs/table.html
 {% unless theme.main_variant %}
 
         <tr>
-            <th class="sticky">{{ theme.name }}</th>
+            <th class="sticky"><a href="{{ theme.url }}">{{ theme.name }}</a></th>
 
 {% for stdlib in site.stdlibs %}
 

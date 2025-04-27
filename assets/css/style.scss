@@ -77,15 +77,6 @@ div.image-gallery {
     transform: scale(1);
     transition: all 0.3s ease-in-out;
 
-    &:hover {
-      transform: scale(1.75);
-      z-index: 10;
-
-      img {
-        object-fit: contain;
-      }
-    }
-
     a {
       display: block;
     }
@@ -104,6 +95,15 @@ div.image-gallery {
     figcaption {
       background-color: #ccc;
       text-align: left;
+    }
+
+    &:hover {
+      transform: scale(1.75);
+      z-index: 10;
+
+      img {
+        object-fit: contain;
+      }
     }
   }
 }
@@ -132,15 +132,19 @@ table.image-gallery {
   th.sticky {
     position: sticky;
     left: 0; /* Don't forget this, required for the stickiness */
+    writing-mode: sideways-lr;
   }
 
   figure.image-box {
     transform: scale(1);
     transition: all 0.3s ease-in-out;
+    position: relative;
+    left: 0;
+    border: 3px solid #ccc;
 
     img {
-      max-width: 200px;
-      max-height: 200px;
+      width: 200px;
+      height: 200px;
       object-fit: cover;
       aspect-ratio: 4/3;
       margin: 0;
