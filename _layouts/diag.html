@@ -9,8 +9,8 @@ layout: default
 
 <h3>{{ layout.display_name }} Code</h3>
 
-{% if page.variants %}
-These diagram variants were created from the following PlantUML code:
+{% if page.examples %}
+These diagram examples were created from the following PlantUML code:
 {% else %}
 This diagram was created from the following PlantUML code:
 {% endif %}
@@ -25,12 +25,12 @@ This diagram was created from the following PlantUML code:
 {% endhighlight %}
 </details>
 
-{% for variant in page.variants %}
+{% for example in page.examples %}
 <details>
-    <summary>Show code of {{ variant.display_name }}<br>
-        or go directly to <a href="{{ site.github.repository_url }}/blob/main/collections/_{{ page.kind }}/input/{{ variant.name }}.puml" target="_blank">{{ variant.name }}.puml on GitHub</a></summary>
+    <summary>Show code of {{ example.display_name }}<br>
+        or go directly to <a href="{{ site.github.repository_url }}/blob/main/collections/_{{ page.kind }}/input/{{ example.name }}.puml" target="_blank">{{ example.name }}.puml on GitHub</a></summary>
 
-{% capture my_code %}{% include_relative input/{{ variant.name }}.puml %}{% endcapture %}
+{% capture my_code %}{% include_relative input/{{ example.name }}.puml %}{% endcapture %}
 {% highlight plantuml %}
 {{ my_code | strip }}
 {% endhighlight %}
