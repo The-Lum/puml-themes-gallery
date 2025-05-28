@@ -8,12 +8,12 @@ permalink: /themes/table.html
 <table class="image-gallery">
     <thead class="sticky">
         <tr>
-            <th>Overview</th>
+            <th></th>
 
 {% for theme in site.themes %}
 {% unless theme.main_variant %}
 
-            <th>{{ theme.name }}</th>
+            <th><a href="{{ theme.url }}">{{ theme.name }}</a></th>
 
 {% endunless %}
 {% endfor %}
@@ -25,7 +25,7 @@ permalink: /themes/table.html
 {% for diagram in site.diagrams %}
 
         <tr>
-            <th class="sticky">{{ diagram.name }}</th>
+            <th class="sticky"><a href="{{ diagram.url }}">{{ diagram.name }}</a></th>
 
 {% for theme in site.themes %}
 {% unless theme.main_variant %}
