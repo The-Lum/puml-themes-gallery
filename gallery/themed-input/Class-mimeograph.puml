@@ -11,6 +11,7 @@ circle          circle
 ()              circle_short_form
 class           class
 class           class_stereo  <<stereotype>>
+dataclass       dataclass
 diamond         diamond
 <>              diamond_short_form
 entity          entity
@@ -19,6 +20,7 @@ exception       exception
 interface       interface
 metaclass       metaclass
 protocol        protocol
+record          record
 stereotype      stereotype
 struct          struct
 @enduml
