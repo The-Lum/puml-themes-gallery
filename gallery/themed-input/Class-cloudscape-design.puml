@@ -4,6 +4,7 @@
 '
 @startuml
 !theme cloudscape-design
+hide empty members
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

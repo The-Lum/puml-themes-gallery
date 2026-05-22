@@ -4,6 +4,7 @@
 '
 @startuml
 !theme aws-orange
+hide empty members
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

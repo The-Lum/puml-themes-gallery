@@ -4,6 +4,7 @@
 '
 @startuml
 !theme black-knight
+hide empty members
 abstract        abstract
 abstract class  "abstract class"
 annotation      annotation

@@ -1,5 +1,6 @@
 Activity
 Board
+Chart
 Class-Abstract-Interface
 Class-Cardinality-Generic-QualifiedAssociations
 Class
@@ -16,6 +17,7 @@ Mindmap
 MindmapWithBoxless
 Nwdiag
 Object
+Packetdiag
 REGEX
 Salt
 Sequence
