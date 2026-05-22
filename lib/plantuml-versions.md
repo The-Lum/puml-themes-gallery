@@ -1,1 +1,1 @@
-- **PlantUML version:** 1.2026.5beta1 / 7f1c47d [2026-05-22 18:17:57 UTC]
+- **PlantUML version:** 1.2026.5beta1 / 04fcf5c [2026-05-22 20:02:37 UTC]
